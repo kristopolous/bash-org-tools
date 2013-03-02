@@ -1,3 +1,6 @@
+<img src=http://i.imgur.com/XcU3mOH.gif>
+http://www.youtube.com/watch?v=a6Pr4jOPZTg
+
 # Bash.org scrape
 
 Bash.org is basically the aphorisms of the internet and as far as I'm concerned it has languished.
@@ -23,10 +26,3 @@ in tools/ there is
 
 In fortune/ this database is there.
 
-## Demo
-
-Here's the fortune engine being run over watch:
-
-<img src=http://i.imgur.com/XcU3mOH.gif>
-
-And here it is on youtube: http://www.youtube.com/watch?v=a6Pr4jOPZTg
