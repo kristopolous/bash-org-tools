@@ -5,7 +5,7 @@ MINSCORE=500
 
 # First create the sqlite3 db with the python script
 
-#./to-mysql.py
+#./to-sqlite3.py
 
 # now create a fortune 'db' using all quotes above a certain threshhold
 
