@@ -12,5 +12,5 @@ Each quote is a result of a `links -dump` command and has the following format:
 For instance:
 
     #5273 +(30077)- [X]
-    &lt;erno&gt; hm. I've lost a machine.. literally _lost_. it responds to ping, it works completely, I just can't figure out where in my apartment it is.
+    <erno> hm. I've lost a machine.. literally _lost_. it responds to ping, it works completely, I just can't figure out where in my apartment it is.
 
