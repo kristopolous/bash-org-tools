@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Minimum score to include
-MINSCORE=200
+MINSCORE=500
 
 # First create the sqlite3 db with the python script
 
-./to-mysql.py
+#./to-mysql.py
 
 # now create a fortune 'db' using all quotes above a certain threshhold
 

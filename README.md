@@ -14,3 +14,11 @@ For instance:
     #5273 +(30077)- [X]
     <erno> hm. I've lost a machine.. literally _lost_. it responds to ping, it works completely, I just can't figure out where in my apartment it is.
 
+## Goodies
+
+in tools/ there is
+
+ * a program that creates an SQLite3 database out of the quotes
+ * a script that creates a fortune(6) database from this database with a minimum threshhold.
+
+In fortune/ this database is there.
