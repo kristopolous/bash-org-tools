@@ -22,3 +22,11 @@ in tools/ there is
  * a script that creates a fortune(6) database from this database with a minimum threshhold.
 
 In fortune/ this database is there.
+
+## Demo
+
+Here's the fortune engine being run over watch:
+
+<img src=http://i.imgur.com/XcU3mOH.gif>
+
+And here it is on youtube: http://www.youtube.com/watch?v=a6Pr4jOPZTg
