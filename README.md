@@ -2,7 +2,7 @@
 
 Bash.org is basically the aphorisms of the internet and as far as I'm concerned it has languished.
 
-This is a scrape of bash.org taken on March 1, 2013.  It has all the approved quotes - the removed quotes in txt format.
+This is a scrape, database, and fortune file of bash.org taken on March 1, 2013.  It has all the approved quotes - the removed quotes in txt format.
 
 Each quote is a result of a `links -dump` command and has the following format:
 
