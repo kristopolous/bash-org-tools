@@ -1,0 +1,4 @@
+#8362 +(780)- [X]
+<TTX> How do I change my name in here?...
+<Naoki> type /nick yournick
+*** TTX is now known as yournick

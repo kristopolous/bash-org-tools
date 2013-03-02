@@ -1,0 +1,3 @@
+#730921 +(298)- [X]
+<error27> Assertion: token is identifier of typedef or open "(" of arg list of typedef'd pointer to function
+<error27> programmers always wonder why people punch them in the neck

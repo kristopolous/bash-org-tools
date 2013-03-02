@@ -1,0 +1,4 @@
+#851971 +(1930)- [X]
+<Crucial> whats a quick way to push ipconfig /release, ipconfig /renew to 50 or
+so workstations
+<Mo> cycle power to the building

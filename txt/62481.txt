@@ -1,0 +1,13 @@
+#62481 +(775)- [X]
+<haz3l> Anyone wanna do a wakeup call for me?
+<haz3l> I need someone to wake me up in 6 hours
+<LaserGuidedBunnyRabbit> haz3l: /timer 1 21600 /beep 39482034
+<haz3l> really?
+<LaserGuidedBunnyRabbit> really
+<haz3l> Would that owrk?
+<LaserGuidedBunnyRabbit> yep
+<haz3l> :D
+<haz3l> lets try 60 seconds
+<haz3l> OMG THE BEEEEEPAGE
+<haz3l> MAKE IT STOPPP
+<haz3l> LGBR HELP

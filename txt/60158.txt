@@ -1,0 +1,7 @@
+#60158 +(3)- [X]
+<[P-G]Secret[-SGC-]> <Harm> anyone have an example ipfilter config they're willing to share?
+<[P-G]Secret[-SGC-]> #linux
+<[P-G]Secret[-SGC-]> lo
+<[P-G]Secret[-SGC-]> l
+<Hat> <[P-G]Secret[-SGC-]> how do I save a linux file again
+<[P-G]Secret[-SGC-]> lol fuck you

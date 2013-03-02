@@ -1,0 +1,5 @@
+#106566 +(402)- [X]
+<ehk> anyone know what "PXE-E61: Media test failure, check cable" mean
+<sta-hi> ehk: it means that your PXE-E61 failed
+<sta-hi> due to a meida test failure
+<sta-hi> you should check your cable

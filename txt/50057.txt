@@ -1,0 +1,13 @@
+#50057 +(31)- [X]
+<prebullem> can I use F'(x)=[(f'(x)g(x) - f(x)g'(x)]/g(x)^2 to integrate (4-x*sqrt(x))/(2x^2) and call it F'(x) then find F(x)?
+*** [p]-chan (fun@cpe-178-101.valp.net) has joined #math
+<emul8or> prebullem HOW MANY FUCKING TIMES DO I HAVE TO TELL YOU HOW TO DO THE PROBLEM?
+<emul8or> not to mention that i already told you that your goddamn crackpot idea doesn't work
+<Meta> looking at the denominator, g(x) would be sqrt(2x), g(x) and f'(x) have to be constants
+<Meta> so no, and just use the fact that (a+b)/c = a/c + b/c and the power rule
+<emul8or> exactly
+<emul8or> as i've already told him twice
+<Meta> heh
+<prebullem> well
+<prebullem> I don't understand why it doesn't work
+<emul8or> because you pulled the idea straight out of you know where

@@ -1,0 +1,3 @@
+#769678 +(134)- [X]
+<+Torne> slackware isn't a desktop, it's just a fairytale for naughty children
+<+Torne> disable unneeded services in inetd.conf or slackware will get you

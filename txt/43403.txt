@@ -1,0 +1,9 @@
+#43403 +(91)- [X]
+<eurotrash> ok, wouldn't '/bind ^w next' bind ctrl-w to next window?
+<eurotrash> heh
+<eurotrash> err, I just u||bou||d my || key
+<eurotrash> by mistake
+<eurotrash> this sucks
+<IceKarma> eurotrash: because there are several things that start with "next"
+<IceKarma> eurotrash: just saying 'next' on its own isn't enough
+<eurotrash> heh, IceKarma must teach me this bi||d key stuff

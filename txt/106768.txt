@@ -1,0 +1,5 @@
+#106768 +(139)- [X]
+< GrandTheft> What would be an example of an iptables rule that would allow anything and everything to come into the computer?
+< tewmten> ehm.. iptables -f perhaps?
+< GrandTheft> hmm let me try that
+| GrandTheft [Grand@68.16.40.90] quit #slackware [Read error: 104 (Connection reset by peer)]

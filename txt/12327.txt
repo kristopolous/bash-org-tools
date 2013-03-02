@@ -1,0 +1,9 @@
+#12327 +(232)- [X]
+<@madragoran> then i couldn't find the buslogic module
+<@madragoran> so i went and recompiled my kernel
+<@madragoran> still couldn't find it
+<@madragoran> oh
+<@madragoran> there it is - BusLogic
+<@madragoran> fucking hell
+<@madragoran> since when are module names capitalized?
+<@madragoran> BusLogic and NVidia think they are hot shit

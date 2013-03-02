@@ -1,0 +1,2 @@
+#582005 +(2338)- [X]
+* andy Quit (Quit: Your Mom is so dumb that she tried to minimize a 12 variable function to a minimal sum of products expression using a karnaugh map instead of the Quine-McCluskey Algorithm.)

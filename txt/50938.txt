@@ -1,0 +1,4 @@
+#50938 +(241)- [X]
+<RichiH> you could always use netbsd if you want maximum security
+<RichiH> ppl are gonna nmap you and see that it is a netbsd box
+<RichiH> so they will think "that's a propped-up toaster anyway, no use hacking it" and you are safe

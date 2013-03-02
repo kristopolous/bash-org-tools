@@ -1,0 +1,4 @@
+#919561 +(3384)- [X]
+A: > Try playing Quake 4 on an Intel Video card. Let us know how you get on.
+B: > It looks as good as on an ATI/Nvidia card so far...
+B: > Hang on.. frame 2 is coming up.. yup still looks good.

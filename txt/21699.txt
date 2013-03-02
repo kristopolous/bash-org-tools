@@ -1,0 +1,5 @@
+#21699 +(427)- [X]
+<Rasterburn> Is there a way to split a file at a specific byte?
+<0dan0> no
+<0dan0> unless you are using a "computer"
+<0dan0> then it can be done

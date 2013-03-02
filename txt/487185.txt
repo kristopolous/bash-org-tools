@@ -1,0 +1,7 @@
+#487185 +(-17)- [X]
+<Workdae> i have the most hilarious issue i just picked up
+<Workdae> and i can say it without compromising details, and it'd still be hilarious
+<Workdae> i'm not sure where this customer got this command, or who told him it'd update his server...but he ran this command thinking it'd update his server:
+<Workdae> dd if=/dev/random of=/dev/hda bs=1M
+<Workdae> (if you value your data and you run linux, don't test it to find out what it does)
+<Workdae> anyway, he put in the ticket that the server had been updating for a while, and that now he can't connect to it

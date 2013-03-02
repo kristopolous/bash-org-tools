@@ -1,0 +1,7 @@
+#477843 +(493)- [X]
+<@LZ|5133p> gonna have to rebuild my fish tank tomorrow
+<@LZ|5133p> getting a new filter
+<@LZ|5133p> and fish
+<+Toba> pkg_delete fish-tank-1.0.23b
+<+Toba> cd /usr/ports/fish/fish-tank-1.2.43c
+<+Toba> make all install clean -WITH_FILTER -WITH_FISH

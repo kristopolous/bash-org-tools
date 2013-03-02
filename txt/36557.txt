@@ -1,0 +1,3 @@
+#36557 +(186)- [X]
+<ljlane> I need to do a non-greedy scan on a few gigs of data for a pattern containing hex and some text. Ideas?
+<RichiH> ljlane: suicide?

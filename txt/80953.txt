@@ -1,0 +1,7 @@
+#80953 +(535)- [X]
+<Aemon> so what do you do? network security?
+<Dark_Knight> Information security/Network security
+<Aemon> cool
+<Aemon> i'm a lowly webdesigner/developer
+<Dark_Knight> although having IRC on my box at work is a major violation of the security policy
+<Dark_Knight> but fuck it, I wrote it

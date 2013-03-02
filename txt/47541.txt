@@ -1,0 +1,13 @@
+#47541 +(60)- [X]
+<somebodyelse> The original message was received at Wed, 20 Nov 2002 21:07:42 -0600
+<somebodyelse> from miaqfl-as-2-ip-6.atlantic.net [209.208.60.37]
+<somebodyelse>    ----- The following addresses had permanent fatal errors -----
+<somebodyelse> <email@domain.com>
+<somebodyelse>     (reason: 550 5.7.1 <email@domain.com>... relay attempt failed)
+<somebodyelse>    ----- Transcript of session follows -----
+<somebodyelse> ... while talking to mail.seekeywest.com.:
+<somebodyelse> >>> RCPT To:<email@domain.com>
+<somebodyelse> <<< 550 5.7.1 <email@domain.com>... relay attempt failed
+<somebodyelse> 550 5.1.1 <email@domain.com>... User unknown
+<somebodyelse> why do i get that?
+<dnky> because, no one would bother to email "email@domain.com"

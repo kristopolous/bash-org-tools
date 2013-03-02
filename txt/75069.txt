@@ -1,0 +1,5 @@
+#75069 +(125)- [X]
+<K-sPecial> i'm trying to fork a server connection for every client that connects
+<K-sPecial> although i dont want to writ 200 forks down my main perl script
+<fxn> K-sPecial: you can limit your childs if you want
+<rastakid> fxn: By using protection you mean?

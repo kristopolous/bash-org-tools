@@ -1,0 +1,6 @@
+#284014 +(919)- [X]
+<Max> I went to donate some money to bash.org today
+<Max> I clicked the Paypal Donate button, and it comes up with the message:
+<Max> Bash.org Paypal Donation attempt #56489 pending
+<Max> *two minutes later*
+<Max> Bash.org Paypal Donation attempt #56489 rejected

@@ -1,0 +1,4 @@
+#15970 +(477)- [X]
+*** Now talking in #clubsi.com
+*** Topic is 'I hate Linux because it makes me type "man mount"'
+*** Set by Arctil on Wed Jul 10 16:27:12

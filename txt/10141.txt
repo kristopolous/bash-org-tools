@@ -1,0 +1,8 @@
+#10141 +(26)- [X]
+<Mr_CAD> let's try a different encoding..
+<Mr_CAD> hehe ANSI
+<Mr_CAD> !translate en_zh test
+<CCU-Bot> TRANSLATING... ONE MOMENT, PLEASE
+<CCU-Bot>  BABEL&nbsp;FISH&nbsp;&nbsp; The Web is full of suprises. Questions? Check out our FAQs.
+<Mr_CAD> lol
+<Mr_CAD> well, obviously it doesn't take ANSI :)

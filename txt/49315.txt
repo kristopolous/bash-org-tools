@@ -1,0 +1,6 @@
+#49315 +(120)- [X]
+<Nerd> IE closed while I was logging in and now when I try to open it, it triggers a fatal exception.
+<MikeyPain> hmmm
+<Nerd> I really don't want to be forced into using the AOL browser, damn it.
+<MikeyPain> Does it say "Click Yes if you have a small penis?" and then won't let you click no?
+<Nerd> Exactly.

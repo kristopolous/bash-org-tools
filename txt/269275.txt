@@ -1,0 +1,2 @@
+#269275 +(496)- [X]
+<CoryS> You know it's a bad sign when you call ISP support to change some dns servers around and they ask if the ip address you just gave them was a phone number or IP address.

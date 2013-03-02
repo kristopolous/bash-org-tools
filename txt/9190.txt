@@ -1,0 +1,4 @@
+#9190 +(532)- [X]
+<heyyohey> Im having a lot of lag here. i cant answer the questions in time
+<Damarr> Pressing Alt+F4 should help. It stops the client sending useless information to the server
+*** heyyohey has quit IRC (Quit: Client exited.)

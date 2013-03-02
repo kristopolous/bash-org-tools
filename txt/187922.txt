@@ -1,0 +1,4 @@
+#187922 +(492)- [X]
+* sipr has joined #winprog
+<sipr> Where can I find information on dynamic data exchange?
+<drano> 1994

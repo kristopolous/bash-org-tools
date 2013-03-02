@@ -1,0 +1,10 @@
+#33557 +(24)- [X]
+<pmitros> In Europe, is the convention 100C or 100 [little 0 degree symbol] C for expressing temperature?
+<st2> pmitros: That can lead to a lot of confusion
+<pmitros> st2: What do you mean?
+<st2> pmitros: "Bake your turkey at 800C for 20min"
+* RelDrgn notes that nobody bakes turkey at 800dF either :P
+<pmitros> st2: I'm wondering if you include the little superscript o. No. It'd be a little bit cooler.
+<pmitros> In LaTeX format, is it 100C or 100^oC?
+<st2> 100$^o$C
+<TigerSun> I'd bake Cyprus ar 2000C

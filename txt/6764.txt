@@ -1,0 +1,3 @@
+#6764 +(276)- [X]
+<dbaker> pine4 came out recently, by the way.
+<dbaker> A customer called me a "fucking unix admin nazi" for not having pine4 installed the day it came out... :)

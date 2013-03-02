@@ -1,0 +1,5 @@
+#524062 +(2600)- [X]
+3:pixelsoft> GHB? Don't you go to school?
+3:GHB> Today is Saturday
+3:pixelsoft> It's Friday
+GHB left arena

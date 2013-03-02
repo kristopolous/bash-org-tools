@@ -1,0 +1,2 @@
+#52302 +(190)- [X]
+<ClosedGL> tar -xzf willy.gz;touch muh_woody;head -n 1 && mount /cho/momma && echo >$1 "Harder!\n";dd if=/dev/beans of=/cho/momma/face count=1 bs=spoonfull && umount /cho/momma && sleep 15.

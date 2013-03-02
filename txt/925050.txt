@@ -1,0 +1,7 @@
+#925050 +(3541)- [X]
+< Andys> oh dear
+< Andys> in ruby, symbols are represented with a prepended colon
+< Andys> eg.   :flag
+< Andys> so some guy tshirt that said ":sex"
+< Andys> which everyone at railscamp knew meant "Sex symbol"
+< Andys> he wore it until someone pointed out that to non-rubyists it said "Colon sex"

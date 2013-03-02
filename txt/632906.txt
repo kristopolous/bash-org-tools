@@ -1,0 +1,5 @@
+#632906 +(3704)- [X]
+<bloodmaster> this guy keeps sending me notices, how do i send them back?????
+<`Trust`> ./notice <nick> <message>
+<bloodmaster> ty!
+<bloodmaster> ./notice <Tommyboy872> <hello tommy, my name is john i am from michigan im 16! Im 5 foot 11 inch tall, you sound cute n we should talk more often ok??>

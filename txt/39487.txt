@@ -1,0 +1,4 @@
+#39487 +(130)- [X]
+<skermajo> hi all! how do I make it so an ordinary user can shutdown, reboot etc ??
+<Psi-Jack> skermajo: I don't recommend you even try, for starters
+<koala_man> skermajo: ignore Psi-Jack. hey, could I get a shell? :p

@@ -1,0 +1,2 @@
+#6611 +(159)- [X]
+<@meiso> he was trying to secure his server and made the root filesystem un-writeable

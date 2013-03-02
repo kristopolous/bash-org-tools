@@ -1,0 +1,7 @@
+#90156 +(226)- [X]
+<steelcap> anyone here ever used NetUseAdd() in delphi?
+[Mr2001] never heard of it.
+[Mr2001] sounds like a commie function to me. are you a red?
+<steelcap> fuck no
+<GoonyBird> heh
+<GoonyBird> UniteWorkers() is a commie function

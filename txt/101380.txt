@@ -1,0 +1,3 @@
+#101380 +(117)- [X]
+<Admrlcrow> what are some good switches for extracting a rar archives on a linux box, i'm using unrar-3.1.3
+<pairo> Admrlcrow: -RTFM

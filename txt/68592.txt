@@ -1,0 +1,5 @@
+#68592 +(219)- [X]
+<tinker> ok i can't do my man right... i try to man man and it don't work i mean i installed from rpm by tar -RPM package.bz2 can anyone help it just crashes and says stuff to me
+<soroh6> haha
+<Threed> for help on doing your man, try gaysRus.com
+<soroh6> he can't do his man right

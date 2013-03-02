@@ -1,0 +1,6 @@
+#31147 +(11)- [X]
+<Spacey> though if I set my display variable and run an x app it'll display without a real window
+<Spacey> heh
+<sente> oh you meant x11
+<sente> i thought you meant mdma :
+<sente> hooray for x!

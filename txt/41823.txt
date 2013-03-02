@@ -1,0 +1,11 @@
+#41823 +(-88)- [X]
+* CHANFIX (services@services.int) has joined #asker-crew
+* services.int sets mode: +o CHANFIX
+* CHANFIX was kicked by A-Info (net: #asker-crew is closed)
+* A-Info sets mode: +b *!*@services.int
+* A-Virus (eiolfen@217.8.151.145) has left #asker-crew
+* A-Virus (eiolfen@217.8.151.145) has joined #asker-crew
+* CHANFIX (services@services.int) has joined #asker-crew
+* services.int sets mode: +o CHANFIX
+* CHANFIX sets mode: +o A-Virus
+* CHANFIX (services@services.int) has left #asker-crew

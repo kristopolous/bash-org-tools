@@ -1,0 +1,11 @@
+#233331 +(1187)- [X]
+<jamesd> "... being a Linux user is sort of like living in a house inhabited by a large family of carpenters and architects. Every morning when you wake up, the house is a little different. Maybe there is a new turret, or some walls have moved. Or perhaps someone has temporarily removed the floor under your bed."
+* kop_ (~2@sdn-ap-019watacoP0124.dialsprint.net) has joined #solaris
+<sheenmaster> jamesd: being an OpenServer or UNIXWare user is like living in a house that hasn't been touched by a carpenter or inspected by an architect in years.  Every morning when you wake up, the neighbor's house is a little better.  You are justing thankful that the floor hasn't fallen out from beneath your bed,
+cause you know it'll be half a decade before its fixed.
+* RainbowW has quit (Read error: 54 (Connection reset by peer))
+<sheenmaster> jamesd: being a Windows user is like living is a cheap vegas hotel.  Every morning, you wake up with a new disease.  The floor beneath your bed is likely to fall through at any time, but at least you can burn the hotel down and rebuild it or move to another room.
+<jamesd> "Memory is like gasoline. You use it up when you are running. Of course you get it all back when you reboot..."
+<jamesd>  -- Actual explanation obtained from the Micro$oft help desk.
+<sheenmaster> haha
+<sheenmaster> Damn Microsoft for coming up with better jokes than we do!

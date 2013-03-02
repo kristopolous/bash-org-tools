@@ -1,0 +1,6 @@
+#81144 +(-7)- [X]
+*** deathazre sets mode: +o Dean
+*** ChanServ sets mode: -o Dean
+<deathazre> erm :/
+<deathazre> stupid auto complete
+*** deathazre sets mode: +o deathazre

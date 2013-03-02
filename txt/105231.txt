@@ -1,0 +1,7 @@
+#105231 +(-23)- [X]
+<Tomasu> !calc 2**64
+<Mossie> calc, result '1.84467440737096e+19'
+<Tomasu> !calc 2**128
+<Mossie> calc, result '3.40282366920938e+38'
+<entheh> !calc meow
+<Mossie> calc, error 'Bareword "meow" not allowed while "strict subs" in use at (eval 15) line 1, <GEN0> line 66.

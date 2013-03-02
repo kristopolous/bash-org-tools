@@ -1,0 +1,11 @@
+#914142 +(130)- [X]
+*** pipes changed the topic of kiwicon to: - Kiwicon marketing
+department back in action!
+< rauc> good topic
+< pipes> many people in here will know what that means ;)
+< rauc> ok...I do not really know what it means, but I am glad to see
+Kiwicon run again. Let me know if I can help
+< pipes> rauc: first time we did kiwicon
+< pipes> no one wrote any stories
+< pipes> so we wrote our own
+< pipes> and kind of xss'd em into major news sites

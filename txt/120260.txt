@@ -1,0 +1,8 @@
+#120260 +(836)- [X]
+<baka-san> a byte to eat? *groan*
+<baka-san> I ate at a suhsi place once that called their pieces bits,
+you could order a 4-bit nibble, and 8-bit byte, a 16-bit halfword, or a
+32-bit word.
+<baka-san> Some of their large combo platters were named after structs.
+<baka-san> The TCP header that we ordered was very tasty.
+<billf> "you know you're in silicon valley when...."

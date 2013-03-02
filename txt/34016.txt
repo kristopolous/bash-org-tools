@@ -1,0 +1,7 @@
+#34016 +(96)- [X]
+<hash> can anyone point me towards some resources for setting up ISA NICs?
+<wilnixAFK> the handbook?
+<wilnixAFK> google?
+<halcy0n> trash can, and ebay
+<razorini> lol halcy0n
+<hash> why did i even bother asking

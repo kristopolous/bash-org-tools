@@ -1,0 +1,6 @@
+#51128 +(278)- [X]
+* [LooN] (LooNaTiK@host217-35-13-229.in-addr.btopenworld.com) has joined #javascript
+<[LooN]> can anyone tell me how to stop radiobuttons in java having more than one selected ?
+<nakke> if you stop calling it java, someone might
+<[LooN]> if people in channels like this stop being ass holes, i might get more help and then i might get answers to questions, but we cant all get what we want now, can we ? you mother fucker.
+* [LooN] (LooNaTiK@host217-35-13-229.in-addr.btopenworld.com) has left #javascript

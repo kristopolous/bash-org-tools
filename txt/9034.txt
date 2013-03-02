@@ -1,0 +1,10 @@
+#9034 +(330)- [X]
+<ggeyton_hewitt> <_git_> hey folks, what does @ mean in front of someones nick?
+<ggeyton_hewitt> <thorn``> The @ symbol identify's the channel operators.. Chops have extra commands for control of the room
+<ggeyton_hewitt> <_git_> does it mean that persons is a sad wanker who spends his life on irc, has no real friends, and prefers to chat on here than in a pub?
+<ggeyton_hewitt> it's funny cos it's true
+<Syncope> lol
+<Syncope> very true
+<Syncope> :/
+<ggeyton_hewitt> `deop
+<Syncope> `deop

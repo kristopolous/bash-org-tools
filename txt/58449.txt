@@ -1,0 +1,9 @@
+#58449 +(80)- [X]
+* DrZaius sets mode: +b *.*!*@*
+<DrZaius> lmao
+<sneve> haha
+<Air|THPS2> doc
+<Air|THPS2> why *.*!?
+<DrZaius> i've been using dos a lot lately
+<DrZaius> and wasn't thinking
+* DrZaius sets mode: -b *.*!*@*

@@ -1,0 +1,2 @@
+#20505 +(302)- [X]
+<frink> A properly configured microsoft firewall will stop 100% of hackers.

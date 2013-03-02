@@ -1,0 +1,6 @@
+#1855 +(526)- [X]
+<hoset-> what's the server info for defunkt?
+<DTOX> 65.4.40.157 - port 21 - anonymous
+<hoset-> thanks much
+<DTOX> np
+<DTOX> if that doesn't work it's because I gave you your own IP #

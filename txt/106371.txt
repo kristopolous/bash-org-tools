@@ -1,0 +1,8 @@
+#106371 +(229)- [X]
+< zeedo> now the use of nmap in the matrix reloaded, that was leetnes
+in a movie
+< mcp33p4n75> and ssh
+< zeedo> an ssh exploit no less
+< setenv> oh yea and the crc32 vulnerability
+18:02:37 < zeedo> I paused it and started explaining it to my gf, she just
+looked at me like I was a moron

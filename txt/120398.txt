@@ -1,0 +1,2 @@
+#120398 +(756)- [X]
+<seg> I just spent 10 minutes checking my keyboard connections only to find that i had been typing my root password in an irc channel instead of the ssh window.

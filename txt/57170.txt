@@ -1,0 +1,4 @@
+#57170 +(81)- [X]
+<jayscrib> I'm hosting a few websites, how can I enable people to connect and edit their sites? FTP is a no-go, and telnet wont work will it? The server is a win98 box (and a lil note: I have a router to go through)
+<LilWashu> youre hosting websites for people on a win98 machine?
+<LilWashu> good luck

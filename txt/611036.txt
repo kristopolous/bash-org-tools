@@ -1,0 +1,5 @@
+#611036 +(487)- [X]
+< JaredCE> no, i had an idea for an ajax web2.0 calender that would pull details from flickr and google map
+< shiruken> how far did you get?
+< JaredCE> ermm
+< JaredCE> i installed apache

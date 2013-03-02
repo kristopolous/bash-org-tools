@@ -1,0 +1,8 @@
+#926695 +(1197)- [X]
+Aquillar> hey, you guys ever play kmem russian roulette?
+Agnostos> I don't believe I have. care to explain the details?
+Aquillar> dd if=/dev/urandom of=/dev/kmem bs=1 count=1 seek=$RANDOM
+Aquillar> keep executing until system crashes
+Aquillar> person that crashes system has to buy beer
+Agnostos> lol
+Agnostos> I wonder if I can sneak that into a server startup script here.

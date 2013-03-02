@@ -1,0 +1,16 @@
+#877181 +(397)- [X]
+<@stuartf> I just went and got a coke, the machine is one of the ones
+with the conveyor belt in it and there was already a coke on
+the belt
+<@stuartf> if you buy anything to the left of the drink on the belt you
+get what's already on the belt and your drink is left there
+<@stuartf> if you buy anything to the right you get your drink and the
+one on the belt remains
+<@stuartf> if you drop another drink on the one that's already on the
+belt the output is undefined
+<@[M]oon> classic divide by coke error
+<@PowerOfCheese[w]> this is a classic coke-in-the-middle attack
+<@[M]oon> trojan coke
+<@PowerOfCheese[w]> diet coke injection attack
+<@Edgar_work> damnit, I wanted a water and got pinapple fanta
+<@[M]oon> ahh. it got edgar

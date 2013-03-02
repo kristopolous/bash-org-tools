@@ -1,0 +1,11 @@
+#20122 +(394)- [X]
+<fong> can any1 help me..? im trying to connect 2 pcs to LAN..
+<orange1> use a crossover cable
+<fong> i already have a crossover cable, 2 nics in 1 pc, and another in the client pc..
+<fong> what do i do next?
+<orange1> put the crossover cable between the two pc's
+<fong> did that already
+<orange1> then they're connected
+<fong> its the configuration part i cant handle
+<fong> yeah.. but i want them connected AND working
+<netmunky> you never said shit about that

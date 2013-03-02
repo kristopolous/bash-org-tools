@@ -1,0 +1,15 @@
+#42066 +(310)- [X]
+<Artanis> ok, nobody ever told me when its better to use static memory
+<Artanis> thats why i do everything w/ pointers
+<Artanis> :-/
+<Goomba> everything???
+<Veldhar[GD]> everything??!
+<Veldhar[GD]> heh, don't tell me
+<Veldhar[GD]> you do horrible things like
+<Veldhar[GD]> int *i = new int[1];
+<Veldhar[GD]> for (*i=0; ahhhhhhhhhhhhh can't continue writing
+<Veldhar[GD]> too awful
+<Veldhar[GD]> my fingers are burning
+<Veldhar[GD]> my eyes are bleeding
+<Veldhar[GD]> agoonnnnnnnny
+* Veldhar[GD] dies

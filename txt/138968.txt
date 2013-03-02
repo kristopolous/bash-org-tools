@@ -1,0 +1,4 @@
+#138968 +(99)- [X]
+seanchil: zero5: What linux distro do you have?
+Zero5: okay. can you please help me installing it.
+Zero5: i have linux 9.0

@@ -1,0 +1,10 @@
+#36594 +(76)- [X]
+(TheOne) I wanna help at #nohacks
+(@Matt) take the test, answer one question and you can get in
+(@Matt) echo the time in red
+(TheOne) .//echo -a $chr(3) $+ 4 $time
+(TheOne) omg, so hard, i had to look at the help files </sarc>
+(@Matt) its wrong
+(TheOne) i think you will find its right
+(@Matt) NO .. I R LEET SCRIPTER NOOB .. I WOULD KNOW
+(@Matt) -noob

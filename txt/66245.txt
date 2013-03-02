@@ -1,0 +1,9 @@
+#66245 +(252)- [X]
+<stig> LCST: do you have a crack?
+<LCST> sure i do
+<LCST> |     |
+<LCST> |( . )|
+<LCST> |  |  |
+<LCST> |__|__|
+<stig> lol
+<stig> um.. i mean for SecureCRT

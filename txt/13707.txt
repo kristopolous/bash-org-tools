@@ -1,0 +1,3 @@
+#13707 +(277)- [X]
+-MemoServ- DALnet would like to recommend that you exercise some standard password security precautions and regularly change your password(s). Please remember that it is your responsibility to remember your password(s).
+<Huz> Hey, is that news post DALnet code for "We got hax0red and someone saw everyone's passwords"? :)

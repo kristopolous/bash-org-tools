@@ -1,0 +1,8 @@
+#7749 +(385)- [X]
+<ViViD> Dude I'm still getting 20ms pings!
+<RTT> err thats normal
+<ViViD> Yeah but I just doubled my upload bandwidth!
+<RTT> Yes?
+<ViViD> Well why hasn't my ping halfed?
+<RTT> Dude doubling your upload bandwidth wont affect your ping
+<ViViD> Shutup you geek

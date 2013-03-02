@@ -1,0 +1,3 @@
+#34153 +(155)- [X]
+<[COOLIO]> could someone tell me what this error means? -> [Thu Sep 19 04:04:31 2002] [warn] long lost child came home! (pid 10048)
+<mezcal> it means you can notify the police and tell them everything is ok now.

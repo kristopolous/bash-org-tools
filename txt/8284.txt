@@ -1,0 +1,3 @@
+#8284 +(144)- [X]
+marmor: Mutru: i am trying to compile an an simple example .. that works fine, but all i get when i run the program is a window that is all black ..
+Aprogas: is your monitor on ?

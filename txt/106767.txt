@@ -1,0 +1,6 @@
+#106767 +(238)- [X]
+<Tom> Would it surprise you if a Mozilla browser on the Mac failed to adhere to max lengths set in a textbox?
+<Jon> It doesn't surprise me, because nobody adheres to the fucking W3C. it's like, of all the standards organizations in the world, they are universally ignored by pretty much everyone.
+<Jon> W3C says: "Electricity must flow from negative to positive, because that's the way electricity works."
+<Jon> Microsoft would say: "You can specify the direction of electrical flow, as well as whether or not you can kill yourself with it."
+<Jon> Mozilla would say: "Electricity?"

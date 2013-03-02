@@ -1,0 +1,3 @@
+#640956 +(30)- [X]
+paranoidjanitor: so I used the grep command to search through the manual page for the grep command to find the paramater that displays a variable number of lines before the actual output
+paranoidjanitor: and the paramaters are all on the previous lines, so I ended up having to search through the manual by hand anyway

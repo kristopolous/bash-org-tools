@@ -1,0 +1,3 @@
+#15706 +(347)- [X]
+<PetrDoubt> Gee, the people who moved alzheimers.net's DNS away from us forgot
+to tell us.

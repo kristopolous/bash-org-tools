@@ -1,0 +1,6 @@
+#251404 +(17)- [X]
+<the-dude> Is there something like an API Documentation for c++?
+<mod7t9z730> the-dude, windows api -> msdn
+<mod7t9z730> http://msdn.microsoft.com
+<the-dude> for linux?
+<mod7t9z730> uhm

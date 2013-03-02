@@ -1,0 +1,9 @@
+#630066 +(631)- [X]
+<Whittney> does anyone know what the C++ test tomorrow covers
+<Arc> chapters 1-16
+<Whittney> thats up to waht exactly
+<Whittney> then end of arrays...or does that inclue char?
+<Arc> um...linear integration of the Hermholtz plasma intereferometry function
+<Arc> as applied to post-modern dadist theories
+<Whittney> wtf are u talking about
+<Arc> I could ask you the same...have you even attended the course?? 0_o

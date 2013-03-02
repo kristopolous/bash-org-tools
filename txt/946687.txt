@@ -1,0 +1,4 @@
+#946687 +(498)- [X]
+<h00k> making a twitter bot to watch a timeline of a certain (prominent public figure, politician) and tell him he had [x] amount of characters left when he tweets
+<h00k> 'went 2 $place 2 talk about r jobs'
+<h00k> Dear @personsname, you had [x] characters remaining and didn't have to shorten it so much. #pleasestop'

@@ -1,0 +1,20 @@
+#45397 +(240)- [X]
+<qrg> how do they deal with dice rolling
+<cmplx> you need vr dice. they're usb.
+<cmplx> then you put on these special glvoes
+<cmplx> and roll them acrtoss a vr desk.
+<cmplx> no, ass, you click a button and the dice are rolled for you
+<qrg> i meant the randomization
+<qrg> of the dice being rolled
+<orion> i've never heard of a computer spitting out a random number
+<orion> or a random quote
+<orion> never.
+<nyisles> qrg: cat /dev/urandom
+<orion> thus, random numbers from dice == impossible
+<orion> it's not like computers generate photorealistic motion pictures
+<orion> or perform millions and billions and trillions of intense calculations per second
+<orion> i seriously doubt they could simulate die being rolled
+<orion> i mean jesus, they control the stockmarket and most modern finance, big business, corporations
+<orion> but as far as picking two random numbers from 1 to 6
+<orion> it's fucking unfathomable.
+<cmplx> until computers can acccurately model the behavior of a giant glob of cum entering the earth's atmosphere, computer science has failed.

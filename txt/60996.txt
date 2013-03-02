@@ -1,0 +1,4 @@
+#60996 +(363)- [X]
+<Realfloat> why does gcc makes exe files?
+<Apollo-> *blink*
+<Apollo-> maybe because it's a compiler?

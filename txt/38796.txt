@@ -1,0 +1,6 @@
+#38796 +(545)- [X]
+<sparcv9> i'm such a dick
+<sparcv9> someone came into my office to ask me if i had a sheet of paper, so he could make a temporary CD sleeve
+<sparcv9> so i did an:
+<sparcv9> echo " " | lpr
+<sparcv9> and said "sure, go pick it up off the printer"

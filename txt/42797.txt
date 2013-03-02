@@ -1,0 +1,7 @@
+#42797 +(181)- [X]
+<conZ> how do i connect LED's to the pc ?
+<phaxx> stick it in your floppy drive. make sure you insert the cathode pin first or you'll melt the led
+<conZ> will make sure of that
+<phaxx> good
+<conZ> fuck
+<conZ> it doesnt work

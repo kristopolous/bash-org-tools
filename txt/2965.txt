@@ -1,0 +1,4 @@
+#2965 +(26)- [X]
+*** emul8or__ (ume@ool-18be3bcc.dyn.optonline.net) has joined #winprog
+*** delete[] sets mode: +b *!*@ool-18be3bcc.dyn.optonline.net
+*** emul8or__ was kicked by delete[] (banned: <emul8or__> you cant perm ban me)

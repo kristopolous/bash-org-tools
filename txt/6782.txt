@@ -1,0 +1,4 @@
+#6782 +(213)- [X]
+<^o-o^> the development version of Xemacs has a warning file in it
+<^o-o^> "People with epilepsy, persons with a history of heart problems and users of Viagra should not use this version of Xemacs"
+<drwiii> i bet bob dole is sitting home pissed because he can't use that version of Xemacs

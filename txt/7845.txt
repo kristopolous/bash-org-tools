@@ -1,0 +1,4 @@
+#7845 +(423)- [X]
+....  I love the way Microsoft follows standards.  In much the same manner
+that fish follow migrating caribou.
+-- Paul Tomblin, alt.sysadmin.recovery

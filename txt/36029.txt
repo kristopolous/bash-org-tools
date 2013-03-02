@@ -1,0 +1,5 @@
+#36029 +(516)- [X]
+<[VU]JackFrost> ok, explain this...  i make 10000 on 3dmark2001
+<[VU]JackFrost> but i can't run half of my winamp visual thingys at full screen without jerking
+<Modman> lol
+<[VU]JackFrost> without the screen jerking, that is

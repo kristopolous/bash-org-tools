@@ -1,0 +1,4 @@
+#671819 +(577)- [X]
+<Grover> On my linux box, I once swapped out the motherboard, put in a new video card, doubled the RAM, installed a CD burner, installed a RAID array of (6) 200GB SATA Drives, and overclocked the CPU without ever rebooting it
+<Rusty> Didn't you reboot it a few weeks ago?
+<Grover> Yeah, I had to reboot to install my Thumb Drive

@@ -1,0 +1,6 @@
+#15709 +(348)- [X]
+<PetrDoubt> Wow, that's elite.  Customer's DSL is down, so he sends a partial
+traceroute.  The middle of the traceroute.  Not the beginning.  Not the part
+where it stops.  The middle.
+<PetrDoubt> "My DSL is down.  Here's some hops in alternet."
+<PetrDoubt> Thanks, dude.

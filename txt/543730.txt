@@ -1,0 +1,4 @@
+#543730 +(837)- [X]
+<JDProject> can someone explain the difference between a hub and a router ?
+<ffejtable> one works at layer 2, the other at layer 3+
+<LeddyWK> if he's asking the difference, chances are he doesn't know the osi model

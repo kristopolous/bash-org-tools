@@ -1,0 +1,3 @@
+#10171 +(673)- [X]
+DeusXMac: sex?
+themole: unzip;strip;touch;grep;grep;finger;mount;fsck;more;yes;fsck;fsck;fsck;umount;sleep (Core dumped) general protection fault... core dumped.

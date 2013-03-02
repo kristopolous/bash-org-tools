@@ -1,0 +1,6 @@
+#8845 +(377)- [X]
+<Fetch#acknak> 19 apache processes
+<Fetch#acknak> I think maybe your mail server has a problem ;)
+<karlitoX#acknak> are those forked or threaded
+<Fetch#acknak> karlitoX: does it matter? its a mail server ;)
+<karlitoX#acknak> it's a mail server with aspirations!  do not stifle it's creativity

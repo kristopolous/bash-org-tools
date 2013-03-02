@@ -1,0 +1,5 @@
+#662788 +(-209)- [X]
+<ByeRights> what is it? firewire?
+<@Pugh> erm...Serial
+<ByeRights> probably uses a universal serial bus then
+<ByeRights> oh wait, USB...

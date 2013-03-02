@@ -1,0 +1,6 @@
+#38525 +(100)- [X]
+<willyy> licq:  [ERR] Unable to load plugin (qt-gui): /usr/local/lib/licq/licq_qt-gui.so: cannot open shared object file: No such file or directory.
+<willyy> which is the problem ?
+<Lion-O> willyy: you're missing a file.
+<willyy> which ?
+<loply> willyy: Isnt that a tad obvious? ;)

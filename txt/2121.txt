@@ -1,0 +1,8 @@
+#2121 +(550)- [X]
+*** atnnn (atnnn@hv-hs-37-38.aei.ca) has joined #winprog
+<atnnn> hi
+<atnnn> what is the code for "+" on WM_KEYDOWN
+<Wy4tt> VK_RTM
+<atnnn> and minus?
+<Wy4tt> VK_RTFM
+<atnnn> i can't find it

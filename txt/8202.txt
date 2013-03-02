@@ -1,0 +1,3 @@
+#8202 +(378)- [X]
+<baietas> hey ppl.. quick question.. just downloaded every KDE3.0.1 RPM for my distro (mandrake) but when i try to install it it asks for some other files taht i dont have.. what do i do?
+<Epesh> get those files

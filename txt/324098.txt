@@ -1,0 +1,4 @@
+#324098 +(487)- [X]
+(+fresh27) Before beginning Instant Maya, you should have a working knowledge of your computer's operating system. You should know how to use a mouse.
+(+fresh27) i wonder how many people are trying to learn maya
+(+fresh27) but then they get disappointed when they find they have to learn how to use a mouse first

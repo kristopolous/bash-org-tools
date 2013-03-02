@@ -1,0 +1,4 @@
+#40143 +(4)- [X]
+<pricky> is there a way to auto-op users in mirc?
+<pricky> score
+<pricky> wildcards work!

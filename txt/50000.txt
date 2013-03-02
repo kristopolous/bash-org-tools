@@ -1,0 +1,5 @@
+#50000 +(140)- [X]
+<scott> you know I wish there was a -violent flag, so you could have some spectacular way of erasing a package you really hate
+<Munger> scott: fdisk
+<scott> because Id install nano every day just so I could do a : emergeu nmerge -violent nano
+<scott> you know, something with explosions

@@ -1,0 +1,6 @@
+#1260 +(343)- [X]
+<wormholes> Is it difficult to manage txt files like modify lines and copy rename and create new ones..with jsut std C libs?
+<NoEscom> no, it's not difficult
+<Noidea> yes it's difficult.
+<Noidea> It's almost impossible.
+<NoEscom> oh you mean MODIFY text files? on that case you have to download microsoft sql server

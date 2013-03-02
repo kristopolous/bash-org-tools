@@ -1,0 +1,7 @@
+#20071 +(531)- [X]
+* Doughboy ponders
+* Beryllium contemplates
+* Doughboy slips Beryllium a penny
+* Beryllium makes a template of the coin
+* Doughboy turns Beryllium in for counterfiting
+<Beryllium> I just wanted to open-source it! Money was meant to be free!

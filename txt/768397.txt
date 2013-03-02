@@ -1,0 +1,6 @@
+#768397 +(1039)- [X]
+< crschmidt> No software is bug free
+< FrankW> #/bin/sh
+< FrankW> echo "Hello World"
+< FrankW> That's pretty bug free.
+< crschmidt> FrankW: you missed a !

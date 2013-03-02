@@ -1,0 +1,8 @@
+#367188 +(662)- [X]
+<Schitz02> its microsoft. they don't have bugs
+<Schitz02> they have unpublished features
+<Qooiii> like the function office calls randomly called void Randomly_Crash_And_Delete_Document(void)
+<Schitz02> right, just like that one
+<Qooiii> i wish they had at least made it predictable
+<Qooiii> like the paperclip guy could pop up and say
+<Qooiii> "it looks like word is going to crash. would you like to save your document?"

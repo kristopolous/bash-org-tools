@@ -1,0 +1,10 @@
+#43088 +(257)- [X]
+-!- LWashu [LWX_IRC_Cl@ti100710a143-0330.dialup.online.no] has joined #Channel
+< LWashu> /j harstad
+< LWashu> join asd
+< LWashu> JOIN Harstad
+< LWashu> JOIN #HARSTAD
+< LWashu> #JOIN Harstad
+< LWashu> /JOIN Harstad
+<@unixpeon> wow
+-!- LWashu was kicked from #channel by sybase [shut the fuck up]

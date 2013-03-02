@@ -1,0 +1,3 @@
+#39330 +(195)- [X]
+* ENOMEOFF holds his breath while apt is downloading emacs
+< ymir> ENOMEOFF: Nice knowing you.

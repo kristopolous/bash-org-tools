@@ -1,0 +1,6 @@
+#741596 +(399)- [X]
+< kakistos> lol. i liked the java compiler.
+< kakistos> does the c compiler not tell you what you did wrong?
+< deviant> C is great
+< ewan> the Java compiler is all like "you have an uninitialised variable there, would you like a hug?"
+< ewan> gcc is like "raaagh! I do no bounds-checking! Your mother sucks cocks in hell!"

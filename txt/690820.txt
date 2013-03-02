@@ -1,0 +1,5 @@
+#690820 +(87)- [X]
+<freznel> hey got a computer question, if my mother board requires 5 volts, what size power supplies can I use
+<seeess> you cant go above the voltage rating on your motherboard
+<seeess> so you need a <5v psu
+<seeess> or you can use a standard PSU and only plug it in half way

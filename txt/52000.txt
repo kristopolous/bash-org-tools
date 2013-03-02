@@ -1,0 +1,6 @@
+#52000 +(206)- [X]
+<_pLaGueD_> do you know a cheat for invincibility?
+<Dead_One> yeah
+<_pLaGueD_> how?
+<Dead_One> type bind "mouse1" "kill"
+<Dead_One> it blows up what ever you are looking at

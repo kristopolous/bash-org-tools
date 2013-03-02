@@ -1,0 +1,13 @@
+#26357 +(251)- [X]
+*** CitizenC changes topic to 'Slippers, all of you <-- But aren't slippers comfy? <=- no <-- You must have beta slippers then.'
+(@d-_-b): CitizenC: yeah, Slippers v0.05b is full of bugs
+(@CitizenC): Stupid beta slippers. When is the sole not going to have these huge holes in them?
+(@CitizenC): I reported that bug when I first got this build.
+(@frOsty-): CitizenC: i just got Slippers v0.07a, cvs from last night.
+(@frOsty-): CitizenC: they're fucking hot man, seriously.
+(@frOsty-): CitizenC: new silk insole, fluffy toes.
+(@d-_-b): frOsty-: did they fix the backdoor?
+(@frOsty-): CitizenC: and i don't fall down on the hardwood anymore. Crash constantly on the concrete, unfortunatly.
+(@frOsty-): d-_-b: yeah, it's all fixed. they have a velcro flap now.
+(@frOsty-): d-_-b: but it's only the hook side right now, not the soft side.
+(@frOsty-): d-_-b: so i had to hand-compile some tape for it.

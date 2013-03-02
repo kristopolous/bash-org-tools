@@ -1,0 +1,10 @@
+#868657 +(1915)- [X]
+<Megistos> I once gave someone what amounted to a virus over IRC
+<Megistos> it was a mIRC script that allowed us to remotely execute mIRC commands
+<Megistos> what a fool
+<Megistos> At first we just made him say stuff in channels
+<Megistos> then we realised mIRC could talk to the whole system with /run
+<Megistos> hence this immortal line
+<Shiyiya> Heh
+<Megistos> <lbal> wtf, i come back from css to find 63 calculators open
+<Shiyiya> lmao

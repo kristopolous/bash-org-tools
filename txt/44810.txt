@@ -1,0 +1,4 @@
+#44810 +(412)- [X]
+<moe_> Hello, can someone answer my question : how can I call a bool function from another function? I am trying if (!Class::function()) { cout << "error\n"; exit(-1);  }
+<moe_> but it is not working
+<moe_> it prints error

@@ -1,0 +1,10 @@
+#57314 +(22)- [X]
+* billh doing a survey of points in the Linux kernel where mutex replacement would increase preemption and therefore reduce latency for hard RT useage..
+<sateh> bill
+<sateh> there are too many words in that sentence
+<sateh> zzzzzzzzzzz
+<sateh>  http://www.wegenermedia.com/
+<sateh> ibok spare parts!
+<sateh> wheee!
+<Feanor> hmm
+<Feanor> sateh's drunk :)

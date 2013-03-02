@@ -1,0 +1,4 @@
+#70296 +(215)- [X]
+--> Sunny (~Sunny@as1-71.w3c.com) has joined #gtk+
+<Sunny> hello every one
+<Sunny> can anyone tell me waht to choose QT or GTK+

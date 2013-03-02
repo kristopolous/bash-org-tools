@@ -1,0 +1,3 @@
+#6853 +(234)- [X]
+* t watches win2k grind to a halt
+<greg> Give it some credit.  It slows down quickly.

@@ -1,0 +1,6 @@
+#14792 +(10)- [X]
+<collie> Why did  irc2-1.netcom.com sets mode: -o collie deop me?
+<Temps> cause you wasn't opped first
+<collie> I was opped now. Why did netcom deop me.
+<collie> I can see some other server deoping me but not my own that I pay every month.
+*** collie has left channel #netcom

@@ -1,0 +1,4 @@
+#6756 +(255)- [X]
+* compupc1 really wants a new version of something
+<compupc1> anything...i just feel like upgrading
+<PetrDoubt>  /dcc send compupc1 trojan4b38.tgz

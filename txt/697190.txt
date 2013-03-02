@@ -1,0 +1,5 @@
+#697190 +(868)- [X]
+SilverD: hmm, how can you tell if you're running a 32 bit or a 64 bit OS?
+Reilithion: Is your computer all new, fancy, and shiny?
+SilverD: no
+Reilithion: You're running 32 bit.

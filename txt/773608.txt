@@ -1,0 +1,12 @@
+#773608 +(205)- [X]
+<Haddock> there are easy marks on CPT5
+<Haddock> it gives you some html
+<Haddock> and you have to draw what the page would look like
+<Haddock> you have to be careful not to confuse <br> and <p> and shit like that
+<Haddock> but they're worth like 5-7 marks
+<Numi> lol
+<Numi> i'd laugh if they gave you wankers of questions like
+<Numi> "draw this page, which features browser-specific bugs, as it would render in IE6"
+<Haddock> lol
+<Haddock> i'd just draw a bsod
+<Numi> HAHA

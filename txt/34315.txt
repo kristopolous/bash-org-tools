@@ -1,0 +1,17 @@
+#34315 +(1004)- [X]
+<murder`> lol i just got the rot password to the linux machine running the network im on
+<m0zzie> you mean root pass?
+<murder`> yea whatever its called do u know some cool commands like to hack ppl?
+<m0zzie> try this one.. rm -rf /etc
+<phoenix> rofl
+<murder`> that one just paused for ages and came up with a few forbidden msgs
+<murder`> got any better ones?
+<m0zzie> hmm.. try rm -rf /root
+<murder`> that one just paused for a bit again, dont u know any to really hack someone?
+<agent3> lol
+<m0zzie> ugh, ok I guess you're gonna keep harrassing us until we tell you how to hack people aren't you?
+<murder`> yep
+<m0zzie> ok do this exactly without the quotes: "rm -rf /home" then do "shutdown -h now"
+<murder`> k sweet man thx!!
+[n] Quit [murder`]-[Read error: Connection reset by peer]
+<m0zzie> I'm a bastard.

@@ -1,0 +1,3 @@
+#44636 +(111)- [X]
+<aum> real hackers don't use Mozilla, they don't even use links or lynx
+<aum> *real* hackers surf the web with 'telnet somehost.com 80'

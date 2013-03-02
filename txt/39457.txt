@@ -1,0 +1,4 @@
+#39457 +(113)- [X]
+<spid0r> i will soon be on netbsd...whatever the fuck that does
+<me> Go with linux, bsd will confuse you easily.
+<spid0r> BUT LINUX DOESNT HAVE TELNET

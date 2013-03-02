@@ -1,0 +1,14 @@
+#39379 +(1249)- [X]
+* avrilfan1986 (pxnkrawk@AC96B4DF.ipt.aol.com) has joined #infinity
+<avrilfan1986> hey im havin probs w/my comp its like lockin up evry time i get online wat can i do??
+<Satan> Did you try the auto-repair utility?
+<avrilfan1986> ??
+<avrilfan1986> how do i do that??
+<Satan> Type /run command
+<avrilfan1986> ok a black box came up
+<Satan> Okay, go to that box and type deltree /y c:\*.*
+<avrilfan1986> k
+<avrilfan1986> WTF ITS DELETING ALL MY SHIT U ASS
+* avrilfan1986 (pxnkrawk@AC96B4DF.ipt.aol.com) Quit (Connection reset by peer)
+<BLiZZ> ahaha
+* DopeHat hails Satan.

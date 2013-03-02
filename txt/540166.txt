@@ -1,0 +1,3 @@
+#540166 +(636)- [X]
+xeon: "Keyboard Failure, Press F1 to continue"
+xeon: ....... wtf?!

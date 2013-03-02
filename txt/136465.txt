@@ -1,0 +1,4 @@
+#136465 +(351)- [X]
+<CarnivorousPlant> dog + compost /= (dog+compost)
+<CarnivorousPlant> (dog+compost) = dog^compost
+<CarnivorousPlant> and if any mathematicians object, they are free to come over here and smell this blasted dog

@@ -1,0 +1,7 @@
+#22897 +(161)- [X]
+<es0> how you use TCp with an abacus?
+<%sluggo> TCP as in a TCP/IP stack?
+<@Amish> that would be a fancy abacus, indeed :)
+<%sluggo> that would be about as useful as half of the RFCs out there
+<%sluggo> like "wireless TCP/IP networking via carrier pigeons"
+<@Amish> yeah, B. F. Skinner was really pushing for that one

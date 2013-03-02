@@ -1,0 +1,9 @@
+#936597 +(910)- [X]
+Stranger: I'm Mary. What's your name?
+You: Eric.
+Stranger: So, Eric, where are you from?
+You: USA, you?
+Stranger: China
+You: Your name is Mary? That's not a Chinese name.
+Stranger: My Chinese name is Xiong Chaofeng.
+You: Alright, Mary it is...

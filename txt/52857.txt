@@ -1,0 +1,5 @@
+#52857 +(117)- [X]
+<@Shadur> MeLearnin: Go away and die.
+* MeLearnin :(
+<@Shadur> s/MeLearnin/Meaz
+< MeLearnin> s/:(/:)/g

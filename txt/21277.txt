@@ -1,0 +1,6 @@
+#21277 +(1930)- [X]
+<Mercy> It's (assassinate the president) fun to annoy (charter a plane, pentagon) the NSA by (shoot George Bush) inserting crap into innocent (blow up congress) sentences.
+<Mercy> Or so I've been (nuke Washington) told.
+<@Ixnorp> One would think that the NSA would have slightly more advanced filtering techniques than regexp.
+* Mercy Quit (Ping timeout)
+<@Ixnorp> Or maybe not.

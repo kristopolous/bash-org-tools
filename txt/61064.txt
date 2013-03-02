@@ -1,0 +1,5 @@
+#61064 +(72)- [X]
+<aleks_> anybody know of a linux app that performs an operation similar to windows XP's "bridge network"?
+<@Lion-O> aleks_: first of all, what does that thing do ?
+<PufF-> its a cheat to get around the 'hassle' of subnet'ing
+<@Lion-O> aleks_: oh, then I have a solution. Cheat and ask a real admin to set it up for you, then take the glory.  I guess the app would be called "mail".

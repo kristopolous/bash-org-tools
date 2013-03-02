@@ -1,0 +1,12 @@
+#17392 +(882)- [X]
+<Danelope> I'm trying to set a password, and they're telling me it's invalid.
+<Danelope> Because it can be "derived from another word".
+<harb> Yeah.
+<harb> It's just calling to passwd, I bet.
+<Danelope> They're forcing you to use randomized passwords.
+<Danelope> That's fucking retarded.  Especially for an FTP-only account.
+<harb> Heh.
+<Danelope> "Duhhh.  You're creating an FTP-only account with its home limited to a single non-primary folder on the Web server!  Let's give you shit about a password!"
+<Danelope> "Duhhh!  There's absolutely no way this information can be used to compromise the system!  But we'll still harass you here!"
+<homeslice> Make it "Dr3amh0stsu|<s5hit"
+<Danelope> "Sorry, that password can be derived from 'dreamhostsucksshit', which is a common password."

@@ -1,0 +1,5 @@
+#37502 +(192)- [X]
+<RichiH> lilo: benjamin == fork(lilo) ?
+* lilo nods
+<lilo> he's a child process
+<lilo> eventually he'll have his own process group though

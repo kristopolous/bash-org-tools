@@ -1,0 +1,3 @@
+#947988 +(478)- [X]
+<skydrome> man why are there so many diff aur packages of chromium :/ so confusing
+<xhazk> skydrome: No manual entry for why are there so many diff aur packages of chromium :/ so confusing

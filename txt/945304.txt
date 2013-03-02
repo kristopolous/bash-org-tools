@@ -1,0 +1,4 @@
+#945304 +(110)- [X]
+< cprofitt> just curious about postgres
+< mhall119> it won't last long
+< mhall119> curiousity will give way to confusion, then dislike

@@ -1,0 +1,2 @@
+#38215 +(263)- [X]
+<tech-mage> could someone possibly help me. i am studying linux but dont have a *nix box. can someone make me a root shell account that i can practice with?

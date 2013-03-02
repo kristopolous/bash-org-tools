@@ -1,0 +1,7 @@
+#874972 +(362)- [X]
+<Chris281>Dude, i had a really weird dream last night
+<Chris281>I kept dreaming that all of my data was lost because my harddrives crashed
+<Chris281>And my backups were nowhere to be found, so the situation was fubar
+<Chris281>So I woke up, soaked in sweat and checked whether my backupjob was running
+<Chris281>And it wasn't because for some reason the LTO drive was jammed
+<Vantheman>It's the classic nerd-shining

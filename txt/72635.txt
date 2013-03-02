@@ -1,0 +1,12 @@
+#72635 +(468)- [X]
+<KiloStar> I could probably get away with making $usedesign = $sidebar for the moment
+<KiloStar> heh
+<ShyAway> $usedesign=false :O
+<KiloStar> that would screw it up a bit
+<KiloStar> unless I made it if (!$usedesign) $usedesign = "default"
+<KiloStar> and then youd be pwned
+<ShyAway> $usedesign="incorrectvalue"
+<KiloStar> if (!file_exists("$pathtokajar$usedesign")) $usedesign = "default"
+<KiloStar> mwahaha
+<ShyAway> $usedesign=default
+<DartHomework> wow, it's like the Dueling Banjos of nerds

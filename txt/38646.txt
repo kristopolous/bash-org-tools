@@ -1,0 +1,6 @@
+#38646 +(672)- [X]
+<@Adam>Wow, this apple sure does look good...
+<@Eve>No Adam!
+* @Adam eats the apple.
+*** @God sets mode: -oo Adam Eve
+<@God> THOU HATH SINNED!

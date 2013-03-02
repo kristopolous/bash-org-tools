@@ -1,0 +1,6 @@
+#138450 +(88)- [X]
+<[Hobbes]> -rw-------    1 hobbes  hobbes  7802880 Aug 20 07:03 metaballs.core
+<[Hobbes]> wtf is THAT
+<@dk> your metaballs dumped thier core? ;)
+<[Hobbes]> heh I read it as meatballs the first time
+<@ky_druid> damn Hobbes, do you have to use your metaballs so hard that they coredump? sheesh.

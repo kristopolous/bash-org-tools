@@ -1,0 +1,3 @@
+#753599 +(2965)- [X]
+<Nomenumbra> 1 bottle of beer on the wall, 1 bottle of beer, you take 1 down, pass it around, 0 bottles of beer on the wall.
+<Nomenumbra> 0 bottles of beer on the wall, 0 bottles of beer, you take 1 down, pass it around, 4294967295 bottles of beer on the wall.

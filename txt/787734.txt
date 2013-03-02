@@ -1,0 +1,6 @@
+#787734 +(924)- [X]
+Trey: for some reason IE is throwing a SHIT-FIT about where I'm using
+document.getElementById("displayBoardSelector").innerHTML = html;
+what the hell. explain your stupid browser.
+Dakk12: did you properly light your incense?
+Dakk12: in what order did you do the chant and throw the chicken bones?

@@ -1,0 +1,2 @@
+#4424 +(487)- [X]
+<amoeba> it's a little known fact that the binary releases aren't actually compiled by anyone, they just mysteriously appear on the FTP site packaged and ready for release.. it's postulated that the Devil himself uses Mozilla, and in return for using it he takes care of the insane build requirements

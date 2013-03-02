@@ -1,0 +1,4 @@
+#110779 +(195)- [X]
+<dwerg> qiv -femitd 10 `find /home/giel/pr0n | egrep -v ("horse"|"animal")`
+<dwerg> Heheh, oeps.
+<giel> lol

@@ -1,0 +1,12 @@
+#526984 +(981)- [X]
+Cooler1011: can you explain to me why i need to format and/or partition this disc?
+Cooler1011: It does not make sense to me.
+mrrc00: imagine a giant room
+mrrc00: now, throw millions upon millions of identical things into the room
+mrrc00: now these things can be used to make larger things, but only if they have some order to them
+mrrc00: a filesystem, which you create by formatting, orders those bits
+Cooler1011: yo, get a job
+Cooler1011: you're qualified
+Cooler1011: that really sounds like it came right out of PC Magazine
+mrrc00: oh, I'm not surprised
+mrrc00: I was pulling it out my ass, after all

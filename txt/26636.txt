@@ -1,0 +1,8 @@
+#26636 +(820)- [X]
+<Real^Quasar> anyway: my 56k is going half the speed it used to
+<cts> it might be your line
+<Threeboy> check if anyone is stepping on your wire
+<Real^Quasar> hmm
+<Threeboy> but don't put the modem to your face, cause they take thier foot off
+<Threeboy> and you get sprayed with data.
+<Real^Quasar> ...

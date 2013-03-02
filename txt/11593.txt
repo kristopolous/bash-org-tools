@@ -1,0 +1,7 @@
+#11593 +(249)- [X]
+<Fireklar> Anyone know what could cause a monitor to dim like that besides impending death?
+<mig|flurry> fireklar: impending death.
+<slurpee> impending death of your eyesight
+<mig|flurry> fireklar: capacitors pretending to be resistors.
+<Fireklar> DAMN YOU CAPACITORS
+<Fireklar> I hate those bastards

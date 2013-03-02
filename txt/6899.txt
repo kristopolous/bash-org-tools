@@ -1,0 +1,3 @@
+#6899 +(183)- [X]
+<NalezWork> aaw fuck
+<NalezWork> I just did a rm -rf blah * instead of a rm -rf blah &

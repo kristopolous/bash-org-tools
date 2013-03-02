@@ -1,0 +1,12 @@
+#507011 +(1775)- [X]
+<Ashryd> Prepare for the new revolution in freeing space on your hard drive, waste no more
+time on searching through old files to delete, simply leave it up to DaveBot!
+<Methuen> New program aye?
+<Ashryd> Doesn't work quite right yet though...
+<Ashryd> Does something a little more interesting at the moment...
+<Methuen> Oh?
+<Ashryd> It spends 12 hours searching through your folders and files finding and sorting
+them into things that must be deleted, could be deleted and mustn't be deleted, compiles the
+information into a database, deems the database an item that must be deleted then erases
+your whole hard drive.
+<Methuen> o.O

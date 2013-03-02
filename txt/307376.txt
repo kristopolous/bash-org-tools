@@ -1,0 +1,10 @@
+#307376 +(783)- [X]
+<mehonae128> Was ist den der Fahrplan fur zwei?
+<mehonae128> what is the time table for 4?
+<mehonae128> 1,4,8,12,16,20
+<mehonae128> or
+<mehonae128> eins,vier,acht,zwolf,sechzehn,zwanzig
+<Seppel> 1 is not on the time table for 4.
+<mehonae128> 4 time 1 is 1
+<Seppel> You're an idiot.
+<mehonae128> anything times 1 oh wait

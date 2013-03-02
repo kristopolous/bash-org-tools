@@ -1,0 +1,9 @@
+#749986 +(4200)- [X]
+PwNzAgE33: ok so in assembly language we learned that processes in the cpu get set priority levelsPwNzAgE33: 0-7, 7 being the highest priority
+PwNzAgE33: this is the example the book gives
+PwNzAgE33: "For example, a computer's payroll program may run overnight, and at PL0. It has all night to finish - not terribly urgent. A program that corrects for a nuclear power plant current surge may run at PL6. We are perfectly happy to let the payroll wait while the nuclear power correction keeps us from being
+blown to bits."
+PwNzAgE33: this begs two questions
+PwNzAgE33: first
+PwNzAgE33: who in the hell is running payroll and a nuclear power surge correction on the same machine
+PwNzAgE33: and second, if nuclear power surge correction gets PL6, what on God's green earth gets a fucking PL7?

@@ -1,0 +1,4 @@
+#54993 +(227)- [X]
+:: join #bitchx :: desane (desane@if.I.were.a.perl.script.would.you.love.fork.ing.me.uk)
+:: mode #bitchx :: (+b *!*@*.*.*.*.*.*.*.*.*.*.*.*) by pheret
+:: kick #bitchx :: pheret kicked desane (banned: If you match this, you have a lame host.)

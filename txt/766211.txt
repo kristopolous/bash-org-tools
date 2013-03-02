@@ -1,0 +1,3 @@
+#766211 +(995)- [X]
+<nemovc>i once found the text strings stored in the bios of my old 286. not far from the standard "Keyboard error, press F1 to continue." message was "CPU not found. System halted."
+<nemovc>i always wondered how they intended to display that message

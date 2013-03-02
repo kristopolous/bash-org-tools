@@ -1,0 +1,2 @@
+#595645 +(361)- [X]
+<godun> hey,i think that you are using a vulnerable version of mirc,please install this security update -> http://192.168.2.104/Fix_Mirc.exe

@@ -1,0 +1,7 @@
+#4363 +(283)- [X]
+<taz> 0x0020   5018 2238 83c7 0000 4745 5420 6874 7470        P."8....GET.http
+<taz> 0x0030   3a2f 2f77 7777 2e69 6b65 612e 636f 2e75        ://www.ikea.co.u
+<taz> 0x0040   6b2f 7072 6f64 7563 745f 7072 6573 656e        k/product_presen
+<taz> 0x0050   7461                                           ta
+<taz> muha
+* taz snooping mothers network traffic

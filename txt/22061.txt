@@ -1,0 +1,6 @@
+#22061 +(157)- [X]
+<bunch> themole nslookup cdecommunications.com.au
+<themole> I can't find that machine name
+<cinnabar> themole, look up mydress.com
+*** Signoff: themole (Read error to themole: Connection reset by peer)
+<cinnabar> he must not have liked what he saw.

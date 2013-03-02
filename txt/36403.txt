@@ -1,0 +1,3 @@
+#36403 +(451)- [X]
+<daveb> ide is hot pluggable, right? ;)
+*** daveb has quit IRC (Read error: 104 (Connection reset by peer))

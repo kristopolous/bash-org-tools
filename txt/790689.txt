@@ -1,0 +1,6 @@
+#790689 +(1236)- [X]
+< evoxy> can anyone recommend a good php tutorial?
+< Dynom> evoxy: goodphptutorials.com
+< evoxy> lol i thought it was a bogus url
+< Dynom> it works?
+< Dynom> :-| wtf

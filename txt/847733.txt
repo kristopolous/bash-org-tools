@@ -1,0 +1,6 @@
+#847733 +(4101)- [X]
+l70uke: network connections says it cant find an IP address
+dbbolton: open a web browser and type 192.168.1.1 in the address bar
+dbbolton: what happens
+l70uke: "please enter disk into drive a"
+dbbolton: what the FUCK

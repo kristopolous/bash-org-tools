@@ -1,0 +1,3 @@
+#105336 +(152)- [X]
+<SypaNick> You get fischer price sql with MS
+<SypaNick> My first SQL server.

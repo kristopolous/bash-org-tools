@@ -1,0 +1,6 @@
+#845468 +(3723)- [X]
+<piercings> A programmer started to cuss
+<piercings> Because getting to sleep was a fuss
+<piercings> As he lay there in bed
+<piercings> Looping 'round in his head
+<piercings> was: while(!asleep()) sheep++;

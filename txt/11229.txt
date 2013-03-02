@@ -1,0 +1,2 @@
+#11229 +(17)- [X]
+<Bismarck> i recently decided that bsd is dead because it cannot hope to survive when it gives away it's IP with no protections whatsoever.

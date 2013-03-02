@@ -1,0 +1,3 @@
+#4118 +(189)- [X]
+<orange1> i think i got it figured out.
+<orange1> instead of giving users a long explanation on why it won't work when they uplaod a file named "what? me worry?.doc" to their web space, we can just give them the message "this file will not work. if you read the documentation, you would know why"

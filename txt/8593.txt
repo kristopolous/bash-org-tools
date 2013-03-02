@@ -1,0 +1,4 @@
+#8593 +(97)- [X]
+(nathan) weird.  my dsl works better as long as i'm constantly pinging the server
+(nathan) as soon as i stop pinging one direction or the other, it blocks up
+(nathan) like a bad bowel movement

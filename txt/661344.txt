@@ -1,0 +1,4 @@
+#661344 +(791)- [X]
+<miro> ramiro@calcifer:/etc$ ping www.thepiratebay.org
+<miro> PING www.thepiratebay.org (83.140.176.146) 56(84) bytes of data.
+<miro> 64 bytes from hey.mpaa.and.apb.bite.my.shiny.metal.ass.thepiratebay.org (83.140.176.146): icmp_seq=1 ttl=48 time=358 ms

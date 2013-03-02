@@ -1,0 +1,4 @@
+#136867 +(182)- [X]
+*** Nezzie (~armond@adsl-154-136-51.jan.bellsouth.net) has joined #phphelp
+<Nezzie> Wow they really need to put a warning label on that.
+<Nezzie> apparantly /sbin/fastboot should be called /sbin/fastREboot

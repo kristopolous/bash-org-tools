@@ -1,0 +1,6 @@
+#52063 +(164)- [X]
+*** VirginUmboo has joined #html
+<VirginUmboo> lo
+<VirginUmboo> how do i gret a shocwave file in my html?
+* Anapaest googles for "gret"
+*** VirginUmboo has left #html

@@ -1,0 +1,7 @@
+#22135 +(14)- [X]
+<kentyman> Show the following problem is NP-complete:  The dominating-set problem:  given a graph G and an integer k, does there exist a subset S of G with k nodes such that each node is either in S or adjacent to a node of S?
+<Oax> exactly k nodes
+<kentyman> yes, but adding nodes wouldn't change it, no?
+<Oax> no
+<Oax> it's monotone
+<kentyman> like my prof

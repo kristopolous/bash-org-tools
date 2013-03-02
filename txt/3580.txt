@@ -1,0 +1,13 @@
+#3580 +(312)- [X]
+<Slant> Easy way to figure out which episodes Slant likes:
+<Slant> for x in StarTrek.Episodes[]
+<Slant> if (x.liked_by_everyone)
+<Slant> Slant.hates_episode[x] = TRUE;
+<Slant> else
+<Slant> Slant.likes_episode[x] = FALSE;
+<Slant> no wait.
+<mightyflo> hahahahahahahaha
+<Slant> Slant.hates_episode[x] = FALSE;
+<animegoth> lol
+<FutabaAoi> so you hate all of tng!
+<mightyflo> it's funny when you can debug someone's real life code

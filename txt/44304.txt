@@ -1,0 +1,7 @@
+#44304 +(289)- [X]
+Wan Xion: last night I created an array search that is O(log base 4 n) I wonder if it's been done before
+KarpenkoSoup: Probably.
+Wan Xion: yeah
+Wan Xion: it's s simple concept
+Wan Xion: you just use 3 pivots
+KarpenkoSoup: There are people who fuck chickens. I'm pretty sure someone's written a search with O(log base 4 n) runtime.

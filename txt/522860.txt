@@ -1,0 +1,12 @@
+#522860 +(279)- [X]
+<prepared>Theorem: All numbers are equal.
+<prepared>Proof: Choose arbitrary a and b, and let t = a + b. Then
+<prepared>a + b = t
+<prepared>(a + b)(a - b) = t(a - b)
+<prepared>a^2 - b^2 = ta - tb
+<prepared>a^2 - ta = b^2 - tb
+<prepared>a^2 - ta + (t^2)/4 = b^2 - tb + (t^2)/4
+<prepared>(a - t/2)^2 = (b - t/2)^2
+<prepared>a - t/2 = b - t/2
+<prepared>a = b
+<prepared>So all numbers are the same, and math is pointless.

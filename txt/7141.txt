@@ -1,0 +1,4 @@
+#7141 +(264)- [X]
+<Naivete> god, this shit is so much more efficient than windows
+<Naivete> linux kernel=1 file
+<Naivete> windows kernel=2/3 of your total ram, NO MATTER HOW MUCH OF THAT RAM THERE IS.

@@ -1,0 +1,9 @@
+#569075 +(275)- [X]
+<Nitrix> Im using VI to edit a file, is anyone able to tell me how i save and exit?
+* EvolutionCrazy has joined #ev1servers
+<agruetz> Nitrix :wq!
+<Nitrix> whats :wq!?
+<Nitrix> as in i press colon on the keyboard?
+<Nitrix> so ALT ; ?
+<agruetz> no shift + ;
+<agruetz> maybe you should not be touching a computer let alone be a server admin on a *nix box...

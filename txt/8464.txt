@@ -1,0 +1,4 @@
+#8464 +(205)- [X]
+<jamesm> what's a java strategy?
+<undrewb> jamesm : its a paradigm shift to e-leverage your legacy OLTP system to implement pervasive business systems
+<jamesm> is it like a builder with a 'brick strategy' ?

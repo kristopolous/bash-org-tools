@@ -1,0 +1,17 @@
+#38465 +(177)- [X]
+<mikz> @find quark express
+* mikz was kicked by NightDead (Congratulations, you said the magic word!)
+* Joins: mikz (~mquiapos@202.164.185.218)
+<mikz> hi :)
+<^|^> mikz !
+<+WhtCastle> mikz: We use !list, not @find here.
+<mikz> ok cool
+<mikz> thanks
+<^|^> !list sorenson squeez
+* ^|^ was kicked by NightDead (Congratulations, you said the magic word!)
+<+WhtCastle> no damn him mikz was supposed to do it
+<+WhtCastle> Its funny when they do it
+<+WhtCastle> '!list'
+<+WhtCastle> (kick)
+<mikz> !list quark express
+* mikz was kicked by NightDead (Congratulations, you said the magic word!)

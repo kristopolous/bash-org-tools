@@ -1,0 +1,7 @@
+#82167 +(244)- [X]
+* pig points out that vi just core dumped twice
+* Khatru points out that vi sucks.
+<pig> obviously
+<Nugget> it is software.  ergo, it sucks.
+<pig> your mom is software
+<Khatru> ..

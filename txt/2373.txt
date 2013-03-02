@@ -1,0 +1,11 @@
+#2373 +(647)- [X]
+* JosephKer on 2.4.14
+<Snarf> exciting ;>
+<JosephKer> yup! I got my kernel down to like 600k though
+<Snarf> nice ;>
+<^xman^> kernels below 1 mb are for pussies
+<^xman^> kernels over 2 mb are for men
+<JosephKer> hehe
+<JosephKer> It's not how BIG your kernel is, it's how you use it!
+<BombScare> sure...thats why girls always laugh at you when you pull out your kernel
+<JosephKer> Then I set them straight with a good fsck'ing

@@ -1,0 +1,10 @@
+#81855 +(6)- [X]
+-paradise.trutopia.net- *** Notice -- Client exiting: Derian (kelli@port-2-91-56k.morehead.zoomnet.net) [Quit: section8.trutopia.net]
+Closing Link: Derian[port-2-91-56k.morehead.zoomnet.net] (Quit: section8.trutopia.net)
+*** Disconnected
+*** Attempting to rejoin...
+*** Rejoined channel #Trutopia
+*** Topic is 'Welcome to Trutopia IRC || IRC Operator Assistance Channel || www.trutopia.net'
+*** ChanServ sets mode: +o Derian
+<Derian> what the....
+<Derian> oh, that should have been /squit...... idiot.

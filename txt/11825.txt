@@ -1,0 +1,4 @@
+#11825 +(261)- [X]
+... signoff!#linuxhelp -> SpamapS(Ping timeout)
+... join!#linuxhelp -> SpamapS(~clint@ip-208-252-253-53.muca.asurf.net)
+<SpamapS> Guess who can't tell the difference between the monitor's power cable and the *firewall*'s power cable?

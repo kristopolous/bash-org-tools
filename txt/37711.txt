@@ -1,0 +1,9 @@
+#37711 +(637)- [X]
+<me2> How do I queue a clip in server...everytime it says slot is available someone fills it in
+<MrParker> did you use "get" or "queue" ?
+<me2> queue, but others seem to beat me to the available slot
+<me2> but I want to fill the slot
+<me2> Ive been on top of the slot ready to fill it tho
+<me2> I want to put it in
+<me2> Well...once I get it in its staying there
+<MrParker> are we still talking about files ??

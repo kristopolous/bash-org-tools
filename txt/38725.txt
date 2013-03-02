@@ -1,0 +1,13 @@
+#38725 +(284)- [X]
+<CLIP3r> PLease can anybody help me how can I unpack this?  mysql-3.23.52-pc-linux-gnu-i686.tar.gz
+<stuu> CLIP3r: tar only works on versions of mysql earlier than 2.01.15 i think theres another command though, i'm not sure
+<Apollo-> stuu: So, tar doesn't work on any tar files that have mysql in the filename?
+<stuu> Apollo-: as long as the version number isn't higher than what i speacified it should be fine
+<Apollo-> stuu: I see
+<Apollo-> stuu: DO you have clue why tar wouldn't untar a file called mysql-3.23.52-pc-linux-gnu-i686.tar.gz? what if I just named the file this and it was really something else?
+<stuu> Apollo-: it examines the binary information stored in the files boot sector
+<Apollo-> stuu: the tar file has a boot sector?
+<Apollo-> stuu: So, I can boot to it?
+<stuu> Apollo-: oh yeah, well no tar uses it to boot
+<Apollo-> stuu: Wow...you're full of knowledge, I had not clue tar had to go through a boot process to be able to work
+<stuu> Apollo-: oh yeah, thats just the start

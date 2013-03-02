@@ -1,0 +1,6 @@
+#33889 +(105)- [X]
+<Holden> "The file or directory C:WINDOWSsystem32 is corrupt and unreadable.  Please run the Chkdsk utility."
+<Holden> Uh-oh
+<Holden> That can't be good.
+<Holden> I guess Windows built in random system reformater is telling me I need to do it again.
+*** Holden (~Joe@24.43.60.121) Quit (Read error: Connection reset by peer)

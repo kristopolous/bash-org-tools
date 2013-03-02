@@ -1,0 +1,9 @@
+#783472 +(1301)- [X]
+<@Aaron> It's really simple to watch a move, just open the console, and type "
+<@Aaron> ffmpeg -i "$(find ~/.mozilla -regex '.*Cache.*' -a -not -regex \
+<@Aaron>   '.*_CACHE_.*' -printf '%T+ %p\n' | \
+<@Aaron>   sort -n | awk '{ print $2 }' | xargs file | \
+<@Aaron>   grep -i "Video" | tail -1 | awk -F : '{ print $1 }')" \
+<@Aaron>   -vcodec msmpeg4v2 -b 200 -ab 64 -ar 22050 -s 320x240 \
+<@Aaron>   /tmp/video.avi
+<@Aaron> ANYONE CAN DO IT

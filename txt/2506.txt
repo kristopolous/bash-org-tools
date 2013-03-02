@@ -1,0 +1,2 @@
+#2506 +(336)- [X]
+<Dracon> weird.. seems like no matter what i do, cpu usage never shows 0.0%.

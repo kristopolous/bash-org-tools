@@ -1,0 +1,5 @@
+#8493 +(15)- [X]
+<jamesm> is ntpd 4.0.99k23 ok?
+<tm> yeah, giving remote root is now a documented feature
+<sisko> laff
+<jamesm> well, i know the answer now and i'm not telling you cunts

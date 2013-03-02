@@ -1,0 +1,16 @@
+#21858 +(453)- [X]
+<user> when I can figure out how to compile sex, we're going to be rich
+<someone> so true
+<someone> geeks everywhere will be so happy
+<user> "download the latest binary of sex for Linux, or build it from source"
+<someone> ummm
+<someone> build from source with my options
+<user> I'd have the longest configure line you've ever seen
+<someone> --swallow=yes
+<user> ./configure --with-toys --
+<user> damnit..I wasn't done
+<user> --enable-plugins
+<someone> oh yah
+<someone> --outside=yes
+<user> --set-max-users=10
+<someone> --set-max-female-users=10

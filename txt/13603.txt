@@ -1,0 +1,4 @@
+#13603 +(197)- [X]
+<Sumez> how hard can it be to change two words in my legend?
+<Fuujin> Extremely. You see, he can only do it during a sunspot minimum or maximum, and those only happen once every eight years. Also, it has to be a blue moon and a summer equinox at the same time. Plus, the year must be a prime number. The sum of the day of the week (Sunday = 1, Monday = 2, etc), the date, and the
+month must also be divisible by three.

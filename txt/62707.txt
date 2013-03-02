@@ -1,0 +1,6 @@
+#62707 +(181)- [X]
+* choric gets annoyed with typing out bash.org into mozilla all the time:
+<choric> bashorg () { lynx -dump "www.bash.org?$1" | less; }
+<rik> choric: heh. i did this one yesterday: qdb () { links http://bash.org/\?$1 }
+<martin> You lazy addicted fucks.
+* martin adds it.

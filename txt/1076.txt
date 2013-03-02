@@ -1,0 +1,4 @@
+#1076 +(40)- [X]
+<Guilty> Pen your quote db doesnt get updated enough anymore
+<Guilty> You should just set up an elaborate #discotheque logging system and grep "guilty" >> quotes.db
+<Guilty> Then it would always be fresh

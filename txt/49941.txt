@@ -1,0 +1,9 @@
+#49941 +(248)- [X]
+<buzgub> do drakconf and drakxconf look at all different?
+<puttputt> find / -name "*drak*" -exec rm -f "{}" ;
+<Robzy> not at all
+<Robzy> puttputt, it returns:
+<Robzy> rm: cannot remove `/etc/bootsplash/themes/Mandrake': Is a directory
+<Robzy> find: /mnt/floppy: Input/output error
+<Robzy> find: . changed during execution of find
+<puttputt> oh my god

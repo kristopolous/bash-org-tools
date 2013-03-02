@@ -1,0 +1,6 @@
+#252713 +(421)- [X]
+* Now talking in #linux
+<jeramir> hello, can somebody recommend me a good p2p program?
+<glassjoe> GoBuyIt v6.03
+<jeramir> i can't find it
+<glassjoe> ...

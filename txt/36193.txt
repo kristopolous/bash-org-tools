@@ -1,0 +1,7 @@
+#36193 +(50)- [X]
+<FlatFace> Put it in C:winoot
+<SLing> I already have a /winoot/ directory
+<FlatFace> !
+<FlatFace> SLING USING *NIX!?!?!?!?!
+<SLing> Nah
+<SLing> It's just so much easier to reach the / than the  :P

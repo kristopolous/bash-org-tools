@@ -1,0 +1,3 @@
+#9484 +(221)- [X]
+<asvisn> there is no /leave
+*** asvisn has left #quickbasic

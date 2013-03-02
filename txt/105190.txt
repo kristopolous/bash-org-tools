@@ -1,0 +1,2 @@
+#105190 +(89)- [X]
+* phoen][x hears 'Sounds of /dev/urandom' (dd if=/dev/urandom of=/dev/dsp)

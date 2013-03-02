@@ -1,0 +1,3 @@
+#83130 +(280)- [X]
+<Wraith> What IP addressing scheme should we use for the new lab?
+<Rance> 10.10.220 plus the number...

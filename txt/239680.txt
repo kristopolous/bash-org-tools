@@ -1,0 +1,7 @@
+#239680 +(283)- [X]
+* Joins: kickurass
+*** wes changes the topic to 'latest: phoenix 2.1 gamecobe loader'
+*** wes changes the topic to 'latest: phoenix 2.1 gamecube looder'
+<wes> shit, that i suck lol.
+*** wes changes the topic to 'update: latest phoenix 2.1 loader for gamecube'
+<kickurass> can someone tell me what's the latest version of the phoenix loader is???

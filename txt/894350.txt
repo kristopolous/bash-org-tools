@@ -1,0 +1,3 @@
+#894350 +(463)- [X]
+< derrida> my autocmd might raise a few eyebrows =)
+< scrooloose> given the amount of vim fetishism in here it may raise more than that

@@ -1,0 +1,6 @@
+#76490 +(71)- [X]
+<well-howdy-doo> does anyone know stuff about laptops and their connections?
+<well-howdy-doo> well we have it connected to the dsl-works fine
+<well-howdy-doo> but it wont connect to phoneline
+<CowBot> RJ-45 connectors (ethernet) won't plug into a phone line, well-howdy-doo
+<well-howdy-doo> is there a way to configure it-cowbot?

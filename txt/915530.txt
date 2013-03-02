@@ -1,0 +1,6 @@
+#915530 +(828)- [X]
+<Asday>  Hey, the amount of bash quotes has gone down...
+<iddo>  ?
+<Asday>  Was 20720.  Now it's 20718.
+<iddo>  could you have less of a life?
+<Asday>  I try.

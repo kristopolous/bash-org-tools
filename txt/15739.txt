@@ -1,0 +1,4 @@
+#15739 +(369)- [X]
+* Efudd names his new firewall box "cannabis"
+<Efudd> It's a gateway box!
+<Efudd> To Other Bad Networks.

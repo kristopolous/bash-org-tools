@@ -1,0 +1,3 @@
+#854608 +(1922)- [X]
+sterano: Whats the difference between Raid_0 and Raid_1?
+Steve: In Raid_0 the zero stands for how many files you are going to get back if something goes wrong.

@@ -1,0 +1,9 @@
+#104762 +(103)- [X]
+<sixxer> bmbr.. ROOOOOOCKS
+<bmbr> yeo
+<bmbr> whysat
+<sixxer> bmbr: cos of your new bot
+<bmbr> hopefully he stays stable and quiet
+<bmbr> and takes very little work on my part
+<sixxer> I'd like to see him freak out and start throwing people in blenders
+<bmbr> ill see if theres a .tcl for that

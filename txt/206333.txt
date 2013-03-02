@@ -1,0 +1,2 @@
+#206333 +(225)- [X]
+<douchebag> do u declare your variables when doing pseudo code?

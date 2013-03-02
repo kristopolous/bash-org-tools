@@ -1,0 +1,8 @@
+#105279 +(180)- [X]
+< chris> Meanwhile, I am participating in all that is unholy and rightly hated
+< chris> Namely, I am writing a Java Applet that runs in a browser and is controlled by JavaScript
+<@phessler> hahaha
+* chris commits hara-kiri to minimize the dishonor to his family
+< chris> phessler: Yeah, but the thing is: this is way better than what I was doing before, which was Flash coding
+< chris> Flash, Java and JavaScript -- all in a day's work
+< chris> Incidentally, I am looking for a new job...

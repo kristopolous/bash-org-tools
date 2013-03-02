@@ -1,0 +1,5 @@
+#4909 +(599)- [X]
+<langdon> *** Unable to resolve 255.255.255.255
+<langdon> how do i get that IP?
+<langdon> is that like.
+<langdon> when the internet is full?

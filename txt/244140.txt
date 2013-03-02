@@ -1,0 +1,5 @@
+#244140 +(339)- [X]
+<Eugene> Packets: Sent = 1000, Received = 455, Lost = 545 (54% loss)
+<Eugene> Minimum = 315ms, Maximum = 1127ms, Average = 592ms
+<Eugene> geez, I don't even think this even counts as the internet anymore.
+<Eugene> I can probably get better responses with two tin cans and a piece of string.

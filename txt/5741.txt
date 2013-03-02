@@ -1,0 +1,2 @@
+#5741 +(218)- [X]
+(nexxai) chali: can I flood your port?  maybe brute force my worm through your backdoor....sniff some packets perhaps?

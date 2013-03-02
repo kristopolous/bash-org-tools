@@ -1,0 +1,9 @@
+#37448 +(150)- [X]
+<iTM> you can blame that on Power Archiver >:(
+<viro|umm> oh and I do
+<iTM> i started it up
+<iTM> and my comp froze
+<viro|umm> that's what it is supposed to do
+<iTM> oh yea?
+<viro|umm> yeah, set autocrash=0 in the ini file
+<viro|umm> by default it is 1

@@ -1,0 +1,2 @@
+#513 +(598)- [X]
+<goh`> in my system.ini i'll change 'Shell=Explorer.exe' to 'Shell=quake2.exe'

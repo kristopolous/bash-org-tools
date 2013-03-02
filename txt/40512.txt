@@ -1,0 +1,7 @@
+#40512 +(64)- [X]
+<Catalyst> iMike: have you ever heard of a virus that corrupts the shit out of the registry...
+<Catalyst> and really buggers with the kernel
+<Catalyst> and rundll
+<Catalyst> actually, everything.
+<iMike> yeah ive heard of that virus
+<iMike> commonly called 'windows'

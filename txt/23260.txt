@@ -1,0 +1,6 @@
+#23260 +(144)- [X]
+<waffle> just forward all the mail locally
+<Docter> can I echo mage > /home/kyle/.forward
+<waffle> Kyle: i think
+<waffle> then just finger kyle and see if it stuck
+<Kevyn> Heh.

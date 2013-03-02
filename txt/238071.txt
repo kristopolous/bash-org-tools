@@ -1,0 +1,3 @@
+#238071 +(349)- [X]
+<Guest34423> is Microsoft Access available in windows?
+<Pinchiukas> no, it's for linux

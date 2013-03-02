@@ -1,0 +1,2 @@
+#33746 +(-1)- [X]
+<@trejkaz> if exists c:\porn then alert("YOU HAVE PORNO!")

@@ -1,0 +1,9 @@
+#44050 +(129)- [X]
+<Nephlite> I'm having problems compiling apache and php, can you help?
+<Dogz> Yea sure bud, whats up?
+<Nephlite> Well it gives me an error when i compile
+<Dogz> Did you check the site or the forums?
+<Nephlite> Nope
+<Dogz> rtfm!
+<Nephlite> ./configure rtfm --prefix=/www --activate-module=src/modules/php4/libphp4.a  ???
+<Dogz>....

@@ -1,0 +1,4 @@
+#16883 +(141)- [X]
+[#perl]
+<fraggle> how many days does it take to compile perl 5.6.1 on a 486?
+<diclophis> haha

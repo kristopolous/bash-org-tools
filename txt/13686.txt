@@ -1,0 +1,2 @@
+#13686 +(-14)- [X]
+<geforce2> get voodoo5 6000

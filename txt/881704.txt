@@ -1,0 +1,5 @@
+#881704 +(1027)- [X]
+<Dr_Memory> I think there's a real argument to be made here that using RAID for home data storage is putting effort into the wrong end of the problem.
+<Dr_Memory> when you can buy 2TB disks off the shelf, it's probably substantially simpler to just buy two of them, set up a good backup system, and reap the day-to-day simplicity benefits of one controller -> one disk -> one filesystem.
+<Dr_Memory> or to put it another way: your kitten photos do not need the same high-availabity system infrastructure as Citibank's transaction databases :)
+<topaz> I CAN HAS FIEV NIENS?

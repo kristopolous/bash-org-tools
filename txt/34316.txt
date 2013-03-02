@@ -1,0 +1,10 @@
+#34316 +(1239)- [X]
+[n] Join [sam]-[sam@sam.name] has joined #0secadmin
+<m0zzie> uhh sam, who are you and who gave you the key?
+<sam> i am sam and i didnt need a key :-)
+<m0zzie> hmm.. this is a private channel, please fuck off. :)
+[n] Mode [m0zzie]-[+b *!*sam@sam.name]
+<lynx> m0z, meet sam, the server admin :/
+<m0zzie> oh fuck.
+[n] Mode [m0zzie]-[-b *!*sam@sam.name]
+<m0zzie> me love you long time? :>

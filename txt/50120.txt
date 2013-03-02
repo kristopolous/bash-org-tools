@@ -1,0 +1,6 @@
+#50120 +(1)- [X]
+( shamoun )  lol, please don't root me
+( shamoun )  hey, i have a question
+( shamoun )  if im logged into root, is there some way i can do something like su to login to another user and then launch xchat
+( shamoun )  i don't want to have to leave xfce
+( shamoun )  well, now you all know im logged in as root. goodbye

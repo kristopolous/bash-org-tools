@@ -1,0 +1,5 @@
+#122713 +(1007)- [X]
+<Feren> I'm a network engineer, and I'm o-kay / I plot all night and capture packets all day.
+<Athena> You smack down PCs and eat Cat5, and go to the lavatory? On wednesdays you hunt scriptkiddies, and have roasted punk for tea?
+<Slipstream> Old MacDonald had a network. EIGRP. And on this Network, he had some packets. EIGRP. With an ACK, ACK, here, and an ACK, ACK, there. Here an ACK, there an ACK, everywhere an ACK-ACK. Old Macdonald had a Network. EIGRP.
+<Feren> ...

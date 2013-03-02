@@ -1,0 +1,6 @@
+#573260 +(1712)- [X]
+<wenko> today in java the prof asked the class for a simple iterator where we can  use some math
+<wenko> so this one guy pipes up and says "Make it an address book, and It will calcuate the percentage of girls that slept with you"
+<wenko> the prof looks up and says "I can't do that", meaning its not appropriate
+<wenko> so the guy yells back "why not?"
+<wenko> and the first thing that came to mind i said "You get an error when you divide by zero"

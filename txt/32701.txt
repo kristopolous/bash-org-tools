@@ -1,0 +1,8 @@
+#32701 +(414)- [X]
+<Snobbenunge> does anyone waht error: 0x1d1c4e86 referenced memory at 0x0000000000 the memory could not be read mean? :D
+<matricks> yes
+<Snobbenunge> what does it mean
+<Snobbenunge> ?
+<Snobbenunge> i only get it when i'm browsing the harddrives
+<matricks> someone forgot to check if a pointer was null before reading from it..
+<Snobbenunge> ok. so some troubles with the mouse drivers?

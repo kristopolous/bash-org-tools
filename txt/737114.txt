@@ -1,0 +1,9 @@
+#737114 +(238)- [X]
+<JeighEighm> Tauren, why don't you just sniff the packets and find out?
+<Tauren> how do i DO THAT?
+<Tauren> how  do I sniff packets
+<JeighEighm> Tauren, okay. It's easy. Get your network cable.
+<Tauren> How do I sniff?
+<JeighEighm> Hold it to your nose.
+<JeighEighm> Inhale.
+<JeighEighm> Smell those packets.

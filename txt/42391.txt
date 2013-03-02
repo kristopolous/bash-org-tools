@@ -1,0 +1,8 @@
+#42391 +(181)- [X]
+<@Phillip> so
+<@Phillip> ive come up with a rough formula to calculate the chance that a chick at a bar will want to screw me
+<@Phillip> C=[(p/t)/100]+100(D)
+<@Phillip> C is the percentage chance that she will want to
+<@Phillip> p is pi
+<@Phillip> t is the amount of time in seconds that i talk
+<@Phillip> and D is how drunk she is

@@ -1,0 +1,4 @@
+#4476 +(438)- [X]
+<Dreq> is there anyway to get the DOS version?
+<andy> the dos version of win98?
+<Dreq> yes

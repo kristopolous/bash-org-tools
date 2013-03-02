@@ -1,0 +1,3 @@
+#946461 +(1556)- [X]
+<@joosa> how do you say float in java? just 1.5f?
+<@Gliptic> FloatFactoryFactory.getInstance(FloatFactoryFactory.defaultInstanceDescriptionString).getFactory(Locale.getLocale("en-US")).createBuilder().setString("1.5").getResult()

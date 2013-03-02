@@ -1,0 +1,2 @@
+#14571 +(90)- [X]
+<Cardsfan> ethan - do u know by any chance how to get rid of something out of dev manager in windows xp?  it says it cannot delete it because it may be required for the computer to boot

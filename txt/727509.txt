@@ -1,0 +1,3 @@
+#727509 +(1252)- [X]
+<karrde> i asked Windows to delete 36 000 files from a directory, and i ve already waited for 15 minutes and nothing resultes...
+<LoL> it is preparing 36 000 "are you sure?" windows

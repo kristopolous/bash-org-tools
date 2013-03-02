@@ -1,0 +1,8 @@
+#755535 +(743)- [X]
+<mithro> anyone know how to get find to remove all files which are older then 7 days?
+<cherez> crap
+<cherez> I tried to google to help that
+<cherez> thinking to search a man page
+<cherez> "find older man"
+<cherez> it was bad :(
+<cherez> real bad...

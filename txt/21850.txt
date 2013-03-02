@@ -1,0 +1,10 @@
+#21850 +(157)- [X]
+<Farrod> garh, most evil code EVER: assign module_power2[9:0] = ((({10{ramped_tx_on}} & tx_on2[9:0]) |
+<Farrod>                                     ({10{ramped_rx_on}} & rx_on2[9:0]))
+<Farrod>                                     & block_enable_b[9:0]) | block_default_b[9:0];
+<elvisW> i'll see your evil code and raise you useless error message of the week:
+<elvisW> 08/08/2002 16:54:06 FATAL ERROR PANIC : General Protection Fault (#13) at $001759E0
+<elvisW> EAX=03205F94 EBX=00FD5CF4 ECX=DBB180AC EDX=67616D6A
+<elvisW> ESP=0045E62C EBP=0045E64C ESI=000000B9 EDI=03205F94
+<elvisW> --------------------------------------------------------------------
+<elvisW>   Unable to query the system log to give context.

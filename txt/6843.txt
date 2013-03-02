@@ -1,0 +1,4 @@
+#6843 +(236)- [X]
+<Logan> What kind of router takes 30 minutes to "cycle."
+<glasnost> i think we all know the answer to that
+<Logan> I don't think they're using an NT box for routing.

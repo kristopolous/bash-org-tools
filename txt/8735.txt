@@ -1,0 +1,7 @@
+#8735 +(574)- [X]
+<arfmcbarf> i'm gonna teach you a lesson you wont soon forget
+<arfmcbarf> i.e., how to integrate ln x from 0 to infinity
+<arfmcbarf> first you get the antiderivitive
+<arfmcbarf> of ln(x)
+<arfmcbarf> i.e., 1/x
+<arfmcbarf> then i forget the rest

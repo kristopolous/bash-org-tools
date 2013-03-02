@@ -1,0 +1,3 @@
+#11179 +(356)- [X]
+<drastic> anyone know of a program that would display free hd space for multiple drives on the desktop or something?
+<ninth> drastic: you could write down how much space is free on a piece of paper.. then scan it.. and set it as your wallpaper

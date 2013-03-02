@@ -1,0 +1,9 @@
+#11874 +(303)- [X]
+<GIJosh> do you still  have an MP3 server robin?
+<robin> yes
+<GIJosh> same place as before?
+<robin> nope
+<GIJosh> where is it?
+<robin> 127.0.0.1
+<GIJosh> cant connect
+<GIJosh> default port?

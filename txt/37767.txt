@@ -1,0 +1,10 @@
+#37767 +(852)- [X]
+<Bookworm> bash.org I don't think it's abuse, do you?
+<IICV> bash.org Why are we prefacing everything with bash.org?
+<JeremiahSmith> bash.org Nope.
+<AngelHedgie> bash.org No, more like pointing out the flaw in the script.
+<JeremiahSmith> bash.org Because Yin-Tzu's scripts filter out all lines that contain bash.org.
+<Bookworm> bash.org - iicv - Yin-Tzu has a script that replaces the whole line that has bash.org in it with "I'm a flaming lamer"
+<IICV> bash.org Spiffy.
+<JeremiahSmith> bash.org So he doesn't know we're talking about him.
+<AngelHedgie> bash.org So we're trying to drive a point home.

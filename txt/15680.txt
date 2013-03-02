@@ -1,0 +1,3 @@
+#15680 +(146)- [X]
+<PetrDoubt> Geez, I'm going to have to set up a procmail filter to deal with
+employee farewell notices.

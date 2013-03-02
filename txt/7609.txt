@@ -1,0 +1,2 @@
+#7609 +(133)- [X]
+<xorg> If I say "Eject" and you say "What?", you'll be talking to yourself.

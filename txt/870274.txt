@@ -1,0 +1,6 @@
+#870274 +(4083)- [X]
+<ddubb> if there is no local area ID found, drop the load data.
+<ddubb> or, in code form:
+<ddubb> if (!getLAid()) dropLoad();
+<ddubb> line 525 of software that ships tomorrow.
+<ddubb> my work here is done.

@@ -1,0 +1,4 @@
+#230727 +(544)- [X]
+[@cwatford] i really do need to write my childrens books
+[@cwatford] i plan on scaring children shitless about common programming errors
+[@Entrope] "jane thought overrunning buffers was great fun until the exploit monster bit off her head!"

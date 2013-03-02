@@ -1,0 +1,2 @@
+#71086 +(-21)- [X]
+<WhatUSee> does anybody know a decent format utility other than the windows default?

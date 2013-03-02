@@ -1,0 +1,5 @@
+#219418 +(300)- [X]
+* Avatar-X gives kris a colourful gift box with question marks and tux's printed all over. "Open it!"
+* Kris looks around nervously and slowly opens it
+<Avatar-X> it's empty!
+<Avatar-X> the box represents what an open-source linux programmer makes in a year :)

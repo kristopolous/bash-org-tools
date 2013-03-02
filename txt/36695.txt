@@ -1,0 +1,4 @@
+#36695 +(294)- [X]
+<pip> what does the +iz mean by my name?
+<MrFalcon> it means you can /disco
+<-- pip has quit (Quit: Disconnecting)

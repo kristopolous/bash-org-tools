@@ -1,0 +1,8 @@
+#3019 +(706)- [X]
+<yossarian> theres a hole in my bucket
+<tomg> yossarian: did microsoft make it?
+<yossarian> yes, MSBucket
+<tomg> have they made a patch for it yet?
+<tomg> no, they probably want you to upgrade to Bucket.NET
+<yossarian> with what shall i fix it dear microsoft, dear microsoft?
+<tomg> well the CBR (common bucket runtime) will have embedded security to prevent leaks

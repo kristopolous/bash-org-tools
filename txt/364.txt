@@ -1,0 +1,5 @@
+#364 +(405)- [X]
+<Santa> anybody know what solaris calls its kernel?
+<SfabN> Santa: look into the root dir and look for the biggest file, or look into /stand
+<token> biggest file?
+<token> "Huh, my kernel is called ``core''" :-)

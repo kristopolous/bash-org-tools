@@ -1,0 +1,7 @@
+#166386 +(1020)- [X]
+<@FirebirdGM> I just called my Futureshop and asked them how much a 20 GB Hard drive weighed when it was full with information, compared to when it was empty.
+<@FirebirdGM> The guy that was on the phone told me that it was only a few pounds difference.
+<@FirebirdGM> And that's why I don't shop at futureshop.
+<%Physic3> I think their bullshit factor is the best though. No matter how absurd your question may be, they always give an answer.
+<@Firebird> Lol, I should call again and be like 'uhh, yes. I just bought a New ACIT BIOS and my UDP Packets are being Tracert'd by my UNIX Box without my Fortran application being applied to all outgoing UDP and TCP packets. My Ping never is like that, why?!"
+<@Firebird> He would probably be like 'Yes'.

@@ -1,0 +1,4 @@
+#15593 +(182)- [X]
+? jimmy/#hadm ----- jimmy's work productivity rating as of 2:21PM --------
+? jimmy/#hadm 0% | --------------------------- | 100%
+? jimmy/#hadm   *- 0.01% (checked email)

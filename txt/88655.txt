@@ -1,0 +1,7 @@
+#88655 +(416)- [X]
+<Angelic> the best ones are the people who call up claiming to be network admins
+<Angelic> and you can tell its a total lie
+<Angelic> I had a "network admin" call once stating that he had the house wired with cat5 when it was built
+<Angelic> so he should be able to connect all 6 computers to the internet without a router ot hub
+<Angelic> wanted to know why the tech insisted it couldnt be done
+<Angelic> I asked him what was going to assign the dynamic addresses and he said the house

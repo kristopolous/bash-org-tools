@@ -1,0 +1,3 @@
+#449908 +(818)- [X]
+<zoe> yeah i think so b/c otherwise, using equation 4.5 you get the force and then to work back to torque is nontrivial i guess.....how were you going to do it?
+<GreenPenInc> the same way i was doing all the other problems, by banging my head against the desk and weeping softly

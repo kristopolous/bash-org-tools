@@ -1,0 +1,11 @@
+#691 +(1186)- [X]
+<wankel> Apr 16 17:43:34 mankind.boredom.org ftpd[9720]: zirconium (bogus) LOGIN FAILED [from cv796573-a.hcksvle1.ny.home.com]
+<wankel> Apr 16 17:43:34 mankind.boredom.org ftpd[9722]: zoology (bogus) LOGIN FAILED [from cv796573-a.hcksvle1.ny.home.com]
+<wankel> Apr 16 17:43:34 mankind.boredom.org ftpd[9721]: zoo (bogus) LOGIN FAILED [from cv796573-a.hcksvle1.ny.home.com]
+<wankel> Apr 16 17:43:34 mankind.boredom.org ftpd[9723]: zoom (bogus) LOGIN FAILED [from cv796573-a.hcksvle1.ny.home.com]
+<wankel> Apr 16 17:43:34 mankind.boredom.org ftpd[9724]: zooplankton (bogus) LOGIN FAILED [from cv796573-a.hcksvle1.ny.home.com]
+<wankel> WHOA SHIT
+<mendel> someone tell that luser that dictionary attacks refer to the PASSWORD part.
+<wankel> christ, 2000 lines back and he was only in w's :)
+<wankel> mankind:~ % grep LOGIN FAILED /var/log/messages | wc -l
+<wankel> 8923

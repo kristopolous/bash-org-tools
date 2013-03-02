@@ -1,0 +1,19 @@
+#114724 +(1137)- [X]
+* +ramoth4 slaps politik with an unsigned long double
+* +politik comes back with a _uint64 uppercut
+* +ramoth4 pulls out a struct and returns fire
+* +politik corrupts ramoth's heap
+* +Fire_Elemental-Coding- ducks to avoid leaked memory
+* +politik pops Fire_Elemental-Coding- square in the stack
+* +ramoth4 stuffs politik's face in the bitbucket, and begins to operate on nil pointers
+* +politik throws uncatchable exceptions around the room
+* +ramoth4 dodges skillfully with his try-catch block
+* +politik cuts off ramoth's private member
+* +ramoth4 encapsulates the wound in a protected class
+* +politik destroys all foes with up-casts to inappropriate derived classes!
+* +politik is out of ideas
+* +politik :: ~politik();
+* +ramoth4 declares flipcode his namespace!
+<+ramoth4> I win!
+* +ramoth4 beat C++.
+<+ramoth4> The last guy was hard.

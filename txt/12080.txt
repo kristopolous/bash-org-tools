@@ -1,0 +1,5 @@
+#12080 +(612)- [X]
+<@charlie_x> i have a command line program on my pc called dont.com
+<@charlie_x> if you type dont format c:\
+<@charlie_x> it says
+<@charlie_x> "ok i wont"

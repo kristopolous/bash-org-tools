@@ -1,0 +1,6 @@
+#6136 +(340)- [X]
+<ambrness> DEVICE=eth0
+<ambrness> BOOTPROTO=static
+<ambrness> BOARDCAST=203.21.86.255
+<ambrness> HAHAH... no wonder it had probs
+<ambrness> curse having an admin who speaks english as a second language

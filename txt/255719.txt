@@ -1,0 +1,6 @@
+#255719 +(2165)- [X]
+* om3ga has joined #hangman
+<hangbot> Hello om3ga! current game is as follows:
+<hangbot> a _ _   _ _ _ _   _ a s _   _   _ _ _ _ _ _   _ _   _ s
+<om3ga> all your base r belong to us
+* om3ga has left #hangman

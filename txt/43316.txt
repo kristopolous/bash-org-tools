@@ -1,0 +1,2 @@
+#43316 +(381)- [X]
+<shapr> whoa, my erc mode line is [#h,#e,#l,#p], I think my computer is trying to send me subliminal messages.

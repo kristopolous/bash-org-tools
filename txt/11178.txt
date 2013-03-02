@@ -1,0 +1,3 @@
+#11178 +(227)- [X]
+<niles> If you use that logic, then using a completely open and unsecured network would be ok if you sealed the computer in a locked metal box, since it would deter physical attacks by baseball bats (ALL attacks are of equal value, right?). Or you could say that adding the line "WWJD" to the telnet login prompt would
+be a valid defense since it would lower the instance of attacks by Christians by 80%.

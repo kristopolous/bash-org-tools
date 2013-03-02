@@ -1,0 +1,9 @@
+#7809 +(303)- [X]
+*** ChanServ sets mode: +nto ChanServ
+<surfnazi> /msg chanserv addop #channel adminpass nick (or hostmask)
+<]MC[-Penumbriate> thanks for setting it up
+<surfnazi> np
+*** surfnazi has left #clanmc
+<]MC[-Penumbriate> ok whats adminpass?
+<]MC[-Impletudable> whats the password?
+<]MC[-Valipulent> what's the pass

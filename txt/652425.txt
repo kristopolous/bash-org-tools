@@ -1,0 +1,4 @@
+#652425 +(1099)- [X]
+<justie> i did something stupid
+<justie> chmod -x chmod
+<justie> anyone knows how to fix it?

@@ -1,0 +1,5 @@
+#44537 +(145)- [X]
+<xcabbage> C++ takes forever to compile
+<richardt> xcabbage: you are referring to C++'s built-in coffee-refill time
+<richardt> it's a feature.
+<richardt> with C, there's no time.

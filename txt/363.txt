@@ -1,0 +1,5 @@
+#363 +(469)- [X]
+* inof has reached EOF (End Of Fruhstuck [breakfast]).
+<yu-> don't forget to close open descriptors now [wash the dishes] :)
+<inof> :-]
+<inof> *sigh*... Why isn't it as easy as in Unix?  You just do exit(), and all descriptors are closed automatically.  ;)

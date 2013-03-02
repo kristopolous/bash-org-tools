@@ -1,0 +1,4 @@
+#77489 +(596)- [X]
+<Jumper_> for an optimist the glass is half full, for a pessimist it is half empty, for an engineer it's twice as big as it needs to be
+<Thraddash> for a programmer it has too few interfaces?
+<Jumper_> for a programmer it's a Basic Input Output System (BIOS) with a buffer overflow just waiting to happen

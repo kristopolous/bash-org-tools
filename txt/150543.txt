@@ -1,0 +1,3 @@
+#150543 +(649)- [X]
+<Picco|0z> {[io_sreep]} Can you explain what RAID is to me?
+<halcy0n> isn't it two harddrives where one holds all the 1's and the other holds all the 0's?

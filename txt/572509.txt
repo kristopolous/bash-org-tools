@@ -1,0 +1,13 @@
+#572509 +(2338)- [X]
+<EventHorizon> is it just me or does our prof wear sweaters alot?
+<swtaarrs> that's a sweatshirt
+<EventHorizon> yeah
+<EventHorizon> i think sweatshirt extends sweater though
+<EventHorizon> so its still an instance
+<DroolingSheep> no it doesn't sweaters suck
+<swtaarrs> you're an instance of stupid
+<EventHorizon> ur an instance of ur mom
+<ChixLoveUnix> I implemented your mom last night.
+<EventHorizon> i extended ur mom so bad she threw an exception
+<EventHorizon> or something
+<swtaarrs> if your mom were a collection class, her insert method would be public

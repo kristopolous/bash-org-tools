@@ -1,0 +1,5 @@
+#51054 +(0)- [X]
+-ChanServ- Welcome to #Dynasty. Please note that these services have full help files and a quick /msg *Serv HELP (IE. /msg ChanServ HELP) will give you a complete listing. Please do not use any scripts in this channel. This includes but is not limited to, mp3 and system status scripts.
+* Nice_Ghuy (~_________@202.155.106.DynastyNet-64857) has joined #Dynasty
+<Nice_Ghuy> /msg *Serv HELP
+* Nice_Ghuy (~_________@202.155.106.DynastyNet-64857) has left #Dynasty

@@ -1,0 +1,7 @@
+#774114 +(629)- [X]
+<echin> regexman, regexman, matches text when no one can
+<mguzman> parses text, any size
+<echin> captures strings, on the first try
+<echin> look out, here comes the regexman
+<tooth> You're all a bunch of fucking nerds
+<yangman> so awesome

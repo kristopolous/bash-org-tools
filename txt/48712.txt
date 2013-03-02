@@ -1,0 +1,6 @@
+#48712 +(8)- [X]
+<zephir> hm
+<zephir> think my moms up
+<Hesh> tell her i want peppers and eggs for breakfast
+<zephir> should i dcc that to you?
+<zephir> ./dcc send hesh peppersandeggs.food

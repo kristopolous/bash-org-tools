@@ -1,0 +1,3 @@
+#697534 +(794)- [X]
+<Kalthare> Dammit, I'm losing my stack pointer somewhere in fat_mount(). :(
+<Quazgaa> Kalthare: sounds like a bad date

@@ -1,0 +1,7 @@
+#96309 +(860)- [X]
+<Sonecor> How do you shut down someone else's computer?
+<^Kitari^> You mean in mIRC?
+<Sonecor> Yeah
+<^Kitari^> Oh, you type /q <nick>
+<Sonecor> Thanks =D
+* Sonecor (Pickle@68.112.96.67) Quit (Quit: ^Kitari^)

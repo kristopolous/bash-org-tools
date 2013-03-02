@@ -1,0 +1,8 @@
+#103537 +(150)- [X]
+<hohum> when you get to the printf(); *BAM* instant coredump followed by an suid shell
+<hohum> get it?
+<brandon> to a degree
+* brandon isn't much on programming
+<hohum> don't worry, neither are the people who write software :)
+<brandon> lol
+<hohum> you'd fit right in

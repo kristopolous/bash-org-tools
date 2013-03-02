@@ -1,0 +1,5 @@
+#30508 +(849)- [X]
+<Guest56750> Hi how do you change your name?
+<Guest56750> iam new to mirc
+<Guest69> type "/nick nickname"
+*** Guest56750 is now known as nickname

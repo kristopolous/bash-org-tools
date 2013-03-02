@@ -1,0 +1,5 @@
+#11841 +(534)- [X]
+<iNoah> "hi, I'm a lisp virus.  please read me with an emacs mail reader and eval me."
+<moof> (defun email-virus-hook 'my-virus)
+<iNoah> s/defun /add-hook '/
+<kermit> Noah takes defun out of everything.

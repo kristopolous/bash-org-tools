@@ -1,0 +1,2 @@
+#213719 +(-76)- [X]
+<wshs> on @*:TEXT:*allah*:#:kb $nick terrorist!

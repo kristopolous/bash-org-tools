@@ -1,0 +1,4 @@
+#42204 +(151)- [X]
+<@sequence> linux has its place
+<@sequence> if nothing else, it keeps the morons out of *BSD
+[S+Z] CTCP VERSION reply from sequence: ircII EPIC4-0.9.2-ssl Linux 2.2.16-3 - Accept no limitations.

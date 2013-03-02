@@ -1,0 +1,5 @@
+#840506 +(-29)- [X]
+<@TekniQue> just keep it simple
+<@TekniQue> if(Field.Grass == TRUE) { Ball.play(). }
+<Kjarrval> But what if someone has performed Field.Shave() ?
+<@TekniQue> good question

@@ -1,0 +1,3 @@
+#302416 +(1124)- [X]
+<@Methical> did anyone else hear about the new dual-proc board for low-end AMD processors? it's optimized for playing 80's mp3's.
+<@Methical> They call it the Duron-Duron.

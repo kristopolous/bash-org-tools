@@ -1,0 +1,2 @@
+#12698 +(300)- [X]
+(01/21/02) 11:41PM<MrDev-> christ, they should put a nice warning when you log into a solaris box that killall on linux and solaris are entirely different commands

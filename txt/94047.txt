@@ -1,0 +1,5 @@
+#94047 +(596)- [X]
+* kenny has joined #php
+* kenny quit (Read error: Connection reset by peer)
+<tractor> omg peer killed kenny
+<therealpro> that bastard

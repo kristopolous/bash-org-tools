@@ -1,0 +1,50 @@
+#125728 +(1960)- [X]
+<Shempo> ...do I have to set the drive to like...master..slave..blahblahblahb...o.O
+<ShadowRage> slave
+<ShadowRage> look at the jumpers on it
+<ShadowRage> there will either be an M or an S, or just mater or slave
+<ShadowRage> pop the jumpter on slave
+<ShadowRage> jumper*
+<ShadowRage> if it's the primary hd, then master
+<Shempo> Well...Rawr..
+<Shempo> I plugged the bitch im
+<Shempo> in8
+<Shempo> in*
+<Shempo> it rawred at me
+<Shempo> CLIIIKC CLICKCLIIICCK
+<Shempo> ..now what?
+<ShadowRage> access the bios
+<ShadowRage> (either escape, f1 or delete when your computer first powers on)
+<Shempo> yea..
+<Shempo> and?
+<ShadowRage> what kinda BIOS do you have?
+<Shempo> dunno
+<ShadowRage> this is on an older machine?
+<Shempo> 1 year
+<ShadowRage> hmmm
+<ShadowRage> ok, are you in the bios?
+<Shempo> ..no
+<Shempo> That'd require restarting.
+<ShadowRage> ... you added this HD with the computer on?!
+<Shempo> >.>
+<Shempo> <.<
+<Shempo> :D
+<ShadowRage> ..on your current machine?
+<ShadowRage> right now?
+<Shempo> o.o
+<ShadowRage> .....................................................
+<Shempo> Run?
+<ShadowRage> lowkey: give me the learnin' stick.
+<Shempo> ...
+<Shempo> :(
+<Shempo> The 2x4?
+* ShadowRage smacks Shempo with a 2 by 4
+<Shempo> :(
+<Shempo> Yea...dumb mistake..
+<ShadowRage> ....you seriously plugged it in with the machine ON?!
+<Shempo> Possibly harmful?
+<ShadowRage> ......
+<ShadowRage> yes
+<ShadowRage> very
+<Shempo> o.o
+<ShadowRage> ..it's a surprise your computer didnt explode and kill you in the process.

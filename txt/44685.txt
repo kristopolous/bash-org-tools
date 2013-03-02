@@ -1,0 +1,5 @@
+#44685 +(153)- [X]
+*Duck has joined #linux
+<Duck> does anyone know how to fix my harddisk memory when i get the error: After you restart your system, check that you have sufficient hard disk memory secured.
+<@Cradly> Duck try not filling your hard drive 100%
+<Duck> how do i not do that

@@ -1,0 +1,7 @@
+#830566 +(-99)- [X]
+<dubkat> i just ran a traceroute from me, to my my box at my sisters house. it travels the frackin east cost before arriving.
+<dubkat> rediculous. (she only lives up the street)
+<hohum> dubkat: I'd like to see a traceroute like that
+<hohum> I want to be fondly reminded of my days of using NTT/Verio as a transit provider
+<hohum> them cats were like an ISP chop shop
+<hohum> they steal your ISP, chop it up and bolt it on to some shitty souped up japanese hosting company

@@ -1,0 +1,4 @@
+#162323 +(571)- [X]
+<Deltan> I think that machine needs a reboot
+<Deltan> Try to edit the net adapter properties.  "An unexpected error has occured" with an OK button.
+<Deltan> Where's the, "No it's not fucking OK" button.

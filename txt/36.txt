@@ -1,0 +1,2 @@
+#36 +(1456)- [X]
+<McMoo> wouldn't it be great if someone made a program where we could connect to a server and chat with each other in channels we create?

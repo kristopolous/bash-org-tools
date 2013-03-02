@@ -1,0 +1,18 @@
+#98997 +(121)- [X]
+<teefers> im khaleds rat
+<teefers> he pays me $20 an hour to log anything anyone says about him on undernet
+<teefers> then i send it to him
+<teefers> and he winnukes people
+<vulture_> teefers: then log this: Khaled, your programming ineptitude must be the envy of every Microsoft programmer. not to mention, I hate you.
+* teefers sends that shit to khaled and watches alex get winnuked h0 h0 h0
+* vulture_ nearly injures himself watching tcpdump output...
+<vulture_> :P
+<Untitled2> ha!
+<Untitled2> I wish I were leet enough to interpret tcpdump raw output real time
+<vulture_> ever consider filtering it so you don't have to?
+<vulture_> :P
+<Untitled2> what would the fun in that be
+<vulture_> being able to laugh at someone's winnuke attempts?
+<Untitled2> There's an idea
+<Untitled2> and have it log to syslog "silly nuke attempt from x.x.x.x
+<vulture_> "initiating automatic retaliatory smurf..."

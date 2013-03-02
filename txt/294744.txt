@@ -1,0 +1,6 @@
+#294744 +(704)- [X]
+<@Aeriana> University union elections next week, there's this candidate
+<@Aeriana> Her poster is like...
+<@Aeriana> It says "people + vision = change"
+<@Aeriana> I'm thinking.....
+<@Aeriana> It doesn't equals change, it will return a data type mismatch.

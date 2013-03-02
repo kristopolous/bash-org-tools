@@ -1,0 +1,6 @@
+#65829 +(242)- [X]
+< mctaylor> you want to use outlook?
+<@nt_> erm, yes
+<@nt_> why
+< mctaylor> um, well bug ridden, slow, memory hog, mta client that doesn't follow RFCs...
+<@nt_> good point, i'll just migrate the entire company across the globe to Pine/Mutt and then code some nice GroupWare functionality into it

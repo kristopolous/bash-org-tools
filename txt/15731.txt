@@ -1,0 +1,5 @@
+#15731 +(519)- [X]
+<depresso> Compaq FAQ: Where is the ANY Key? (FAQ2859)
+<depresso> This is not a key. When you are instructed to press any key, this
+means you can press any of the keys on the keyboard (such as the Enter key,
+the R key, or the space bar).

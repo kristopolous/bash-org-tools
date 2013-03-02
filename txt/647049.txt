@@ -1,0 +1,9 @@
+#647049 +(1258)- [X]
+sitexec: okay, question
+sitexec: if you have a whole loaf of bread, and 3 peices have mold, are the rest okay?
+kitchen: sitexec, not bread
+kitchen: cheese yes, bread no
+sitexec: they wernt touching each other
+kitchen: doesnt matter
+sitexec: hmm, second question
+sitexec: what if ive eaten it already?

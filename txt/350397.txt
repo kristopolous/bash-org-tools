@@ -1,0 +1,5 @@
+#350397 +(1684)- [X]
+* qwerty- wonders why Home and End aren't yet implemented
+<qwerty-> pretty useful keys, for me at least
+<Mike`> The Home key works for me; everytime I press it, I look around and I'm at home.
+<Mike`> I haven't had the guts to try the End key yet.

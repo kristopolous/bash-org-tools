@@ -1,0 +1,6 @@
+#14583 +(129)- [X]
+*** mad-splat (~mad-splat@2-170.borcpe.cableone.net) has joined #programming
+<mad-splat> @find *turbo*c++*
+<mad-splat> @find *codewarrior*
+<dos622> @find you*being*banned
+*** mad-splat (~mad-splat@2-170.borcpe.cableone.net) has left #programming

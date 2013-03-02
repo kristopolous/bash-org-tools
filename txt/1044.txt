@@ -1,0 +1,6 @@
+#1044 +(412)- [X]
+<digdug> i think i've come up with a solution to my problem
+<digdug> i'll just put each [previously misconfigured NT] box into its own domain
+<digdug> mwuahahahah
+<h2odragon> digdug: you are in Hell; all you can do is push the rock up a different wall for a while
+<h2odragon> it's still going to roll back down

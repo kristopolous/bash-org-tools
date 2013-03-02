@@ -1,0 +1,9 @@
+#605501 +(4207)- [X]
+<k2xl> in 1998, i made a C++ program to calculate pi to a billion digits.
+<k2xl> i coded it on my laptop (pentium 2 i think) and then ran the program.
+<k2xl> the next day i got a new laptop but decided to keep the program running.
+<k2xl> it's been over seven years now since i ran it. and this morning it finished calculating.
+<k2xl> the output:
+<k2xl>      "THE VALUE OF PI TO THE BILLIONTH DIGIT IS = "
+<k2xl> mindblowing eh?
+<k2xl> i looked in the code of my program, and i found out that i forgot to output the value :(.

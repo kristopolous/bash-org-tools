@@ -1,0 +1,7 @@
+#15724 +(519)- [X]
+<marcus> can you make a cisco route packets based on their source address?
+<Jon2> marcus: yes.  policy-based routing
+<FlashMan> marcus - yes, using policy routing
+<RoadRuner> marcus: yes. policy routing
+<marcus> anyone else?
+<drifter-> marcus: yes. policy routing

@@ -1,0 +1,5 @@
+#11033 +(664)- [X]
+<Rammie> how do I change my quit message
+<EileenB> type /quit message
+*** Rammie has quit IRC (message)
+<EileenB> :D

@@ -1,0 +1,11 @@
+#45662 +(4)- [X]
+<nothin> halc: I could build a 64TB SCSI RAID array for $210,000 or so
+<nothin> Single machine.
+<mij> i could clone you for $210,000
+<mij> :)
+<nothin> I suppose another $10,000 for a machine with power to serve it all
+<nothin> mij: What a waste.
+<mij> not really
+<mij> cuz then you could build twice as many of those machines in a day
+<mij> and i'd make bank
+<mij> :)

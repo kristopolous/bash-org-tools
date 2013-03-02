@@ -1,0 +1,6 @@
+#658085 +(473)- [X]
+<nickee> how can i se the size on layers in photoshop ??
+<Unhold> ctrl+acn return ctrl+v alt+ii
+<Unhold> common shortcut
+<nickee> huh o_O
+<Unhold> yeah, sometimes i think photoshop evolved from emacs

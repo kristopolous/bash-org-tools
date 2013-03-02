@@ -1,0 +1,4 @@
+#4746 +(185)- [X]
+<morganti> the problem is if I have referrer logging turned off, the images will not load because the site is trying to stop queers from linking to their content, so if the referrer is blank the image won't load....
+<morganti> however I have a program that is supposed to set the referrer to the sites domain that I am visiting, but it doesn't seem to be working
+<_8ight> humm.  well, u go to alot of trouble to surf for porn then huh?

@@ -1,0 +1,5 @@
+#640890 +(1333)- [X]
+<FBS> how do you know the exact version of bind ?
+<FBS> fuck those who answer bind -v or some other bullshit
+<eb> bind -v
+<ghoz> other bullshit

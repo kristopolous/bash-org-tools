@@ -1,0 +1,8 @@
+#743307 +(253)- [X]
+<mentor> How do you escape handcuffs?
+<fudge> Are you in handcuffs?
+<fudge> Depend very much on the design.
+<fudge> Well-designed handcuffs are, unsurprisingly, quite hard to escape.
+<fudge> Houdini's stuff was mostly based on having hidden bits of metal that could be used to pick the lock.
+<mentor> backslashes
+* fudge hits mentor

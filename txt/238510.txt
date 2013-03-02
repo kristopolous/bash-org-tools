@@ -1,0 +1,5 @@
+#238510 +(928)- [X]
+*** Signoff: Froz- (Quit: and /exit were sitting in a park. /exit left, so who was still sitting in the park?)
+*** Froz- (~nogonnta@dsl-lprgw4g4c.dial.inet.fi) has joined channel #mpsource
+*** Mode change "+o Froz-" for channel #mpsource by ChanServ
+<Froz-> /quit and /exit were sitting in a park. /exit left, so who was still sitting in the park?

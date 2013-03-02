@@ -1,0 +1,2 @@
+#427390 +(118)- [X]
+* peer has quit IRC (Killed (genome (consider your connection reset!)))

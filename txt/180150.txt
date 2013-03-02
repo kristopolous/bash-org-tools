@@ -1,0 +1,31 @@
+#180150 +(1495)- [X]
+*** YOU has joined #gamedev
+* YOU HAVE RECEIVED A FATAL ERROR, PRESS ALT + F4 TO REPAIR THIS IMMEDIATELY
+<Waxycat> teh
+<Waxycat> it says i recieved a fatal error
+<posit> Waxycat: oh that happens some times, you have to press alt+f4 to fix it
+<posit> *sometimes
+<Waxycat> that quits irc
+<Falnom> ALT+F4 quick!
+<Waxycat> why?
+* YOU HAVE 30 SECONDS TO RESTART MIRC
+<posit> you have a fatal error
+<Waxycat> otherwize?
+<posit> if you don't restart it may damage your system
+<Waxycat> it says i have 30 seconds
+*** Waxycat has quit IRC []
+<posit> damn yeah
+<Palish> bahhahah.
+*** Waxycat has joined #gamedev
+* YOU HAVE RECEIVED A FATAL ERROR, PRESS ALT + F4 TO REPAIR THIS IMMEDIATELY
+<Waxycat> what happened?
+<Waxycat> again?!?!
+<Waxycat> it says it again!
+<posit> again?
+<Waxycat> what should i do?!
+<posit> maybe a config problem
+<Waxycat> what will happen if i don't quit?
+<posit> not sure exactly
+<posit> but I don't think it's good
+* YOU HAVE 30 SECONDS TO RESTART MIRC
+*** Waxycat has quit IRC []

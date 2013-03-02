@@ -1,0 +1,3 @@
+#146402 +(287)- [X]
+(bigwurm) if your concerned about the ammount of cpu time an onboard sound card uses, you should really get a new cpu + mobo
+(@|-ZenitH-|) or a life

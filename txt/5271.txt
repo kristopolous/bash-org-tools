@@ -1,0 +1,3 @@
+#5271 +(660)- [X]
+* xL is thinking of a book on "100 useless applications of Cat-5 cables"
+<xL> #1: A windows NT network

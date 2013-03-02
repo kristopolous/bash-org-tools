@@ -1,0 +1,10 @@
+#45927 +(442)- [X]
+<009> no... i mean, what is the ascii value of the number 10??
+<009> like for space its 32
+<009> for l its 76
+<poo_al> yes i know what you mean
+<009> therefore, what's for the number 10???
+<poo_al> 10 is a line feed
+<009> I DON'T MEAN WHAT WILL GIVE ME FOR THE VALUE OF 10...
+<poo_al> then what do you mean?
+<009> I WANT THE ASCII VALUE WHICH WILL GIVE ME A NUMBER 10

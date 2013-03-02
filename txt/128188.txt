@@ -1,0 +1,6 @@
+#128188 +(369)- [X]
+(lithrye) I'm experiencing an annoying problem.
+(lithrye) hlds is killing my ISP's router.
+(Silicon) and how exactly do they say it's doing that
+(lithrye) it's causing it to drop packets.
+(Silicon) what are they using Fischer Price, My first router?

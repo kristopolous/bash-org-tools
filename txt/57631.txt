@@ -1,0 +1,6 @@
+#57631 +(56)- [X]
+< dai> my knowledge of c/c++ is comparable to my knowledge of women
+< Weeble> dai: got a null pointer huh?
+< pairo> You can always read books about C.
+< shiwan> dai: that doesn't say very much. :P
+< dai> shiwan: you're a cruel one

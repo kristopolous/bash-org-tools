@@ -1,0 +1,9 @@
+#913014 +(827)- [X]
+<blaxthos> this just in
+<blaxthos> waiting on long sql queries < *
+<beakman> write better queries.
+<beakman> :D
+<loon> OH SNAP
+<loon> point - beakman
+<blaxthos> deleting 17million rows takes a long time no matter how you slice it
+<loon> finally removing all the racist quotes on bash.org?

@@ -1,0 +1,4 @@
+#59145 +(181)- [X]
+<+m1g> anyone know where i can find the win9X DDK ?
+<@tenfour> yeah
+<@tenfour> 1998

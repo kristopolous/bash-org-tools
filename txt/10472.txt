@@ -1,0 +1,5 @@
+#10472 +(23)- [X]
+<deimos_> so now i gotta get bitchx working the way i want
+<deimos_> and modify the stats util for bitch log format
+<deimos_> hh, bitchx rather
+<Toast> yeah, I was going to say that hep doesn't HAVE  a log format..

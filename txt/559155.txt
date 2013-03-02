@@ -1,0 +1,6 @@
+#559155 +(397)- [X]
+Maxim: My alarm clock software demo expired.
+Maxim: So I changed the system time by a week, and it worked.
+Maxim: But I forgot to change the alarm setting accordingly.
+Maxim: So the alarm didn't go off, and I missed the appointment.
+Maxim: :-(

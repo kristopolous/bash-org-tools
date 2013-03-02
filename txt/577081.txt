@@ -1,0 +1,9 @@
+#577081 +(887)- [X]
+<Twin`> magneto-optic media a laser heats up one side of the disc
+<Twin`> which induces a magnetic quality on the other side
+<Twin`> the magnetic head then write to the surface while it's heated
+<Twin`> as for playback, the laser bounces light off it's side, and thanks to the kerr effect, reads the information off that way
+<Fearless> Really.
+<Fearless> I just put the disc in
+<Fearless> and hit play
+<Fearless> that also works

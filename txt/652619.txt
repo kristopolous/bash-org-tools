@@ -1,0 +1,8 @@
+#652619 +(568)- [X]
+<Commander> whoa that's not good
+<Commander> the end of my mobile plug (plugged into the USB port on my PC) was sitting in the side of a potplant IN WATER
+<Commander> i pulled it out and it said "new usb device found"
+<Commander> =/
+<Commander> dunno how long it's been sitting there for
+<CompHobbyist> new USB device found: potted plant v.001
+<CompHobbyist> power usage for this device: -10W

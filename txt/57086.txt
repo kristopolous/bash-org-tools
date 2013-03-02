@@ -1,0 +1,12 @@
+#57086 +(836)- [X]
+*** Psy is now known as PSG
+*** Signoff: PSG (Killed (NickServ (GHOST command used by Amulya)))
+*** Psy (Psy@cloaked.tnt73.nyc3.da.uu.net) has joined channel #penny-arcade
+*** Mode change "+v Psy" for channel #penny-arcade by ChanServ
+*** Psy is now known as PSG
+*** Signoff: PSG (Killed (NickServ (GHOST command used by Amulya)))
+*** Psy (Psy@cloaked.tnt73.nyc3.da.uu.net) has joined channel #penny-arcade
+*** Mode change "+v Psy" for channel #penny-arcade by ChanServ
+*** Psy is now known as PSG
+*** Signoff: PSG (Killed (NickServ (GHOST command used by Amulya)))
+<Anatole> You know, a lab mouse would have learned by now.

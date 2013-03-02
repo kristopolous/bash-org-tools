@@ -1,0 +1,6 @@
+#26335 +(864)- [X]
+* Quits: Pyoveli (~vepyo@dsl-hkigw1ffa.dial.inet.fi) (Ping timeout)
+* Quits: Waltro (~waltro@d5k.net) (Ping timeout)
+* Quits: Alanzo (~Solid_Sna@dsl-olugw4ge6.dial.inet.fi) (Ping timeout)
+* Quits: Landusia (~L4ndusia@line128.dyn.tutka.net) (Ping timeout)
+<Fleebis> finland is crashing

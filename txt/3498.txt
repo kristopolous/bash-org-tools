@@ -1,0 +1,2 @@
+#3498 +(213)- [X]
+<stack> if($want == "illegal") connect(efnet);

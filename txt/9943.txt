@@ -1,0 +1,6 @@
+#9943 +(387)- [X]
+<Kwyjibo> the vector keeps throwing an exception when using std::vector<Texture*>
+<Kwyjibo> when i insert ()
+<hanzwurst> throw it back ;)
+<Kwyjibo> hey
+<Kwyjibo> this would a add a new meaning to the word "class struggle" ;)

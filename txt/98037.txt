@@ -1,0 +1,7 @@
+#98037 +(114)- [X]
+*** sonic_1 (rick@highlife.net) has joined channel #perl
+<sonic_1> can someone tell me whats wrong with this script?
+<sonic_1> #!/usr/bin/perl
+<sonic_1> for $x in 'ls --width=1';
+<sonic_1> do 'mv $x ~$x/Mailbox;chown $x.mail ~$x/Mailbox';
+<sonic_1> fi

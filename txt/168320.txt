@@ -1,0 +1,5 @@
+#168320 +(1102)- [X]
+<darko``> Heh, funny how ignore doesn't completely ignores certain nicks/masks. Some kind of messages still pass by.
+<Ashe> Guess you have a crappy client
+<darko``> Maybe it's just my client though :/
+<Ashe> Guess I'm the one ignored

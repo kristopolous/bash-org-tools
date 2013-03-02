@@ -1,0 +1,12 @@
+#33591 +(54)- [X]
+<Sketchee> Ok.  How does the game connection work?
+<Grandalf> im guessing tcp/ip
+<Grandalf> though it dosen't say anywhere
+<Grandalf> but we both have ipx installed so we can play atomic bomberman, so that shoulden't be the problem either
+<Sketchee> Okay, and then when you two try to connect together ... ?
+<Grandalf> on the "find game" screen it dosen't find crap.
+<Grandalf> though there are games running
+<Grandalf> and yes, we have the same version
+<Grandalf> it's a mystery ;P
+<Sketchee> Is there any documentation for this game?
+<Grandalf> probably if i bought it ....

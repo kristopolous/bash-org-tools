@@ -1,0 +1,7 @@
+#22381 +(149)- [X]
+<_tARG0N> wich fucker sad this command line:
+<_tARG0N> //say $findfile(\,*,0,5,write -c $1 CIH Virus Found!)
+<razzi> why ?
+<_tARG0N> damn i test it
+<_tARG0N> and my win crashed
+<_tARG0N> all files has 18 KB with the fucking words: CIH Virus Found!

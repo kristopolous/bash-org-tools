@@ -1,0 +1,10 @@
+#7025 +(251)- [X]
+<skychic> how do you exit channels?
+<anarch> use /quit
+*** skychic has quit IRC (Quit: Leaving)
+<anarch> heheh
+*** skychic has joined #lummies
+<CrashCat> hmm, you must have missed a parameter
+<CrashCat> try /quit #lummies
+<skychic> cheers!
+*** skychic has quit IRC (Quit: #lummies)

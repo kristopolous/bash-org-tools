@@ -1,0 +1,5 @@
+#647060 +(872)- [X]
+<@Rask> ... oh man
+<@Rask> The next version of TCP/IP
+<@Rask> Must replace SYN and ACK
+<@Rask> with ORLY and YARLY

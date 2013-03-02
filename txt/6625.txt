@@ -1,0 +1,4 @@
+#6625 +(157)- [X]
+<@Greg> how do i start apps automatically when i log into os x?
+<@desnarf> hit it with a hammer
+<@desnarf> but you need a robot arm for it to happen automatically

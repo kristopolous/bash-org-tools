@@ -1,0 +1,10 @@
+#1324 +(54)- [X]
+<[cut]> fuckin russians made my ftp server crash last night. somebody from 212.46.194.123 -> ip-583.dialup.cl.spb.ru
+<hypr> hahhahwhaw
+<[cut]> what the fuck
+<[cut]> somebody from romainia tried to steal my leapFTP bookmark file
+<[cut]> (005570) 6/3/2001 12:04:28 AM - 56k (217.13.97.62) > asked to change directory : 'C:ftpmp3 -> C:ftpmp3C:PROGRAM FILESLEAPFTP' --> Access denied (No Such Directory).
+<[cut]> Resolved 217.13.97.62 to mflorin.soft.forte.ro
+<hypr> hahahahahaha
+<SysError> cut the foreigners want war with you
+<[cut]> i added to my welcome message.. IF ALL OFF YOU EUROPEAN/ASIAN FOREIGN FUCKS KEEP TRYING TO "HACK" ME. THE SERVER WILL GO PRIVATE.

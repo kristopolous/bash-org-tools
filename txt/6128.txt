@@ -1,0 +1,3 @@
+#6128 +(538)- [X]
+<ambrgone> the way i figure it, if the hard drives go at 7200rpm on 12V, on
+240V, they should go.... EVEN FASTER!!!!!

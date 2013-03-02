@@ -1,0 +1,5 @@
+#7991 +(434)- [X]
+<someone>: how good does txt compress?
+<overmind>: rather good, they often can be compressed to 10% of their original volume
+<someone>: no, i meant which one compresses better doc-files or txt, because I want to export my icq-history and in word it has 600 pages, so which one should i take?
+<overmind>: take word and set the font size to 1, so you get the best compression

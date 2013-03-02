@@ -1,0 +1,14 @@
+#43553 +(783)- [X]
+<Psy> how many MB in a Gig again?
+<seafoodgod> 1024
+<bobAkirafett> yea
+<Psy> jesus wept
+<[Bryan]> seafoodgod: But it's kind of funny because some Hard Drive manufacturers would say that 1 gigabyte would equal 1000 megabytes of data instead of 1024.
+<seafoodgod> well, when you install the supposedly 80gb drive and it comes up 74.6gb, you know they're fucking morons
+<[Bryan]> seafoodgod:  zactly my point.
+<seafoodgod> and lying bastards.  but they cover their asses quite well:  "up to 80gb"  whatever the fuck that means
+<[Bryan]> seafoodgod: Sure some of that goes to the partion table and indexes and all that fun stuff.. but..err....
+<seafoodgod> i just want to know where the other 5.4gb went.  what?  did it go to a fucking party while i was formatting?  did it go out to play golf and lose it's keys in a hazzard and have to spend the night over at a friend's drive?
+<bobAkirafett> lol
+<seafoodgod> that bastard 5.4 gig never cleans up after itself, either.  never mows the grass or does the dishes or takes out the fucking trash
+<seafoodgod> maybe i'm better off without it.  YOU HEAR ME 5.4 GB!!!!   I DON'T NEED YOU!!!!

@@ -1,0 +1,7 @@
+#162822 +(277)- [X]
+<D5_work> "I am having trouble logging in"
+<D5_work> 'your username is case sensitive'
+<D5_work> "But I know my username is case-sensitive"
+<D5_work> 'okay, let's look at your account'
+<D5_work> 'what's in the username field?'
+<D5_work> "I told you, it's 'case-sensitive'"

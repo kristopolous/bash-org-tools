@@ -1,0 +1,13 @@
+#420439 +(348)- [X]
+<@Casper> Girl from work and I went to the pool hall
+<@Casper> I asked her if she wanted to start talking
+<@Casper> She said we would talk about it tomorrow
+<@Casper> She has a nice looking sister too
+<@cypher> start talking about what?
+<@Casper> going out
+<@cypher> people _plan_ relationship status?
+<Vehementi> not only do they plan relationship status, they plan *talking* about relationship status.
+<Vehementi> later in the relationship this is more commonly known as the "Let's talk about our relationship" trap
+<@cypher> Vehementi: <3
+<sh> $relationship->discuss();
+<sh> new Relationship;

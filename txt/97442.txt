@@ -1,0 +1,4 @@
+#97442 +(680)- [X]
+<A|LOCO> !setinfo #women this is my setinfo, bow down
+-ChanServ- You lack access to #women.
+<A|LOCO> =(

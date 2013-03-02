@@ -1,0 +1,6 @@
+#15715 +(8)- [X]
+<FlashMan> we had a guy at pyramid who was stupid enough to plug a mac monitor
+(DB15)
+<FlashMan> into an AUI port on the mac
+<FlashMan> and fizzle pop crack zzzt
+<FlashMan> dead monitor

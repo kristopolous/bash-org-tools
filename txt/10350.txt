@@ -1,0 +1,10 @@
+#10350 +(1084)- [X]
+<ignatz> You are carrying one half-empty Anchor Steam beer, a GameBoy, and an angst-filled heart.  You are in a clearing in the woods near a technology company.
+<zebulon_y> w
+<ignatz> You fall into the Pacific Ocean.
+<zebulon_y> e
+<ignatz> You are in a clearing in the woods near a technology company. There is a dwarf here with a hat that says "QA" on it.
+<zebulon_y> drink beer
+<ignatz> glug.
+<zebulon_y> say hello to dwarf
+<ignatz> FUCK YOU, THAT'S MARKETING'S JOB says the dwarf. He hits you with a memo and you die.

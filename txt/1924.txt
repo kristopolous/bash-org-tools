@@ -1,0 +1,4 @@
+#1924 +(316)- [X]
+(nexxai) char *peopleOnEarth, *peopleMyHoes; if (sizeof(peopleOnEarth) == sizeof(peopleMyHoes)) { printf("Hi.\n"); }
+(nexxai) Hi.
+(nexxai) <-- not a geek.

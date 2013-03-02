@@ -1,0 +1,7 @@
+#105640 +(269)- [X]
+SmarterChild: OK, let me make sure I have the right information about your age level. How old are you?
+1 Over 17
+2 13-17
+3 Under 13
+Lisa Garland IV: 1
+SmarterChild: Cool! Do you want to have some fun?

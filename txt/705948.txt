@@ -1,0 +1,3 @@
+#705948 +(-28)- [X]
+< niblr> the Geneva Convention really should prohibit the forced rewriting of Ruby code into PHP
+< niblr> it's an inhumane torture... and I'm being subjected to it, one little piece of code at a time

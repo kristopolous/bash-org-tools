@@ -1,0 +1,5 @@
+#16293 +(660)- [X]
+<Calrathan> omg, the despair is making me use gotos!
+<Calrathan> goto cliff
+<Calrathan> :cliff
+<Calrathan> jmp 0xFFFFFFFF

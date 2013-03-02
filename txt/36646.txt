@@ -1,0 +1,3 @@
+#36646 +(566)- [X]
+<punchcard> you know you're a geek when you read the headline "Bush won't order ports reopened" and think they are talking about a firewall
+<punchcard> "By order of the President of the United States of America, -A input -p boats -l -j reject."

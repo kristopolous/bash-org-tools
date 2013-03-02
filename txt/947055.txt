@@ -1,0 +1,6 @@
+#947055 +(1679)- [X]
+<@gongoputch> so my 12 year old has been BEGGING me for a minecraft server. I told him 'OK', he said YEA!', I say 'but you have to install the OS (FreeBSD), configure it, set up a jail and generally learn enough to admin it.
+<@gongoputch> he hates me now
+<@gongoputch> BUT - he got it running :)
+<@gongoputch> after it was going, he looked up at me and said 'This OS is the logical thing I have ever seen'
+<@gongoputch> ... it's little moments like those ...

@@ -1,0 +1,7 @@
+#11160 +(-42)- [X]
+<EazyCheez> I wonder if I can't unplug my 3 1/2"'s interface cable and use that with my old CD-ROM (Samsung)
+<RvLeshrac> EazyCheez: No
+<pupkick> samsung is radio shack for people with mental handicaps
+<EazyCheez> RvLeshrac: I can't unplug my floppy disk drive's interface cable and put it into my CD-ROM?
+<thrash-> EazyCheez: Try it... it won't fit.
+<feerit> EazyCheez: notice they arent the same pinout

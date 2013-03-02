@@ -1,0 +1,4 @@
+#807157 +(-230)- [X]
+<darvawrk> and I have PROOF (god i love our logging) that we're connecting to the server and transmitting and they drop the connection.
+<Trey> EHLO darva.with.a.clue.com
+<WhatNot> you had me at EHLO

@@ -1,0 +1,4 @@
+#253947 +(900)- [X]
+<FatalError1> how to delete a directory in Linux?
+<FatalError1> delete entire contents with one command?
+* rm-rf isnt sure

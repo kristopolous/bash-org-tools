@@ -1,0 +1,7 @@
+#469064 +(2081)- [X]
+Anonymous-san: okay so there's these two strings, right
+Anonymous-san: They walk into a bar
+Anonymous-san: The first string says
+Anonymous-san: Hello, I'd like a rum and cokerhe7954454gh2kjn.,.43>>[][]21?24
+Anonymous-san: The second string says
+Anonymous-san: You'll have to excuse my friend, he's not null-terminated

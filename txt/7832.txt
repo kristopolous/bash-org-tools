@@ -1,0 +1,12 @@
+#7832 +(395)- [X]
+* rob` pokes richard.. do an ls `yes`.  I dare you
+[five minutes pass]
+<phenyx> INIT: PANIC: segmentation violation at 0x40060fa1! sleeping for 30 seconds.
+<phenyx> INIT: PANIC: segmentation violation at 0x40060fa1! sleeping for 30 seconds.
+<phenyx> INIT: PANIC: segmentation violation at 0x40060fa1! sleeping for 30 seconds.
+<phenyx> INIT: PANIC: segmentation violation at 0x40060fa1! sleeping for 30 seconds.
+* rob` .. snickers madly
+<Zibblsnrt> Ooh, neat
+<phenyx> real funny.
+<rob`> I didn't think anyone'd actually _do_ it.
+<phenyx> I have enough money to drive to vancouver and kick your ass.

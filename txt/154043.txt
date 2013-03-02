@@ -1,0 +1,5 @@
+#154043 +(1108)- [X]
+<Poo> norp I will scan you now
+<norp> poo so what ports do i have open?
+<Poo> I am not looking at ports I am looking at services
+<lukeiyo-e> i've run a scan on both of you... i'm not detecting girlfriends

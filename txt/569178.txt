@@ -1,0 +1,4 @@
+#569178 +(136)- [X]
+<SharpShooter>  else if( $A['type'] ']']']']']== ']']']']']==']']']']==']']']==']']==']=='poll' )  <--- anything wrong with that line?
+<@Gordon> Ya, I get kinda dizzy when I try to read it
+<@Working> what the fuck.

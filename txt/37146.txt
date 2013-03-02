@@ -1,0 +1,7 @@
+#37146 +(547)- [X]
+<Threeboy> !down
+* ChanServ sets mode: -o Threeboy
+<Threeboy> !up
+* ChanServ sets mode: +o Threeboy
+<tKE> !up!up!dn!dn!lt!rt!lt!lt!B!A!B!A!Select!Start
+<tKE> damn, I want my 30 lives

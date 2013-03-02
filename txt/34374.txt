@@ -1,0 +1,6 @@
+#34374 +(261)- [X]
+<cwd> ls
+<cwd> oops
+<cwd> :\
+<artrix> happens to all of us
+<cwd> but i only have this one terminal open

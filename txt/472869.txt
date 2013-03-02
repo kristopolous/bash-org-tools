@@ -1,0 +1,11 @@
+#472869 +(791)- [X]
+* X sets mode: +b *!*@68.68.*
+* s0ur was kicked by X ((collindavis) you were warned)
+<@SJr|Tecra> Right now, with cbdavis's latest ban about  3/65536th of the net is banned from this channel.
+<@SJr|Tecra> doesn't banning a /16 raise ethical and moral issues about prejudice, stereotyping, and netmaskism, descrimination against people based on there network address? How can we as moral human beings condone such activities? Whats the difference between banning someone who thru no events but fate is given
+68.68. as an ip address, versus someone who thru no events as fate is given dark skin? In the latter we did
+<@SJr|Tecra> but no longer condone such activites such as prejudice. It would be incorrect to say that one is more likely to commit a crime based on the skin color, but doesn't society move so slowly that we still find it ethical and moral to say that based on someones netmask they are going to be a spammer.
+<@cd|work> it's IRC bitch - stfu
+<@cd|work> you're about to see a *.ca ban if you don't shut up :)
+<@SJr|Tecra> didn't hitler say that about Germany, cd|work?
+<@SJr|Tecra> Hitler to Chaimberlain: it's germany - stfu

@@ -1,0 +1,12 @@
+#137512 +(380)- [X]
+<Rowdy> I made a really evil alarm for myself this morning.
+<Stoney> An evil alarm?
+<Rowdy> sleep 21600 && cat /kernel > /dev/audio
+<Rowdy> Turn your speakers to max and do that.
+<Rowdy> It is MEAN.
+<matt> i have lots of kewl mp3 mixing software atm :)
+<Rowdy> Think like an air raid siren crossed with a million babies crying in unison.
+<matt> .. and then were suddenly silenced?
+<Rowdy> HAHAHAHAHAA
+<Rowdy> ROFL
+<Rowdy> That's the shit.

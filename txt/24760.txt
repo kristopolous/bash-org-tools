@@ -1,0 +1,3 @@
+#24760 +(96)- [X]
+<shantanu> I cannot log to my remote machine as root using telnet
+<shantanu> how do I disable that?

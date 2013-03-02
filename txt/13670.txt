@@ -1,0 +1,4 @@
+#13670 +(99)- [X]
+<Cytoplasm[BLS]> #include <iostream.h>
+<Cytoplasm[BLS]> void main(void) { float i = 0; while(true) {cout << i; i+=1; }
+<reptile0> umm congrats on your programming accomplishment Cytoplasm[BLS]. John Carmack better watch out!

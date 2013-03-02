@@ -1,0 +1,7 @@
+#4791 +(519)- [X]
+<Aaron> +v
+*** Crappy sets mode: +v Aaron
+<Aaron> typing +v made crappy put me on +v automatically?
+<Crappy> maybe, try typing +b :)
+<Aaron> +b
+*** Crappy sets mode: +b *!*@m57-mp1-cvx1a.bre.ntl.com

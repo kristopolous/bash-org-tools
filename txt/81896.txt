@@ -1,0 +1,7 @@
+#81896 +(310)- [X]
+<handwash> <Darkroot> Pigsbig78: omg, you bitch! mv possessions outside; chown %n car; chmod 600 car; echo 'int main(void) { printf("x25sn", "haha, you bitch!!n"); }' > meep.c; gcc meep.c -o meep; ./meep
+<handwash> guy
+<handwash> translate?
+<gunkaaa> handwash: it's complicated
+<gunkaaa> handwash: he moves his stuff outside, changes the ownership of his car to himself and sets it so that only he can read/write to it, writes a c program which echos "haha you bitch" called meep, compiles it, runs it.
+<handwash> er

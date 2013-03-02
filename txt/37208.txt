@@ -1,0 +1,10 @@
+#37208 +(466)- [X]
+<Mr_E> kazaa lite's a little better... I get a good 30 seconds of downloading before it crashes
+<Mr_E> regular kazaa crashes on start up
+<Mr_E> I need like, kazaa-uber-lite
+<Mr_E> if there was such thing
+<Mr_E> maybe I'd get a whole file done then
+<w|zzy> it is your celery
+<Mr_E> excuse me?
+<logicalentity> hehe
+<logicalentity> NOW THATS TECH SUPPORT

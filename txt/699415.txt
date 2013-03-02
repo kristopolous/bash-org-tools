@@ -1,0 +1,2 @@
+#699415 +(125)- [X]
+< dadexter> I stopped using reiserfs because some of my data went missing and my HDD died... ironic, isn't it?

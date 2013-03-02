@@ -1,0 +1,3 @@
+#44705 +(38)- [X]
+-ChanServ- (#help) >>>READ THIS<<< AUTH INSTRUCTIONS: /msg authserv@services.gamesnet.net auth <handle> <password>
+<Hk> Plz... How do I auth with chanserv?

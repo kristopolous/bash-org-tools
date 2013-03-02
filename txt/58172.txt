@@ -1,0 +1,10 @@
+#58172 +(83)- [X]
+--> nwa (~mc_ren@dsl05673a42.mich.athenet.net) has joined #perl-fu
+<nwa> OMG I just had the best shower
+<nwa> I bought one of those girly gay shower sponges
+<nwa> man, I'm like fuckin lickable clean
+<you_suck> ...
+<nwa> anyone want to prove me wrong?
+<nekroplasm> wtf
+--- hardlined sets ban on *!*@*.athenet.net
+<-- hardlined has kicked nwa from #perl-fu (uhh.. your outta here like a boner in sweatpants..)

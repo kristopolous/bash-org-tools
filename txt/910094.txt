@@ -1,0 +1,3 @@
+#910094 +(468)- [X]
+<mitkok> Hey, guys. Is there an easy way to split an array of 100 integers for example and write 3 numbers per line separated by whitespace into a file ?
+<Izhido> #include "realeasyfunctions.h"  /      Split100intArrayWrite3xLineWithWhitespaceInto(FILE* f);

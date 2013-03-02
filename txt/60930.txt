@@ -1,0 +1,2 @@
+#60930 +(359)- [X]
+<@jwz> yeah, apparently I was getting shafted by perl's distinction between returning a single value, and returning a single value.

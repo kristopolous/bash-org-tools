@@ -1,0 +1,3 @@
+#725783 +(1170)- [X]
+<1> please tell me if there's any way to check if a table exist in mysql database
+<2> if (mysql_query('DROP TABLE table_name')) echo "table existed";

@@ -1,0 +1,7 @@
+#48654 +(289)- [X]
+<Tatws_> dammit!
+<Tatws_> i typed "cg_draw2D 0" in the console to get rid of the 2D things and i dont know how to get them back!
+<Tatws_> how to get them bak!?
+<Buck> ehrm
+<Buck> switch the 0 for a 1? dumbass
+<Tatws_> ha that wil never work! you think im stupid?

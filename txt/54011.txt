@@ -1,0 +1,2 @@
+#54011 +(495)- [X]
+<alakriti> Real programmers don't comment their code. It was hard to write, it should be hard to understand.

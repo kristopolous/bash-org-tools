@@ -1,0 +1,4 @@
+#762628 +(610)- [X]
+<kow|wk> so
+<kow|wk> worth noting
+<kow|wk> running "reboot -h" does NOT produce a helpful usage message

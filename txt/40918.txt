@@ -1,0 +1,3 @@
+#40918 +(143)- [X]
+* Now talking in #chaoslegion
+* Topic is 'UpTime[3 days 4 hrs 42 mins] - on win98, ph33r || [Windows XP Professional (5.1 - 2600)] uptime[1w 3d 6h 4m 31s] (nuff said) | Linux uptime 194d 02:30:57 (0wned)'

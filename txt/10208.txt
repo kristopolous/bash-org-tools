@@ -1,0 +1,9 @@
+#10208 +(180)- [X]
+<lo-d0gg> man.. these quotes are funny as!
+<Ho-Train> what server/channel are you on?
+<lo-d0gg> uhm, no channels.. www.geekissues.org
+<Ho-Train> dammit! i can't connect..
+<Ho-Train> [12:03:15am] *** Connecting to geekissues.org (6667)
+<Ho-Train> [12:03:24am] *** Connection attempt timed out
+<Ho-Train> [12:03:27am] *** Connect retry #1 geekissues.org (6667)
+<Ho-Train> [12:03:36am] *** Connection attempt timed out

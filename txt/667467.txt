@@ -1,0 +1,2 @@
+#667467 +(1175)- [X]
+<@kiafaldorius> is it just me or is it cool that 1337 (string) converted to hex becomes 31333337?

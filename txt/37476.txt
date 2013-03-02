@@ -1,0 +1,6 @@
+#37476 +(177)- [X]
+<GKirk> MCO = Orlando
+<Celestar> MCO == Orlando
+* Celestar notices that he is a C programmer and GKirk is not
+* GKirk slaps Celestar around a bit with a printf and scanf statement
+* GKirk compiles Celestar

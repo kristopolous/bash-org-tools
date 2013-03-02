@@ -1,0 +1,15 @@
+#76151 +(-20)- [X]
+-!- xINSANEx [ludacris@ilmtps27.shawneelink.net] has joined #php
+< xINSANEx> Can someone please go to my website and test the counter?
+< xINSANEx> i need to make sure its working properly.. i just fixed the php code
+< Inominate> xINSANEx: No i cant
+< Inominate> I'd like to but am unable to
+< horros> Inominate: me neither.
+< horros> i really have the urge to check out your counter, xINSANEx, but i'm not able to.
+< xINSANEx> heh.. oh well no biggy
+< Inominate> lol
+< xINSANEx> i hate to bother fuckos like you
+-!- xINSANEx [ludacris@ilmtps27.shawneelink.net] has left #php []
+< horros> hahahaha
+< Inominate> hahahahahahahah
+< Inominate> ROFL

@@ -1,0 +1,15 @@
+#282982 +(-76)- [X]
+#slackware on efnet 4-22-04 12:57 am EST -5.00
+<mfbian_> how will you compare slackware and freebsd
+<Cheethoe> apples and oranges
+<mfbian_> fair enough
+<`justin`> slackware = for people that have been molested freebsd = people that want to molest their mothers
+<`justin`> openbsd = for people that probably wont ever get molested
+<`justin`> netbsd = molesting of all minorities, and cock asians
+<mfbian_> how about gentoo
+<`justin`> I dont know ask khai
+--> biggy (something@1Cust26.tnt1.columbus.in.da.uu.net) has joined #slackware
+<`justin`> oh wait I do know
+<mfbian_> you don't know anything
+--> supergoad (~supergoad@pcp08611785pcs.waldrf01.md.comcast.net) has joined #slackware
+<`justin`> mfbian_: gentoo = people that want to molest their mothers, fathers, uncles, aunts, sisters, brothers, dogs, but can't get it up

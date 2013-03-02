@@ -1,0 +1,3 @@
+#891175 +(645)- [X]
+* polykurt gets pissed off when seemingly simple programs have lots of dependencies on other    packages.  People are taught to worship the concept of software reuse, but they take it too far.  I should write a C library called libtruncate.  Every time somebody needs to truncate an array, they will feel obligated to
+use my library instead of writing five lines of their own code to do the job.  And I will make libtruncate depend on Gnome _and_ KDE _and_ JA

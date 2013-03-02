@@ -1,0 +1,5 @@
+#55572 +(265)- [X]
+<Kasugai> matthias_: You could get a job at Google telling their tech dept. what they are doing wrong!
+<matthias_> for one they still haven't got a mind-reader interface going
+<Kasugai> I hear they are still trying to implement safe search filtering on that one
+<Kasugai> Otherwise you get pr0n popping up every 8 seconds.

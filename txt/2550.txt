@@ -1,0 +1,2 @@
+#2550 +(1047)- [X]
+<limited7> i have for(n = 1; n < 99; n = n /2) why is it loopin forever?

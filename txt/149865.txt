@@ -1,0 +1,3 @@
+#149865 +(436)- [X]
+<tritt> strange... i just logged into my box and I'm pretty sure i used tab completion on my password o_O
+<Yot> you and your ultra-secure linux ways

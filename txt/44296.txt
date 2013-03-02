@@ -1,0 +1,5 @@
+#44296 +(231)- [X]
+<Wolfer> kbhit: How can we help you?
+<kbhit> wolfer, deop chanserv in #outlawz
+<kbhit> he's not a member
+<kbhit> and he keeps getting oped

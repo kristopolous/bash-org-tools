@@ -1,0 +1,12 @@
+#40218 +(174)- [X]
+<pix[word]> anyone know how to search for 'c++' on google?  + is an operator, and doesn't search for that
+<cam[home]> search for "c++"
+<pix[word]> i did
+<pix[word]> does a search for "c "
+<cam[home]> not when I did it
+<cam[home]> http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=%22c%2B%2B%22
+<pix[word]> damn
+<pix[word]> i did 'c++'
+<pix[word]> not "c++"
+<pix[word]> yarrr
+<cam[home]> I'm e-mailing your boss telling him you can't even use a search engine, so he needs to hire me

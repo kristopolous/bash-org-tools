@@ -1,0 +1,29 @@
+#65665 +(1308)- [X]
+<@Hinkey> !addban *!*@*.com
+* ChanServ sets mode: -oo Hinkey|dual|sleep CannibalCorpse|server
+* ChanServ sets mode: -o Urban
+* ChanServ sets mode: -oo wacko Hinkey
+* ChanServ sets mode: -o D3adlode
+* ChanServ sets mode: -vv deyja Ed|shower
+* ChanServ sets mode: -vv mr_P`gone Puck
+* ChanServ sets mode: +b *!*@*.com
+* CannibalCorpse|server was kicked by ChanServ (Bye. (Hinkey))
+* Ed|shower was kicked by ChanServ (Bye. (Hinkey))
+* deyja was kicked by ChanServ (Bye. (Hinkey))
+* Hinkey|dual|sleep was kicked by ChanServ (Bye. (Hinkey))
+* this_is_the_clown was kicked by ChanServ (Bye. (Hinkey))
+* DaJoob was kicked by ChanServ (Bye. (Hinkey))
+* Tragik was kicked by ChanServ (Bye. (Hinkey))
+* Urban was kicked by ChanServ (Bye. (Hinkey))
+* Puck was kicked by ChanServ (Bye. (Hinkey))
+* Creutzfeld|away was kicked by ChanServ (Bye. (Hinkey))
+* TheSkaarj-corner was kicked by ChanServ (Bye. (Hinkey))
+* mr_P`gone was kicked by ChanServ (Bye. (Hinkey))
+* BOLL was kicked by ChanServ (Bye. (Hinkey))
+* Quasar was kicked by ChanServ (Bye. (Hinkey))
+* jake^the^cake was kicked by ChanServ (Bye. (Hinkey))
+* Hinkey was kicked by ChanServ (Bye. (Hinkey))
+* diamond-optic|mapping was kicked by ChanServ (Bye. (Hinkey))
+* wacko was kicked by ChanServ (Bye. (Hinkey))
+* D3adlode was kicked by ChanServ (Bye. (Hinkey))
+<+Frie|mapping> MO - MO - MO - MONSTERKILL !!!!

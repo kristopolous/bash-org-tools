@@ -1,0 +1,3 @@
+#657165 +(491)- [X]
+<Eric> I feel bad when handshaking with PuTTY. It supports so many features. "I can tell you what sort of client I am, would you like to know?" "Nope." "Well, in that case, let me just tell you my screen dimensions." "No thanks." "Do you... uh... want to support environment variables? I got some variables." "... no."
+"Well, I guess it's echo off and raw mode, then."

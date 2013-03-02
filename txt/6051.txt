@@ -1,0 +1,3 @@
+#6051 +(341)- [X]
+<AccordionGuy> k%: SELECT * FROM People WHERE People.AttractedTo = 'me' ORDER BY People.HooterDimensions DESC
+<AccordionGuy> Now *that's* SQL.

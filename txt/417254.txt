@@ -1,0 +1,8 @@
+#417254 +(296)- [X]
+<Mark_Ryan> those of you using mIRC, for a neat trick, hold down shift and click the "#wikipedia" button up the top
+<Slowking_Man> I'm betting that closes it.
+<Mark_Ryan> nah it does a 3D animation
+* Parts: neilc (~neilc@61.88.101.19)
+* Parts: squash- (~squash-@051.b.005.mel.iprimus.net.au) ("Leaving")
+* Joins: squash- (~squash-@051.b.005.mel.iprimus.net.au)
+<squash-> it works on xchat too

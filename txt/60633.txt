@@ -1,0 +1,7 @@
+#60633 +(430)- [X]
+<perlplexer> perldoc .eh
+<perldoc> .eh is western sahara
+<perlplexer> hmm, i was expecting Canada
+<deus> unfortunately no registrar exists for .eh
+<deus> or i would get aboot.eh
+<deus> and start irc'ing in #ontario and #vancouver from what.is.this.all.aboot.eh

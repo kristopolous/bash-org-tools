@@ -1,0 +1,8 @@
+#446861 +(931)- [X]
+<MikeH> hey nirgle, since youve worked with php and im guessing have done a bit with sessions, whats the easiest way to keep track of multiple form entries spaced out among multiple pages, and then at the end when all is said and done, write said form entries to a text file ?
+<nirgle> hmm, i'll think about it in the shower
+<nirgle> brb
+--time passes--
+<nirgle> i lost my train of thought in the shower
+<nirgle> and was thinking about lawn gnomes
+<nirgle> sorry

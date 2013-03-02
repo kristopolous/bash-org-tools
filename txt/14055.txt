@@ -1,0 +1,6 @@
+#14055 +(1804)- [X]
+<foobar> the FUNNIEST tech glitch ive ever heard of happened at my workplace
+<foobar> ok.. so we run an internet storage service right?  and one of our clients is a large photo site that allows people to upload pics and view them online
+<foobar> well.. our software had a little bug in it .. sometimes if a file is uploaded and not cached properly by the system, the system will deliver the same file for hundreds or thousands of different files
+<foobar> so what happened is someone uploaded some bestiality pictures, and those got caught in the cache, so everbody uploading their 4th of july pics got them ALL replaced by the same picture of a girl jerking off a horse
+<foobar> 50,000 times

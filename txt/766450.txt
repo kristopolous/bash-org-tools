@@ -1,0 +1,8 @@
+#766450 +(677)- [X]
+<Spurty> so, I learnt a lesson this morning
+<Spurty> choose politicially correct passwords for systems
+<Spurty> this _was_ my security password for test work here
+<Spurty> 8=======D~
+<Spurty> and there was a bug in the code, so it was spewing my password into logs on servers all over the place
+<Spurty> meh, embaressment factor 11 out of 10
+<Spurty> ttfn, I have jism to clean

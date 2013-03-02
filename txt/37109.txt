@@ -1,0 +1,5 @@
+#37109 +(26)- [X]
+* time stamps have been retained to aid in the understanding and comedy of the quote...
+[18:23:03] *** NoneX (Harry@64.229.188.165) has joined channel #php
+[18:23:05] <greg_oc> Channel Warning: NoneX detected in #kiddiesex
+[18:23:10] *** NoneX has left #php

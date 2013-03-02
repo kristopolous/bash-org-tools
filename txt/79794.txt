@@ -1,0 +1,5 @@
+#79794 +(1195)- [X]
+<molo> C:>ping god
+<molo> Ping request could not find host god. Please check the name and try again.
+<molo> it's true, god doesn't exist
+<mrmin123> maybe he's just having DNS problems

@@ -1,0 +1,3 @@
+#75224 +(189)- [X]
+--> Smoothice (Smoothice@AC865D64.ipt.aol.com) has joined #linux
+<Smoothice> Is there any free versions of UNIX?

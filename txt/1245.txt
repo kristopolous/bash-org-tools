@@ -1,0 +1,2 @@
+#1245 +(158)- [X]
+<Gryphon> any ideas what this error is when i try to ping a pc on my LAN: connect: Netowork is unreachable

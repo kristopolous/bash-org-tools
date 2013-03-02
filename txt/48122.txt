@@ -1,0 +1,13 @@
+#48122 +(60)- [X]
+<Konsole> #include <iostream.h>
+<Konsole> #include <stdlib.h>
+<Konsole> #include <afterstepspenis.h>
+<Konsole> #include <thatnakedchick.h>
+<Konsole> #define hebangsher 1
+<Konsole> int main(void)
+<Konsole> {
+<Konsole> while (hebangsher)
+<Konsole> cout << "oh yeah!\n";
+<Konsole> return 0;
+<Konsole> }
+<afterstep> yeah.

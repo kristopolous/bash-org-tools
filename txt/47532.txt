@@ -1,0 +1,4 @@
+#47532 +(253)- [X]
+<@kmad> //say $calc(Sersans IQ)
+<@Sersan_43> 0
+<@Sersan_43> wtf

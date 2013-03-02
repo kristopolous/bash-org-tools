@@ -1,0 +1,2 @@
+#18234 +(66)- [X]
+<C-rEs:#slackware> isnt it recommended to keep ports apart? like you dont want to use port 1035 and 1036 at the same time?

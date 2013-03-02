@@ -1,0 +1,4 @@
+#9252 +(228)- [X]
+<Burnquist__> : /msg NickServ@services.dal.net IDENTIFY jillhanna
+<Burnquist__> fuck
+*** Burnquist__ (FBI@TeraPro33-41.cable-lynx.net) Quit (Killed (NickServ (Ghost command used by ne14a69)))

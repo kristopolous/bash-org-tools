@@ -1,0 +1,3 @@
+#4800 +(181)- [X]
+<lewpoo> whats the most advanced topic in java?
+<joeblowgt> lewpoo: not getting kickbanned in #java

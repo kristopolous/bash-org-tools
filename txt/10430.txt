@@ -1,0 +1,8 @@
+#10430 +(286)- [X]
+* cj_ installs svgalib.
+<cj_> gonna test quake2 on linux
+<nwinter> nice.
+<cj_> then i can play with myself
+<nwinter> GRODEY.
+<cj_> no seriously. my monitors face inwards at me, and both the mice are
+within an arms reach. i can chase myself around.

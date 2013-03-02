@@ -1,0 +1,3 @@
+#2792 +(579)- [X]
+<pupkick> 37?
+<devinfo> i heard 37 is any 3 digit multiple of 37, when the digits are cyclicly permutated is still divisible by 37, ie: 37*13 = 481, 148/37 = 4, 37*11 = 407, 740/37 = 20, or oddly enough, this works in other bases too... 0x37 * 0x19 = 0x55F. 0xF55 / 0x37 = 0x47, or you sucked 37 dicks?

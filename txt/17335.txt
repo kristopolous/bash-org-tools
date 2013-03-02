@@ -1,0 +1,23 @@
+#17335 +(184)- [X]
+<Balatro> Electroly:  It died on me once and wouldn't restart.  I had to ps -aux or whatever the fuck it is and kill the process.  Then it started fine.
+<Electroly> ah, nothing good old `ps aux | grep Proteus | awk '{print $2 }' | xargs kill -9` won't fix.
+<Electroly> much better, that worked.
+* Gandalf stares at Electroly
+<Gandalf> And I thought I was a Unix dork.
+<Balatro> Yeah, it was so much less effort to do that then to type a command, quickly see the process and kill it by PID :)
+<Electroly> you are a unix dork
+<Electroly> Balatro: there were like 10 Proteus processes, dude.
+<Balatro> Funny, I had 1 ;)
+<Electroly> dunno where these all came from, but i killed them all.
+<Electroly> now all is well
+<Gandalf> Electroly: I understand ps, grep, and xargs. Explain how that awk thinger works, though? :)
+<Electroly> Gandalf: awk is pretty simple.  it treats the stdin as a bunch of columns
+<Electroly> and lets you reformat the output.  { print $n } is typical, where n is the column number to print out.
+<kurros> AWK AWK MOTHER FUCKER
+<Electroly> it uses whitespace as the column delimiter by default, but you can change that by some argument to it
+<Gandalf> ah, and in ps aux the PID is the second column, thus $2, right?
+<Electroly> yup
+<Electroly> you can do other stuff with awk, like awk '{ print "Whee!  The PID for " $10 " is " $2 "!" }'
+<Balatro> It makes me hot when you talk unix.
+<Electroly> rm -rf /home/Balatro
+<Balatro> That's /homo/Balatro, honey :)

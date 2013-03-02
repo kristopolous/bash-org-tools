@@ -1,0 +1,8 @@
+#778189 +(1061)- [X]
+<Glen> hi, I am explorer.exe. sometimes when you are doing anything at all, I will just freeze for ten minutes. All of my brother and sister windows will also freeze, because they are sad for me. Maybe we will come back, maybe not, it will be a surprise!
+<Alex> Ohh the suspense
+<Glen> it is like a thriller novel
+<Alex> A race against time
+<Glen> a twisted web of deceit
+<Glen> a woman without a past, a detective without a future
+<Glen> a file browsing application without proper thread isolation

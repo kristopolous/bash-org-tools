@@ -1,0 +1,3 @@
+#105932 +(626)- [X]
+<DreamStiller> whats the advantage of php compared to servers like geocities?
+<DrDoug> Well, php is a server side scripting language and geocities is just a steaming pile of shit.

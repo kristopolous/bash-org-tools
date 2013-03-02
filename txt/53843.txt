@@ -1,0 +1,14 @@
+#53843 +(398)- [X]
+<Sharna> i dont do linux tho
+<Snooky> it solves all the world's problems
+<Sharna> world peace too?
+<Snooky> actually, let me check
+<Sharna> k
+<Snooky> ahh, here we go:
+<Snooky> Summary of changes from v2.4.20-rc2 to v2.4.20-rc3
+<akpm@digeo.com>:
+o Change mark_dirty_kiobuf() to use set_page_dirty() instead of SetPageDirty(). The latter fails to move onto mapping->dirty_pages(), which breaks filemap_fdatasync()
+o PROVIDES WORLD PEACE
+<Snooky> as of kernel 2.4.20-rc3, linux has world peace
+<Sharna> amazing
+<Sharna> why dont more people know about this

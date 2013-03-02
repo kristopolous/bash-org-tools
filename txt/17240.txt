@@ -1,0 +1,2 @@
+#17240 +(17)- [X]
+<@harb> Hmm.. I wonder, if you buy that Linksys wireless NIC with the antenna on it, and you run the SETI daemon.. does it just act as another node in the VLA?

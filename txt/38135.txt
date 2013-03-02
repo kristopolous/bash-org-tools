@@ -1,0 +1,3 @@
+#38135 +(109)- [X]
+<@Crimson> Apache + FreeBSD + PHP + MySQL (or PostgreSQL I've heard) = WEB SERVER HEAVEN :)
+<%djlaptop> I don't trust anything I didn't spend a lot of money on

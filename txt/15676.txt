@@ -1,0 +1,3 @@
+#15676 +(29)- [X]
+<E> and it gets worse. sprint said that ascend techincal support said the
+problem w/ fast busy's on my PRI was due to my radius server.

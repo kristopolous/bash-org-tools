@@ -1,0 +1,3 @@
+#14510 +(182)- [X]
+<nightfal> diffused: Runtime().exec() is just a shortcut to
+((Satan)System.getPropety("SATAN")).burnMyFaceOff(). Don't do it

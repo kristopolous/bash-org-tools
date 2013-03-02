@@ -1,0 +1,5 @@
+#162735 +(141)- [X]
+<Aguilera> DCC Exploit Affecting 6.12
+<Aguilera> Breaking News. On Oct 20, another exploit was identified which can crash even the recently released version 6.12
+<Dabz> lol
+<Dabz> since when did microsoft make mirc?

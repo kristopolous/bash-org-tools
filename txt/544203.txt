@@ -1,0 +1,4 @@
+#544203 +(868)- [X]
+<atrus> i worked on a project once where somebody named variables defined in various places explicity so on one line of code, it showed up as:
+<atrus> function_name($all, $urBase, $rBelong, $toUs);
+<atrus> closest i've ever come to manslaughter

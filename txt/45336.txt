@@ -1,0 +1,2 @@
+#45336 +(82)- [X]
+<Ben> I was talking to someone I know in English class today about my plans to Linuxize my old PowerMac, he asked "what kind?" I said "Debian or SuSE", he replies, "Who are Debbie and Susie?"

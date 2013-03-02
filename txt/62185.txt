@@ -1,0 +1,7 @@
+#62185 +(122)- [X]
+* Coyote` (HaHa@209.194.21.WyldRyde-43304) Quit (Quit: DOS Tip #17: Add DEVICE=FNGRCROS.SYS to CONFIG.SYS)
+<Apple> what's device=fngrcros.sys?
+<netnomad> Oh buoy.
+* Apple grins
+<Apple> i'll look it up
+<netnomad> You do that.

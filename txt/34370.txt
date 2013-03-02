@@ -1,0 +1,2 @@
+#34370 +(185)- [X]
+<tye>   and deref'ing is easy to remember because robots, ->[ , use simple integer indices while samuri, ->{ , have names for everything, and aliens, ->( , use functional programming

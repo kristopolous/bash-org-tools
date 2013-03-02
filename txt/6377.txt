@@ -1,0 +1,5 @@
+#6377 +(115)- [X]
+<glasnost> i remember how DOS had no command for recursive removes
+<glasnost> until they added deltree
+<Logan> glasnost: deltree
+<glasnost> thanks logan.

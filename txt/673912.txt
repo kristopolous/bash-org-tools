@@ -1,0 +1,3 @@
+#673912 +(825)- [X]
+<@Raeven0> What's the difference between array $_GET and array $_REQUEST
+<+Matrixfan> one is polite

@@ -1,0 +1,4 @@
+#79893 +(212)- [X]
+<_cobra_> how can i allow right-click on links only while preventing right-click on the rest of a webpage ??
+<yossarian> why would you want to prevent right-click anywhere?
+<_cobra_> to prevent newbies stealing the html

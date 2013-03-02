@@ -1,0 +1,5 @@
+#655324 +(675)- [X]
+<kosh> we have a bug that occurs on the 31st of a month
+<kosh> so once a month we get a bug report
+<kosh> it gets assigned to a developer within 24 hours
+<kosh> who then fiddles for a bit before marking it "unable to reproduce"

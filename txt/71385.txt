@@ -1,0 +1,12 @@
+#71385 +(342)- [X]
++|+ [PIT]Kabar has joined #linux
+< [PIT]Kabar> ok i got a dumb question
+< [PIT]Kabar> <-- linux newb
+(+soroh6) well
+(+soroh6) we don't allow dumb questions
+(+soroh6) sorry.
+< [PIT]Kabar> bah usless
+< [PIT]Kabar> some great community
++|+ [PIT]Kabar has left #linux []
+(+soroh6) HAHAHA
+(+soroh6) omg

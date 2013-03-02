@@ -1,0 +1,3 @@
+#49602 +(53)- [X]
+<crypt-> in my bios, should I have AGP fast write enabled or disabled?
+<uNK> do you want agp to go fast?

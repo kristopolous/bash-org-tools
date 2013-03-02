@@ -1,0 +1,5 @@
+#268768 +(1671)- [X]
+<ShadowFury-> whats command for new nick name
+* ChoBo is now known as gaynamehere
+<Whitehorn> '/nick
+<gaynamehere> err shit

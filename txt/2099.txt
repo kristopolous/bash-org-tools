@@ -1,0 +1,3 @@
+#2099 +(892)- [X]
+<ScratGod> I put a comment by each line of code that says
+<ScratGod> x = 1;  // FUCK YOU FIGURE IT OUT YOURSELF BITCH

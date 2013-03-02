@@ -1,0 +1,17 @@
+#473246 +(2495)- [X]
+<JustinArthur> I used to surf up the interweb and IRC in Windows 3.11 on a an AMD 80386DX 40MHz edition.
+<skyfire> JA: after walking three miles through waist deep snow, up hill, when it was -40 outside just to get to your computer :P
+<JustinArthur> Shit, back then, we had to use TCP/IP over smoke signal protocol.
+<Nikolai> Why the hell was your computer on top of a hill in waist-deep snow? O.o
+<Lorentz> Why not?
+<skyfire> smoke signal protocol!?!
+<skyfire> in my day, we used a log and two sticks
+<JustinArthur> Yup, someone would be at the fire on the hill with a blanket and yell out the 0s and 1s to the guy whose turn it was to be demodulator.
+<skyfire> we just pounded them out on the log with our demodulator writing it down with charcoal
+<skyfire> of course, noise was always a problem
+<skyfire> lousy october gales
+<skyfire> we were droping smoke packets like there was no tomorrow
+<skyfire> then we came up with the idea of broadband over forest fire
+<skyfire> that didn't work very well
+<skyfire> I mean, we got the blazing speed we expected
+<skyfire> unfortunately, we had a tendency to burn out the modems =/

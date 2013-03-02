@@ -1,0 +1,2 @@
+#20008 +(167)- [X]
+<ilister> on the IM/IRC thing we use at work there's a bot that's sole job is to count the number of times the word `beer' was mentioned on any channel during the day and announce it at the end of the day :-)

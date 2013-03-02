@@ -1,0 +1,3 @@
+#777540 +(425)- [X]
+<a> OS X is POSIX, isn't it?
+<b> yea.. without letters P and I

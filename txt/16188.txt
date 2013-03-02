@@ -1,0 +1,6 @@
+#16188 +(253)- [X]
+<wof> does anyone really use emacs?
+<Pills> my wife used to
+<wof> really?
+<wof> what'd she do?
+<Pills> she... edited files? :)

@@ -1,0 +1,3 @@
+#632445 +(1110)- [X]
+scuttlemonkey: This [face recognition] technology should speed airport check-ins, but it could also be used in banks or for checking ID cards as it allows full identification in less than one second.
+mcc: Great, I can't wait until the day when I get punched in the face, and suddenly I can't use ATMs anymore.

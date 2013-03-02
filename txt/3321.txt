@@ -1,0 +1,9 @@
+#3321 +(715)- [X]
+<Road> { private: long member; }
+<Road> but for me, that would be a long long
+<DAL9000> Road: you'd have to cast it to a char though.
+<Road> DAL9000: Hmm, that would cause an overflow
+<DAL9000> hah.
+<DAL9000> no big deal, i hear you always prematurely core dump anyway
+<Road> hahah, ouch
+<DAL9000> I COUNTER YOUR GEEK COUNTER WITH AN EVEN GEEKIER COUNTER.

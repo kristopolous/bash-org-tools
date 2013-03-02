@@ -1,0 +1,3 @@
+#6060 +(431)- [X]
+<Disciple> nice, local computer club uses kerberos for password based access to the clubroom instead of a key.
+<Disciple> if you give the wrong password, the door doesn't open. Instead the screen says "Kerberos bites you, kerberos bites you. You die."

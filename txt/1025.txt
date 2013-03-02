@@ -1,0 +1,3 @@
+#1025 +(186)- [X]
+(phoenix30) napster is taking filenames and putting them all in reverse order
+(Pioneer-) prolly some stoopid polish version

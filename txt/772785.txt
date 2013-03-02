@@ -1,0 +1,7 @@
+#772785 +(330)- [X]
+<Nautilus> God I hate little brothers
+<Nautilus> 11:59 P.M. on april fools, he sets off a bash script that logs into my company's server, uses ipfw to block out _all_ ssh connections, and changes the site to display goatse.
+<OneMan> haha that's a good get-back
+<OneMan> did you change it back?
+<Nautilus> <Nautilus> uses ipfw to block out _all_ ssh connections
+<OneMan> 1 Dr. Jack Kevorkian cure-all, comin' right up!

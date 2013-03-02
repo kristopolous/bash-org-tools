@@ -1,0 +1,3 @@
+#6699 +(246)- [X]
+<dbaker> Whoever thinks rc5-64 will be cracked in 50 years is an idiot.
+<dbaker> It'll be cracked before the end of 1998.

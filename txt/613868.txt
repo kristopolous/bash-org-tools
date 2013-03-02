@@ -1,0 +1,2 @@
+#613868 +(349)- [X]
+<joesboxd3b> it is just ironic.... you can't get the cvs version of cvs unless you get the older version of cvs then cvs to the cvs server to get the latest cvs version of cvs

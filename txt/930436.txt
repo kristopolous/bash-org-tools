@@ -1,0 +1,4 @@
+#930436 +(838)- [X]
+<@bhaak> commit early, commit often
+<@bhaak> kids, that is only sound advice for programming, not for marriage!
+< kerio> there's no rollback in marriage, only blame

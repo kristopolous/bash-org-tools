@@ -1,0 +1,3 @@
+#217286 +(253)- [X]
+Ifonlyiwerecool: we're supposed to make a program for java, and it has to get the highest # out of a set
+Ifonlyiwerecool: and we're supposed to name the program 'getHigh'

@@ -1,0 +1,5 @@
+#15192 +(216)- [X]
+<Kallahar> use telnet
+<Nygis> i cant find the answer in telnet
+<Kallahar> well, try harder.  maybe you aren't pushing the keys in all the way.
+<Nygis> but im pushin as hard as i can

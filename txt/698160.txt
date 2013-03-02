@@ -1,0 +1,10 @@
+#698160 +(554)- [X]
+<PS_Mouse> it would seem IRC doesn't like Azureus
+<coedman> it knows your warezing ways
+<PS_Mouse> I'm not warezing, I'm downloading .isos for obscure versions of linux
+<PS_Mouse> very obscure
+<coedman> versions of linux that happen to resemble recently released software or movies?
+<coedman> >.>
+<PS_Mouse> not at all
+<PS_Mouse> for what ever reason the guy who's been compiling these versions has done away with the standard numerical versioning system and resorted to using album names
+<PS_Mouse> for example, the beta versions are named after metallica albums

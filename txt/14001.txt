@@ -1,0 +1,9 @@
+#14001 +(167)- [X]
+<demagogue> :(){ :|:&};:
+<demagogue> type that at a bash prompt
+<dg> not recommended
+* Antony ssh'es to bacardi
+<Antony> [1] 21057
+<Antony> what does it do :'(
+<ross> er I can't ssh to bacardi
+<taz> 1:01pm up 3 days, 20:11, 4 users, load average: 714.55, 670.25, 890.24

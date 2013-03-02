@@ -1,0 +1,10 @@
+#73108 +(142)- [X]
+<martin> USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU  WHAT
+<martin> martin   :0       -                 8:19pm   ?     0.00s   ?     -
+<martin> god      pts/2    h-69-3-170-235.n 11:03pm  0.00s  0.07s  0.07s  -lynx www.worldtranssexuals.com
+<Nikita> umm
+<Nikita> why a text browser?
+<martin> i dunno
+<Nikita> lamo
+<martin> =/
+<GOD> damn it, can't I look at your father in peace?

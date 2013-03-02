@@ -1,0 +1,7 @@
+#73067 +(58)- [X]
+!dmwaters*! This is a wallops message for the Freenode network If you do not wish to see theese messages, type /mode yournick -w now. Thank you for using Freenode!:)
+!lilo*! This is a WALLOPS message for freenode.  These messages contain non-critical comments and announcements and detailed server info.  If you'd like to turn them off, '/mode <yournick> -w' works on most clients.  Thank you for using freenode!
+!lilo*! For reference, this is a non-critical comment.  Erm, wait.  Yeah.  I think.
+!brd*! m00 cow m00.. This is a non-critical m00, please stay tuned for further m00s
+!lilo*! Hmph.
+!brd*! ;P

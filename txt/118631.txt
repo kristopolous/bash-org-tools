@@ -1,0 +1,4 @@
+#118631 +(569)- [X]
+<kohupiimakook> how can u connect two computers
+<kohupiimakook> like lan, but without ethernet card
+<suksu> with glue maybe

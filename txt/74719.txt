@@ -1,0 +1,10 @@
+#74719 +(362)- [X]
+<Isengard> arkenstone: if i (one day) have to get a pacemaker, i'm gonna insist on a serial interface for it ;)
+<Isengard> jack meself in at night, check the stats.
+<arkenstone> Isengard: my uncle had a ps2 port looking thing in his side
+<Isengard> or usb, that way i could recharge ;)
+<golgy> run snmp traps
+<galahad> golgy: laugh
+<golgy> "Warning: Heart not beating"
+<galahad> yeah, it would be amusing
+<galahad> the coroner could just grep syslog for "fuxor" to determine time of death..

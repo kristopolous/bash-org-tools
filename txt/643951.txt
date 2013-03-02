@@ -1,0 +1,2 @@
+#643951 +(225)- [X]
+FuzzGod5: The next time someone asks me to write a java program that runs over a network connection, I'm going to print out an entire ream of paper with "try/catch" blocks, crush their heads with it, then jump on their corpse and shout "WRYYYYYYYYYYYY!" triumphantly.

@@ -1,0 +1,6 @@
+#877645 +(1226)- [X]
+mrspeak3r: i vnc'd from my work box to my home box
+mrspeak3r: then remote-desktop'd from my home box to my work box.
+mrspeak3r: It was like my desktop was the front man in an 80s music video.
+mrspeak3r: ...
+mrspeak3r: except it was a video that lasted 10 seconds and crashed 2 computers.

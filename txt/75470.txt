@@ -1,0 +1,2 @@
+#75470 +(27)- [X]
+<Amnesiac> there's something like awk in perl?

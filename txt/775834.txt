@@ -1,0 +1,6 @@
+#775834 +(15)- [X]
+<[Chris]> oh yeah baby, concatenate those strings... do it just like that
+<neura> I'd think you'd want to insert, not concatenate...
+<[Chris]> now you're just being nasty
+<neura> no, nasty is noting that you'd wanna be real careful with chop and split :x
+<[Chris]> as long as we aren't getting into a strlen fight

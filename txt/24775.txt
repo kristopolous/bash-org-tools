@@ -1,0 +1,6 @@
+#24775 +(6)- [X]
+<magellanic> got a prob: I keep getting this error message when I try to use iptables , iptables v1.2.6a: can't initialize iptables table `filter': Permission denied (you must be root) Perhaps iptables or your kernel needs to be upgraded. i type this command iptables -F; iptables -t nat -F; iptables -t mangle -F as
+root
+<RichiH> magellanic: your eyes are all wrong
+<RichiH> you can't read
+<magellanic> RichiH: what you mean?

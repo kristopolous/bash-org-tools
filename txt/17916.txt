@@ -1,0 +1,10 @@
+#17916 +(94)- [X]
+&#65533;&#65533;&#65533; SignOff Bluemoon: #eee (Client Exiting)
+&#65533;&#65533;&#65533; Bluemoon [xxx@yyy] has joined #eee
+&#65533;&#65533;&#65533; mode/#eee [+o Bluemoon] by ChanServ
+&#65533;&#65533;&#65533; SignOff Bluemoon: #eee (Client Exiting)
+&#65533;&#65533;&#65533; Bluemoon [xxx@yyy] has joined #EEE
+<fester> Gunn: wtf are you doing?
+<fester> exercising process creation?
+<GunnX> something like that
+<fester> you'll bend your fork() :)

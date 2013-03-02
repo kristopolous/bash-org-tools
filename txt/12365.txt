@@ -1,0 +1,8 @@
+#12365 +(588)- [X]
+* SoulStealer is back -[ auto-away after 60 minutes idle ]- gone 9 hr 24 min 38 s
+<SoulStealer> skold
+<SoulStealer> Think you should add a global command in Cygnus? /notice $*.net get's annoying.
+<SoulStealer> guess not.
+*** Parts: SoulStealer (NeonNitrat@user-24-214-140-218.knology.net)
+<@skold> uh
+<@skold> the guy idles for 9 HOURS and leaves in 10 seconds when i dont answer him

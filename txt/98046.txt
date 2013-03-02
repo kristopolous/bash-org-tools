@@ -1,0 +1,5 @@
+#98046 +(447)- [X]
+<ROM_Man>  can anyone point me to a resource on how to deal with shadow passwords in perl?
+<ROM_Man>  anyone alive?
+<\mjd>  <rattle> Who dares to disturb my eternal rest?
+<\mjd>  <clank>    <clank>                     <clank>

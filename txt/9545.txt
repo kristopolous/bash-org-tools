@@ -1,0 +1,7 @@
+#9545 +(428)- [X]
+<InSaNe-CON> how do u put irc always on top ?
+<@arc|hw> ctrl alt del twice
+*** InSaNe-CON (diamond81_@vdsl-130-13-138-107.phnx.uswest.net) Quit (Ping timeout )
+*** InSaNe-CON (diamond81_@vdsl-130-13-138-107.phnx.uswest.net) has joined #r
+<InSaNe-CON> umm alt cntrl delete restarted my computer
+<@arc|hw> you must have pressed something wrong

@@ -1,0 +1,2 @@
+#62600 +(153)- [X]
+<rottle> i am going to write a program that clears the window clipboard about 15 seconds after you set it. because pasting large chunks of incriminating text into irc sucks.... not only are you laughed at but also kick/banned

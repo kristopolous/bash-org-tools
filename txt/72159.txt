@@ -1,0 +1,13 @@
+#72159 +(181)- [X]
+* H0merTax (~FathrBake@ool-4355ba4b.dyn.optonline.net) has joined
+<H0merTax> hello, does anyone know what it means when it says "need correct key to join a channel"?
+<@Opeeo> to fix it type /quit special key
+*** H0merTax has left IRC (special key)
+* H0merTax (~FathrBake@ool-4355ba4b.dyn.optonline.net) has joined
+<H0merTax> hey i tried that and it kicked me off? id really appriciater help
+<@Opeeo> try /quit special key 2
+<H0merTax> where dop i type ot in... the window that says where i connect?
+<@Opeeo> yeah bro
+<H0merTax> thanx
+*** H0merTax has left IRC (special key 2)
+* Opeeo sets mode: +b *!*@ool-4355ba4b.dyn.optonline.net

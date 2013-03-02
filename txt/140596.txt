@@ -1,0 +1,6 @@
+#140596 +(107)- [X]
+<cemil> what does it mean? :)
+<cemil> /dev/hda4              24G   33M   22G   1% /db
+<cemil> /dev/hda4 on /db type ext3 (rw)
+<tibyke> it means you have to contact your systems administrator
+<cemil> i am :)

@@ -1,0 +1,3 @@
+#42347 +(128)- [X]
+<sayza> Bug: Popup menus appear in strange places
+<sayza> Resolution: Turn off "smart window placement"

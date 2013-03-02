@@ -1,0 +1,5 @@
+#772122 +(739)- [X]
+<Black_Dog> "^\\([^ ()]+\\)\\(([0-9]+\\),\\([0-9]+\\))"
+<Black_Dog> Gotta love regexps
+<Bl1tz|work> it looks like some elaborate Japanese smiley
+<Bl1tz|work> like "your parents just found out you've been slacking in class and you also have the flu"

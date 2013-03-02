@@ -1,0 +1,5 @@
+#22295 +(203)- [X]
+<|Phreak|> Mind2: do you know of anything to benchmark/stresstest an ftpd?
+<PsychoOne> phreak: make a post to slashdot telling them you have naked pictures of richard stallman
+<Mind2> you don't want naked pics of stallman.
+<Mind2> the nutbag of a nutbag is not recommended viewing.

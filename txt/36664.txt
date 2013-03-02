@@ -1,0 +1,12 @@
+#36664 +(171)- [X]
+* Topic is 'Download help NOT available here.'
+* eats (Skuller@h24-69-27-242.gv.shawcable.net) has joined #new2mIRC
+<eats> i need to get a trial version of maya 3d software. were in this program can i go to look this up?
+<@corm> www.download.com
+<eats> not that comon
+<@corm> oh
+<@corm> you mean on mirc
+<eats> yes sir/mame
+<@corm> push Ctrl and F4 at the same time, it opens the file search dialog
+* eats (Skuller@h24-69-27-242.gv.shawcable.net) has left #New2mIRC
+<@corm> snicker

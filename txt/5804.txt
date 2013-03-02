@@ -1,0 +1,8 @@
+#5804 +(618)- [X]
+<+mirkin> does anybody know if it is possible using ms access to create a report which shows the records of a table
+<+mirkin> but shows 3 columns across the page
+<+mirkin> i.e
+<+mirkin> record 1        record 2        record 3
+<+mirkin> record 4        record 5        record 6
+<+GoodScrat> That is impossible
+<+GoodScrat> Computers are not that far advanced yet

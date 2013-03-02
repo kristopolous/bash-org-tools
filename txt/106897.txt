@@ -1,0 +1,3 @@
+#106897 +(232)- [X]
+<diktatormike_> that's the tao of machines....corect one problem only to see 3 more underlying problems
+<Vlad902> I know, wtf, that's what happened in 1969, they found a bug in ls and ended up with Windows...

@@ -1,0 +1,4 @@
+#45321 +(17)- [X]
+<+Albator73> how I turn off away mode ?
+<@eDRoaCH-nothere> albator- you type /quit away
+*** Albator73 (Albator_7@ARouen-106-1-5-94.abo.wanadoo.fr) Quit (Quit: away -=SysReset 2.51=-)

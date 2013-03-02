@@ -1,0 +1,9 @@
+#652221 +(635)- [X]
+<lunchbox> so get this
+<lunchbox> i delivered pizza to the Microshaft building today but I couldn't park close to the door because they have all these fancy picnic tables out back for their employees
+<lunchbox> so they're standing there watching me carry all these pizzas to them and I finally get to the door and they stiff me. nothing.
+<fallingdogs> are you surprised?
+<lunchbox> next time they order I'm going to send them a bunch of empty boxes
+<lunchbox> and write stop messages inside
+<lunchbox> "0x0000000A" ...
+<lunchbox> "INVALID_PROCESS_ATTACH_TIP"

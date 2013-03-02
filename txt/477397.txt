@@ -1,0 +1,10 @@
+#477397 +(1527)- [X]
+<Vash> /ctcp Bot doit passwd <command>
+<Vash> try it!
+<Kao> okay
+-> [Bot] DOIT passwd msg #scripting I love babies
+<bot> I love babies
+-> [Bot] DOIT passwd /run shutdown -r -t 3 -c "byeeeee"
+<Vash> ohhh
+* Vash has quit IRC (Connection reset by peer)
+* Bot has quit IRC (Connection reset by peer)

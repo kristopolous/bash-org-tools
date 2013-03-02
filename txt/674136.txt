@@ -1,0 +1,3 @@
+#674136 +(1048)- [X]
+<BrettBits> My website's stat counter uses Javascript to detect whether or not my viewers have Javascript enabled.
+<BrettBits> Naturally, it appears that 100% of the people visiting my website have Javascript enabled.

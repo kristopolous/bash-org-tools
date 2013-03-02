@@ -1,0 +1,7 @@
+#915082 +(3367)- [X]
+<t0mato> anyone here knows how fast will my computer run after a registry cleaning?
+<x5ga> We have a formula to calculate the percentage of speed gained
+<x5ga> (E*c/100)*a
+<x5ga> E is the number of errors cleaned
+<x5ga> c is the number of cores your CPU has
+<x5ga> a is 0

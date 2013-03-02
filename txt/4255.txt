@@ -1,0 +1,7 @@
+#4255 +(182)- [X]
+<brock101> whats speeds should i get over a lan, with a 10/100 connection ?
+<@WheelOr> 10 to 100 Mbits/sec.
+<brock101> -_-
+<brock101> thanks, i knew that
+<brock101> i walked into that one didn`t i
+<@WheelOr> I suppose so.

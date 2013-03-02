@@ -1,0 +1,12 @@
+#105288 +(150)- [X]
+* Luigi30 sets mode -mirc.lameness #gamecube
+* You were kicked by Xenobyte (colors/gay script)
+* Attempting to rejoin channel #gamecube
+* Rejoined channel #gamecube
+<Luigi30> How can a script be gay?
+<Luigi30> Scripts are asexual
+<Luigi30> :P
+* You were kicked by Xenobyte (General Lameness)
+* Attempting to rejoin channel #gamecube
+* Rejoined channel #gamecube
+<Luigi30> That's better.

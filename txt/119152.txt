@@ -1,0 +1,7 @@
+#119152 +(425)- [X]
+<@ecoli> i should just ln -s /dev/urandom ircd.conf
+<@ecoli> and keep restarting it
+<@ecoli> eventually it'll get everything right
+<@Wink> lol
+<@ecoli> stupid ssl.
+<@ecoli> this couldn't be less documented if it were an md5 encrypted haiku.

@@ -1,0 +1,10 @@
+#51099 +(-37)- [X]
+<Rain-Movie> where is the hosts file.
+<Manaz> Depend which OS
+<Rain-Movie> win2k
+<Rain-Movie> i must edit it
+<Rain-Movie> to block gey flash ads.
+<Manaz> C:winntsystem32driversetc I think
+<Rain-Movie> taking up HALF MY PAGE.
+<DrillSGT> curse the adds
+<Manaz> adds - you're cursing mathematics?

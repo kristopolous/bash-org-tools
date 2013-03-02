@@ -1,0 +1,7 @@
+#524669 +(290)- [X]
+<Boo|Marking> Can you think of any reason why IE, on my dad's laptop, won't display animated .gifs ?
+<Mirabilis> Because they're disabled in the IE options
+<Mirabilis> Other than that, security settings
+<Boo|Marking> Hm. I looked for it.
+<Boo|Marking> I'll have another lookie-see.
+<Donovan> I dunno, Boo|Marking, I have a feeling it may have to do with "Microsoft KB #2383892: Internet Explorer is a Steaming Pile of Shit"

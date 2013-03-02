@@ -1,0 +1,5 @@
+#36994 +(82)- [X]
+<MidWay> Sounds like me writing a page that had the WinXP logout exploit..
+<MidWay> Friend set it to his desktop before I'd added it (It did actually have content)
+<MidWay> So the next time he logged in and it updated, boom, it logged him out.
+<MidWay> Problem was, he only had the one account on the machine :P

@@ -1,0 +1,7 @@
+#96164 +(1027)- [X]
+<the_JinX> Now, Play Russian Roulette In Bash, Just Run This Line:
+<the_JinX> [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"
+<psychosquee[]> the_JinX: What are the odds?
+<the_JinX> 1 in 6 chance of removing your linux
+* psychosquee[] has quit IRC (Connection reset by peer)
+<^sWift> haha

@@ -1,0 +1,10 @@
+#14530 +(651)- [X]
+*** Darth-Phenom is now known as Guest38697
+*** Sopabuena is now known as Guest21415
+*** TheRealMatt is now known as Guest60273
+*** Whitney is now known as Guest15303
+<Flirbnic> Hey, cool. The sum of all the Guest numbers that just occurred in here, divided by 8, equals 16961.
+<Flirbnic> $calc((15303+60273+38697+21415)/8)
+<Flirbnic> ...
+<Flirbnic> I have no life.
+<TheRealMatt> no... no you don't

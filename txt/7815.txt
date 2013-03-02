@@ -1,0 +1,16 @@
+#7815 +(533)- [X]
+<Worm|PHP> I downloaded a ton of albums .. all encoded in 128 ... later I will reencode to 192
+<Worm|PHP> bunch of AC/DC albums :)
+<clue1ess> reencode? :P
+<Worm|PHP> decode then encode again at 192
+<clue1ess> will the quality really improve?
+<Worm|PHP> yes it does
+<CDBuRnOuT> If anything, you lose quality.
+<Worm|PHP> I have done it before many times
+<Worm|PHP> I can send samples if you want
+<Worm|PHP> I have the same song at 128 .. decoded it .. then encoded it at 192 ... there is a big difference
+<CDBuRnOuT> You're attempting to defeat the basis of the format you're encoding in by trusting your ears. Lower bitrates sacrifice pitches, etc. to lower the mp3's size, decoding and reencoding will not get those sacrificed items back.
+<CDBuRnOuT> lots of people cannot tell the difference between 128/160/192, etc.
+<Worm|PHP> you can with this ... just check it then see
+<Worm|PHP> by what you say there shouldn't be a difference .. and if there is .. then it would sound worse
+<Worm|PHP> oh well .. sounds a 100% sharper and clearer .. the 128 sounds so muffled ... back to designing

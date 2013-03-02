@@ -1,0 +1,8 @@
+#10946 +(243)- [X]
+* wrostek [~wrostek@HSE-Toronto-ppp296735.sympatico.ca] has joined #root
+<wrostek> can anyone tell me if its possible to get windows ME to boot to the command prompt and not load windows?
+<Varak> ask in #windows
+<wrostek> They dont know
+<Varak> big suprise
+<Varak> go ask in #cisco, they are really helpful with windows questions too
+<wrostek> ok thanks

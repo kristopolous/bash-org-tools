@@ -1,0 +1,3 @@
+#138767 +(134)- [X]
+[ +Syphon ] what linux editor should i use to open a .dat file?
+[ +Da_BuzZ ] notepad?

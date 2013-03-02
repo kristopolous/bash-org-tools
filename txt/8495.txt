@@ -1,0 +1,4 @@
+#8495 +(247)- [X]
+[arkZZZ   ] Hi! I`m having trouble playing a couple of divx-movies.. I only get "No combination of filters could be found to render the stream". Does anyone know what to do?
+[Synoptica] arkZZZ: download the fkn codec?
+[arkZZZ   ] fkn? where?

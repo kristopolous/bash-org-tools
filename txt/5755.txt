@@ -1,0 +1,5 @@
+#5755 +(230)- [X]
+<@zartik> i just banned someone from #freebsdhelp
+<@zartik> and he msg's me:
+<@zartik> -06:46- [      hegemon ] So I have nobody to turn to and must go back to Windows.
+<@madog> should be nice and unban him, thats evil to make him use windows =<

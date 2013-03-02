@@ -1,0 +1,6 @@
+#6890 +(518)- [X]
+<sal> how to best explain the need for distributed systems to management? redundancy?
+<Morbus> bodies.
+<Morbus> think about it: if you bury a single body in one place, when the police find it, you're screwed.
+<Morbus> but cut a body up and bury it all over the place, and you're maximizing your potential.
+<sal> yeah im sure that'll hit close enough to home

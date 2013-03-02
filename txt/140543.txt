@@ -1,0 +1,5 @@
+#140543 +(0)- [X]
+* +FFimer has left ##
+* FFimer has joined ##
+* him_selfe sets mode: +b *!*@FFimer.users.quakenet.org
+* FFimer was kicked by him_selfe (AutoKick: Frog detected, go /hop in a lake)

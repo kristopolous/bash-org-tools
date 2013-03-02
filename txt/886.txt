@@ -1,0 +1,4 @@
+#886 +(489)- [X]
+<osx> I programmed my sidewinder for IRC combat.
+<osx> A for Awp, B for Ban, and C for Kick.
+<osx> So watch out..

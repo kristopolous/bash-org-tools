@@ -1,0 +1,6 @@
+#659196 +(1342)- [X]
+<rush> anyone ever notice that klingons speak unix?
+<rush> "Grep ls awk chmod"
+<rush> "Mknod ksh tar imap"
+<rush> "Wall fsck yacc"
+<assassin> dude. you even give geeks a bad name.

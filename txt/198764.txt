@@ -1,0 +1,6 @@
+#198764 +(1517)- [X]
+<Death> Hey, Jeff, how do you kill someone when they're on your nick?
+<Jeff> Oh, easy /ns ghost nick password
+<Death> Thanks.
+<Death> Die.
+*** Signoff: Jeff (Killed (NickServ (GHOST command used by Death)))

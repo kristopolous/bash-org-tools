@@ -1,0 +1,3 @@
+#107162 +(208)- [X]
+<ChaosBob> somebody needs to write an irc client that makes chat text look like source code
+<ChaosBob> for when your boss walks in the room

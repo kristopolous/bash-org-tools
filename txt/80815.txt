@@ -1,0 +1,3 @@
+#80815 +(137)- [X]
+<ph0x_> the best way to optimize a program for space is to remove all spaces and tabs from the source code
+<ph0x_> also don't use many lines,write everything on one single line

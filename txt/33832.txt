@@ -1,0 +1,5 @@
+#33832 +(194)- [X]
+<active1> how to become a bot ???
+<dieppiej> first you have to become a computer, then you have to get an 24/7 internet connection and plug it into yourself.. install a stable *BSD OS and then install the right application on yourself
+<active1> it is so easy :))))
+<dieppiej> I wonder how you are going to do the first step..

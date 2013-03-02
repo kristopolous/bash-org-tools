@@ -1,0 +1,3 @@
+#4130 +(73)- [X]
+<djazonic> tiko: do you know how to setup a win2k's telnet server?
+<JediPimp> djazonic: format c: ; <insert linux CD>

@@ -1,0 +1,5 @@
+#201982 +(1302)- [X]
+DasKrav: I was correcting tests for student service a few weeks ago
+DasKrav: And while correcting a geometry test, I got to the question "What is the collision of three planes called?" (The answer was "a point")
+DasKrav: the kid put "A disaster"
+DasKrav: I didn't take off points >:]

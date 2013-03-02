@@ -1,0 +1,3 @@
+#33610 +(99)- [X]
+<spiregrain> the worst thing about irc is that delay between finding the server, and getting logged in.  Why does it happen?  What can I do?
+<spiregrain> the second worst thing is dumb questions like the above

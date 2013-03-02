@@ -1,0 +1,6 @@
+#42678 +(334)- [X]
+<danhon> overheard in the lab:
+<danhon> "try doing javac first before you do java"
+<Cringer> hahaha
+<danhon> "what does that do?"
+<danhon> "dunno, but it works"

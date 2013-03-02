@@ -1,0 +1,4 @@
+#149402 +(348)- [X]
+<rezza> wow this 2.6 linux kernel is a big improvement on the 2.4 series... i can do all sorts of crap at the same time with no slowdown...
+<mojomonkee> while you're compiling programs and updating dependencies at blazing speeds
+<mojomonkee> i'm actually doing things

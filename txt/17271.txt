@@ -1,0 +1,3 @@
+#17271 +(956)- [X]
+<Tetrad> the program I just wrote 1) compiled the first time without any errors and 2) worked like it was supposed to
+<Tetrad> I don't know whether to be proud or scared to death

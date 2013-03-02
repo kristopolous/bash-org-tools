@@ -1,0 +1,9 @@
+#626063 +(1545)- [X]
+<chuck> I just got two CDs from AOL. Two CDs in one package. One is gold, for dial-up. The other is Silver, for Cable/DSL broadband. They came in a box that was half gold and half silver. The back of the box enumerates the difference between the two available plans.
+<chuck> The CDs have different features listed on their labels.
+<chuck> I diff'd them. They're identical.
+<chuck> bit for bit:
+<chuck> chkno$ md5sum /dev/cdrom
+<chuck> 43cf5b370b5d85a74afc2449f445579d /dev/cdrom
+<chuck> chkno$ md5sum /dev/cdrom
+<chuck> 43cf5b370b5d85a74afc2449f445579d /dev/cdrom

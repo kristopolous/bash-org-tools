@@ -1,0 +1,4 @@
+#785888 +(713)- [X]
+* lloy0076 ponders
+< lloy0076> If I take the source code, which is under GPLv2, and translate it from C to Perl (changing it only to fit the new language)...I wonder if the GPL covers that translation I made...
+< cafuego> converting C to perl is covered by the death penalty, i believe

@@ -1,0 +1,2 @@
+#17347 +(260)- [X]
+<kinzillah> I'm going to build a random number generator that works, it will be a small mechanical device that shakes dice and then reads what number came up, then we will have real random number in computers, none of this seeding with the timer shit.

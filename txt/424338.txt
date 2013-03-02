@@ -1,0 +1,4 @@
+#424338 +(806)- [X]
+<randomnine> i bet the internal age variable is protected
+<randomnine> it's always accessible to anything that inherits
+<Entrope> i can understand making getAge() protected or private, but there should definitely be a public isLegal() function

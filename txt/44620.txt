@@ -1,0 +1,5 @@
+#44620 +(217)- [X]
+--> heha (cyber@????????.ipt.aol.com) has joined #linux
+--- YeahBabY sets ban on *!*@*.aol.???
+<-- Crikey has kicked heha from #linux (banned: Too many problems with AOL.  Use another ISP.  Permban)
+<thinko> nice ban, covers those pesky aol.mil ppl too

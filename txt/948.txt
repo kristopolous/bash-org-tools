@@ -1,0 +1,2 @@
+#948 +(1390)- [X]
+(jesdynf) I want an emulator that, every time you try to load a game, there's a 6% chance it pops up a dialog that says "It's not loading! Tap the A button to blow the dust out."

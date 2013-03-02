@@ -1,0 +1,2 @@
+#5274 +(384)- [X]
+<Gnuspice> shit, you know you've been doing too much SQL when you're at a prompt and do SELECT * FROM /bin;

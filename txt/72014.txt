@@ -1,0 +1,4 @@
+#72014 +(219)- [X]
+<urandom> hrm...do you have kids?
+<RangerRick> nope
+<urandom> route add -host 192.168.0.5 gw 127.0.0.1 <--- It's comes to this, the only way I can get them to do their chores

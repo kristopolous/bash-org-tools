@@ -1,0 +1,5 @@
+#38880 +(144)- [X]
+<ComWizz> also, i was thinking that Linux should have a built-in UNIX shell
+<ComWizz> because when I once did this: chmod -rwx /bin/sh
+<ComWizz> and tried to restart the computer, it wouldn't shut down, so I turned it off
+<ComWizz> when i turned it on, it wouldn't boot

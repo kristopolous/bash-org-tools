@@ -1,0 +1,4 @@
+#27421 +(249)- [X]
+<@BhodiZzZz> cevik: help, my code won't compile and I don't know what's wrong!
+BhodiZzZz (bhodi@dda9aaf9.net.hmsk) is now known as Bhodi
+<cevik> well.. part of your problem appears to be that you were asleep when you wrote it.. ;)

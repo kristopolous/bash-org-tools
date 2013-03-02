@@ -1,0 +1,10 @@
+#43469 +(211)- [X]
+Wayfarer[GX] has joined the channel.
+<Wayfarer[GX> wow, takes a few minutes to connect to chat :( But it sure is nice to be here :)
+<MrMac> Wayfarer: only happens to me when going through a NAT
+<MrMac> through direct its fine
+* Wayfarer[GX] doesn't do nat
+<Wayfarer[GX]> wots NAT?
+<MrMac> Network Address Translation
+<Wayfarer[GX]> But mines english :)
+<Wayfarer[GX]> it doesn't need translation

@@ -1,0 +1,4 @@
+#668269 +(1400)- [X]
+<jab> I just installed some windows updates
+<jab> and then Windows Update told me I had some security vulnerabilities in my windows software
+<jab> I click OK and the list of vulnerabilities comes up and one of them says "Internet Explorer is not your default browser."

@@ -1,0 +1,7 @@
+#494970 +(17)- [X]
+<ziz> i'm reading this article about the new intel centrino pentium M processor
+<ziz> apparently they had a lot of failures early in the manufacturing process
+<ziz> but now they're happy with it
+<ziz> and some embedded network appliance makers have begun using them in their webservers
+<ziz> so the name of this thing is the "Dothan"
+<ziz> and i keep thinking "...what, so many Dothans died to bring me this information?"

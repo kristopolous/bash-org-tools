@@ -1,0 +1,3 @@
+#7764 +(512)- [X]
+<redial> read me the contents of your q3key file and i'll tell you if the upgrade will work
+<faz> my q3key says P00R 4773MP7

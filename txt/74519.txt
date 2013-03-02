@@ -1,0 +1,6 @@
+#74519 +(294)- [X]
+<sirex> is there an enlightenment key sequence to run a command without a shell?
+<Ralp> Probably
+<sirex> thanks ralp
+<Ralp> I'm here to help!
+<Ralp> Wait, no I'm not, I'm here to avoid the drudgery of my real life and wallow in denial.

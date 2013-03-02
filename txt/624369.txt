@@ -1,0 +1,4 @@
+#624369 +(780)- [X]
+-!- blehhhhh [n=muhammad@213-193-176-96.adsl.easynet.be] has joined #perl
+<blehhhhh> hello guys, how am i able to create an array of socks ?
+<mmlj4> open a drawer?

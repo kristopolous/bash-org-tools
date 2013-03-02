@@ -1,0 +1,3 @@
+#17047 +(139)- [X]
+<Amanda`> I need to find out whether my ISP supports modem bonding
+<maff> that's plain desperation

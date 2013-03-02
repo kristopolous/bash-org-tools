@@ -1,0 +1,6 @@
+#23124 +(359)- [X]
+<Nookadum> Microsoft plans to disclose 385 pieces of computer code and internal operating rules, previously kept secret, that outside developers can use to write programs to run on Windows.
+<Nookadum> 385 pieces of code...
+<Nookadum> WTF do they mean by 385 pieces of code?
+<Fraggy> "take one down, pass it around!"
+<Fraggy> "384 pieces of code on the page....."

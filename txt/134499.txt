@@ -1,0 +1,8 @@
+#134499 +(470)- [X]
+(@Zaphod): ok, this is just getting all kinds of fucked up
+(@Zaphod): what exactly do you want working
+(@Zaphod): the linux machine can see the switch, forget about that
+(@Zaphod): what do you want it to be able to do through the switch ?
+(+Andross): i want to be able to share internet via the switch with my linux box
+(@Zaphod): the same linux box thats dual booted with the windows machine you are on now ?
+(+Andross): yeah

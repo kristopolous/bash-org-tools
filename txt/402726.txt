@@ -1,0 +1,4 @@
+#402726 +(1512)- [X]
+<CookieMan> from slashdot: "InternetNews.com has a report of a new Internet2 land-speed record: '859 gigabytes of data in less than 17 minutes.' InternetNews goes on to say, 'This record speed of 6.63Gbps is equivalent to transferring a full-length DVD movie in four seconds.'"
+<CookieMan> and i thought 56k was slow...
+<@RuneB> CookieMan: "and that great disturbance you just felt was a million RIAA and MPAA executives screaming out in terror all at once, and then nothing."

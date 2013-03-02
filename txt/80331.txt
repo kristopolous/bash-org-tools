@@ -1,0 +1,7 @@
+#80331 +(613)- [X]
+"<Hjelgan> betme
+<Rift-Game>  Commands: betme start, betme join, betme bet #, betme roll(if roller), betme fix, betme quit, betme highscores
+<Hjelgan> betme start
+<Rift-Game> Starting Betme! Todays Roller is Hjelgan ; To join type "betme join"
+<Hjelgan> betme bet life
+<Rift-Game>  You Cannot Bet More Then You Have"

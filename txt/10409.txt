@@ -1,0 +1,16 @@
+#10409 +(19)- [X]
+<Encapsulate> "Sean, what's your department called?"
+<Encapsulate> "I have a department now?"
+<Encapsulate> "WE need to route these Skip books to you"
+<Encapsulate> "I have a department?"
+<Encapsulate> "Right, what is it called for the skip page?""
+<Toast> heh
+<Encapsulate> "A whole department?"
+<Encapsulate> "Yes"
+<Encapsulate> "You mean interconnect?"
+<Encapsulate> "Yes! Ok, we'll put that down"
+<Encapsulate> "I feel more important when I'm called 'Fixed Network'."
+<Toast> heh
+<Encapsulate> "More important?"
+<Encapsulate> "Yea."
+<Encapsulate> "Ok, You can be fixed network"

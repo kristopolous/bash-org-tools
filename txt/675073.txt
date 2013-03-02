@@ -1,0 +1,8 @@
+#675073 +(1250)- [X]
+<chaz> I had to recompile our software to pick up the new libraries etc
+<chaz> we then hit an issue with connectivity to the database server
+<chaz> but thats what i fixed (i hope) this morning, so we'll see :)
+* Twitch crosses her fingers for you
+<chaz> my apologies, I didn't realise you were female.
+<chaz> I should turn my geek off. :/
+<Twitch> I'm in Physics, don't bother

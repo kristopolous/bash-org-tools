@@ -1,0 +1,3 @@
+#128423 +(352)- [X]
+[quit:#] moodlet (Connection reset by peer)
+<moodlet> thou shalt not unplug the hub to plug in one's hairdryer

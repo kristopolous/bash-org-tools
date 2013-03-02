@@ -1,0 +1,6 @@
+#3925 +(30)- [X]
+<gg0dd> ok what do i declare the variable the user inputs an IP adress??
+<gg0dd> u know lets say i want him to type 127.0.0.1
+<O_6> what language are you speaking?
+<gg0dd> c++
+<matts> hahaha

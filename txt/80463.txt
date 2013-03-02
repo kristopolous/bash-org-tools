@@ -1,0 +1,3 @@
+#80463 +(185)- [X]
+<revmoo> does flock() not work on ntfs?
+<Hendrix-> only if you compile with -lshepherd

@@ -1,0 +1,3 @@
+#81967 +(1234)- [X]
+<mcgruff> ever notice, that like half the quotes on bash seem to be plucked out of conversations specifically designed to produce quotes to submit to bash?
+<cliff> i LOVE the cock

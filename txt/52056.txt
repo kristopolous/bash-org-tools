@@ -1,0 +1,9 @@
+#52056 +(459)- [X]
+<@kram> !banme wibble
+* @Arrow throws a brick at wibble
+<@kram> cool
+<@Smidge204> !banme everyone else
+* @Arrow throws a brick at everyone else
+<Stryke> !banme
+* Arrow sets mode: +b *!*bopper@dialup-63.214.93.70.Dial1.Boston1.Level3.net
+* Stryke was kicked by Arrow (You fell for it; hook, line, and sinker.)

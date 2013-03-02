@@ -1,0 +1,2 @@
+#5275 +(409)- [X]
+<zymurgy> #define NULL NULL /* because I can dammit! */

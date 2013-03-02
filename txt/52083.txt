@@ -1,0 +1,4 @@
+#52083 +(68)- [X]
+*** Joins: Currawon1 (~currawong@GizNet-43538.b.006.syd.iprimus.net.au)
+*** Quits: Currawong (~currawong@210.50.98.GizNet-34072) (Client exited)
+<KGL-900> Currawong, if you ever want to kill your ghost, the command is: /msg giznick ghost KGL-900 steamshovel

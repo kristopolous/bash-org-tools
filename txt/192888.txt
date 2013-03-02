@@ -1,0 +1,2 @@
+#192888 +(1393)- [X]
+<Jim_McNeat> Is there like a way to put a compiler in "Just trust me on that one" mode?

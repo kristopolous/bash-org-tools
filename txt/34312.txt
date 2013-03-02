@@ -1,0 +1,4 @@
+#34312 +(117)- [X]
+<madsen> is there an online Perl-manual that resemples the php-manual. (God! That manual can bring a grown man to his knees.)
+* madsen panics.
+<madsen> I'm in love with a manual...!

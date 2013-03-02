@@ -1,0 +1,4 @@
+#4971 +(264)- [X]
+<joey`> clay...doy you know anything about networking
+<clay> yes
+<clay> the rj45 pee pee goes into the nic pee pee, joey

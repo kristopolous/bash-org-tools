@@ -1,0 +1,5 @@
+#98040 +(380)- [X]
+<q[merlyn]> lem... know any good austin Perl hackers for hire?
+<q[merlyn]> I'm on a hunt for one for a friend.
+<archon> for a job?
+<Stupid_> No, in his spare time merlyn bow-hunts for perl programmers by their scent.

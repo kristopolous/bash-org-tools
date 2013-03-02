@@ -1,0 +1,4 @@
+#635493 +(806)- [X]
+<BenS> Matt, have you heard about that webserver that's running off a potatoe for power ... just displays a text smiley face and takes like 15 seconds to load?
+<Omnica> Brings new meaning to the term "server farm"
+<BenS> You should be shot.

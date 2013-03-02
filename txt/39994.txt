@@ -1,0 +1,6 @@
+#39994 +(227)- [X]
+-NickServ- This nick is owned by someone else. Please choose another.
+-NickServ- You have -260 seconds to comply before I change your nick.
+-NickServ- This nick is owned by someone else. Please choose another.
+-NickServ- You have -280 seconds to comply before I change your nick.
+-NickServ- This nick is owned by someone else. Please choose another.

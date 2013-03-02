@@ -1,0 +1,4 @@
+#125191 +(1104)- [X]
+<`-X-> how i can disconnect without the usual commands? (/quit, /disconnect /exit etc )?
+<`-X-> help me pls
+<@Splodgey> /msg <insert name of ircop here> you suck cock

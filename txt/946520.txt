@@ -1,0 +1,7 @@
+#946520 +(371)- [X]
+Matt: I AM QUERY OPTIMIZATION GUY
+Matt: AND THIS... IS MY QUERY
+Andy: wha?... WHO TOUCH MY QUERY?!
+Matt: WHO TOUCHED MY JOINS!!??
+Matt: Some users think they can outsmart me.  Maybe... maybe.  I have yet to meet one who can outsmart LIMIT.
+Matt: She weighs in at 300 lines of SQL and she searches 8 million rows per second.  It costs 24 billion machine cycles to run this query... for 12 seconds.

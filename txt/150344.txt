@@ -1,0 +1,5 @@
+#150344 +(666)- [X]
+[idarwin] I just spent like 45 minutes debugging this c++ code and delete whole chunks of it to track down this problem
+[idarwin] and it was all because I forgot a break;
+<@Avalanche> i found out why my mouse stopped working
+<@Avalanche> turns out, it was my cell phone

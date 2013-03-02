@@ -1,0 +1,7 @@
+#892979 +(1452)- [X]
+< koala_man> after some future breakthroughs in robotics, but before the price has gone down, there is likely to be robotic brothels
+< mawlipe> robot sex? that's scary.
+< koala_man> I know, that's what I thought
+< koala_man> but according to my calculations, a condom of normal thickness has a dielectric strength of at least 780V
+< koala_man> meaning if the robot runs on mains and shorts out, you're still protected with a margin of nearly 500V
+< mawlipe> ..... not what I meant.

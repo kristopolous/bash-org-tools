@@ -1,0 +1,12 @@
+#34300 +(145)- [X]
+<+Saloja> How do you get the timer off?
+<infinitySPZ> //timer 0 1 //echo TIMERS OFF
+<infinitySPZ> Type that.  It should help.
+* Timer 1 activated
+TIMERS OFF
+TIMERS OFF
+TIMERS OFF
+TIMERS OFF
+TIMERS OFF
+TIMERS OFF
+TIMERS OFF

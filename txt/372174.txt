@@ -1,0 +1,6 @@
+#372174 +(2080)- [X]
+<frogger> does anone know of an algorithm to generate random numbers in an increasing sequence?
+<JubJub> Use the Pullit-Hofften method
+<frogger> what's that?
+<JubJub> Just ask cheesy how many times he's masturbated today
+<CheeseZone> 11, why?

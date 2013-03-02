@@ -1,0 +1,2 @@
+#9359 +(119)- [X]
+<stank> but copying data to a floppy disk and back makes it lose integrity! like dubbing a tape!

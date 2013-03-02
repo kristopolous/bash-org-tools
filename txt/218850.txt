@@ -1,0 +1,16 @@
+#218850 +(182)- [X]
+<fiz> I'm touching my hard drive right now
+<fiz> adjusting the pins
+<Khazwerk> mmm
+<fiz> spinning up my disk
+<fiz> s
+<Khazwerk> what jumper position is it set at?  tell me *slowly*
+<fiz> READING/WRITING
+<fiz> READR
+<fiz> READ
+<fiz> READ
+<fiz> WRITE
+<fiz> whew
+<FengWork> that was quick.
+<fiz> yeah, my seek time rocks
+<fiz> spins down

@@ -1,0 +1,2 @@
+#51089 +(307)- [X]
+<dakonis> i think you should have to pass a test to be able to use a keyboard with a capslock key

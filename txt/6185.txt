@@ -1,0 +1,4 @@
+#6185 +(222)- [X]
+<Arctil> cool...it works now
+<Arctil> HolyFuck: did you flush your DNS cache or something?
+<HolyFuck> Arctil: i disabled SlowDownTheFaggots in the httpd.conf file

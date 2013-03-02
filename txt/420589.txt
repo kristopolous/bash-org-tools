@@ -1,0 +1,2 @@
+#420589 +(2049)- [X]
+<@dawoker> my manager dropped by and told me to stop using things like "my president is an assclown" in string testing for some of our code.

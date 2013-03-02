@@ -1,0 +1,9 @@
+#49809 +(244)- [X]
+<juhl> LinuxWolf: I don't mind users being clueless *as such*, what I mind is when they try to do something "clever" on my network and disrupt service for everyone else and I have to clean up the mess!
+<LinuxWolf> juhl:  *nod*
+<juhl> LinuxWolf: if you don't know what you are doing you should ask the admin *before* you try doing it!!!
+<juhl> *that* would prevent a LOT of problems
+<RichiH> juhl: why not just nail a towel and a bottle of water to your front door
+<juhl> RichiH: what would that accomplish ?
+<RichiH> as soon as you whip the first imbecible to death with your wet towel, word will spread around the ranks of morons
+<juhl> RichiH: heh - I'll have to try that

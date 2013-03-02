@@ -1,0 +1,5 @@
+#14443 +(284)- [X]
+<Ria> Type in the search word,
+<Ria> apply pressure to button,
+<Ria> then read the results.
+<Ria> it's a haiku!

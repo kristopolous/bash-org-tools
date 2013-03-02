@@ -1,0 +1,3 @@
+#659765 +(392)- [X]
+<Az_Eating_lunch> We had to carry our IP packets up hill ourselves
+<Az_Eating_lunch> I tell ya, when you are carrying your own packets, collisions suck

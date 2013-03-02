@@ -1,0 +1,3 @@
+#2125 +(366)- [X]
+<matts> memcpy(matts,einstein);
+<KrZDG> compilation error cannot convert smart d00d to dumb ass.

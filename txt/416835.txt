@@ -1,0 +1,5 @@
+#416835 +(473)- [X]
+(@Shockwave) Windows 3.11 calculator is broken in an amusing way.
+(@Shockwave) Put in 3.01 - 3 and it gives you 0, every time.
+(@Shockwave) Hurray for flaws in MS's basic math table
+(JIM_BOB7813) Well if you need a calculator to do that, you deserve that answer :P

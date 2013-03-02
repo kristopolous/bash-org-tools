@@ -1,0 +1,4 @@
+#884782 +(1783)- [X]
+<RST38h> When I bought 14.4kbd modem, TELNET and FTP became so lightning fast...
+<jaem> what sort of lightning do you have where you live, then?
+<lcuk> the sort that used to buffer before striking

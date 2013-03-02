@@ -1,0 +1,5 @@
+#952943 +(292)- [X]
+* dagdamor psychs himself up to play "which cable goes where" and "why is this cable routed like this?" ahead of a switch stack replacement
+<dagdamor> deja vu etc
+<evil_steve> you can generally tell if it's important.
+<evil_steve> either a) all the phone start ringing at once, or b) all the phones go silent at once

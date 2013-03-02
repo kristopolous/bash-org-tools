@@ -1,0 +1,7 @@
+#21965 +(217)- [X]
+<Midvalley> Kinjin-Zero: mod your rio to add a wireless nic
+<Kinjin-Zero> (Midvalley): I could... using wi-fi, nice 54mbit connection
+<Kinjin-Zero> (Midvalley): but, it'd be no use with it in the car, and me upstairs
+<Kinjin-Zero> (Midvalley): easier to just plug it in on my desk
+<Midvalley> technology isn't about making our lives "easier"
+<Midvalley> it's about bragging rights

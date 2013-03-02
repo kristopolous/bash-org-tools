@@ -1,0 +1,20 @@
+#84331 +(-27)- [X]
+<Kel> [kel@purgatory~]% sudo cp ~rick/newshots ~kel/.
+<Kel> cp: cannot stat `/home/rick/newshots': No such file or directory
+<Kel> [kel@purgatory~]% oh wait
+<Rick_Hunter> newshot, not newshots :P
+<Kel> typo
+<Rick_Hunter> lol.
+<Rick_Hunter> [kel@purgatory~]% oh wait
+<Rick_Hunter> ^_^
+<Kel> huh?
+<Kel> you punk, you screen'd my terminal didn'cha? :P
+<Rick_Hunter> I what?
+<Kel> how'd you know I did that?
+<Rick_Hunter> You pasted it. :P
+<Kel> I did?
+<Kel> oh
+<Kel> ha ha ha
+<Rick_Hunter> bash.org
+<Rick_Hunter> ^_^
+<Kel> no!

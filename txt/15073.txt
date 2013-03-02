@@ -1,0 +1,4 @@
+#15073 +(187)- [X]
+* Suzuran managed to make KDE change all of the text and error messages (even the ones in shell windows) to Japanese.
+<kinzillah> Suzuran: can you read them though?
+<Suzuran> kinzillah: Hell no. ^_^

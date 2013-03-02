@@ -1,0 +1,15 @@
+#21894 +(891)- [X]
+<omnius> omnius > join(#www(users()))
+<RoBorg> omnius == "dork"
+<omnius> omnius == "genius"
+<omnius> if (RoBorg() == "omnius is a genius"){RoBorg == true;}elseif(RoBorg() == "omnius is a dork"){RoBorg == banned;}else{RoBorg == "dork";}
+<RoBorg> if(omnius.ban("RoBorg")) {RoBorg.violence = 100; RoBorg.rampage(); setTimeout("RoBorg.alive=false;", 360000);}
+<omnius> omnius(RoBorg -> omnius.string = "omnius is a genius");
+<RoBorg> omnius >> recycle bin;
+<omnius> omnius -> undelete(); omnius -> deltree("c:\RoBorg");
+<RoBorg> brain://omnius/ == 404
+<RoBorg> omnius.split(); omnius.slice(); omnius.explode()
+<omnius> $salt = guid(); RoBorg = crypt("RoBorg",$salt);
+<RoBorg> DELETE * FROM existance WHERE name='omnius';
+<omnius> RoBorg = broken;
+<RoBorg> with(omnius){break;}

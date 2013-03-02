@@ -1,0 +1,6 @@
+#6191 +(164)- [X]
+<felix:#916> i borked ditto
+<felix:#916> it might just need a power cycle.
+<p1nky:#916> I thought you had a masterswitch?
+<felix:#916> yeah.  ditto's not on the masterswitch, because it's a rock-solid machine.
+<slap:#916> irony

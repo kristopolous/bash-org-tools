@@ -1,0 +1,6 @@
+#849884 +(776)- [X]
+< FurnaceBoy> this is a waste of time
+< FurnaceBoy> all he has to do is type what we told him
+< Tonren> bluecake: When you run a command in a Linux terminal, it searches your path for the command.  type "echo $PATH" to see where Linux will look for commands you type.
+< FurnaceBoy> stop trying to educate, Tonren. this is irc.
+< FurnaceBoy> we yell at people

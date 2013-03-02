@@ -1,0 +1,3 @@
+#60805 +(647)- [X]
+<mutey> whats the lowest priority in linux?
+<smcn> mutey: ease of use

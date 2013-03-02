@@ -1,0 +1,4 @@
+#13711 +(18)- [X]
+<theSonarch> is there a command for turning a number into a string representation of a number?
+<Aximili> yes
+<Aximili> /msg Aximili (yournickservpassword)

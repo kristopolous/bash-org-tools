@@ -1,0 +1,4 @@
+#53478 +(259)- [X]
+<Marand> My girlfriend's parents are paranoid.  They don't trust the internet and are extremely against chatrooms.
+<Marand> if ($person == 'online') { $person = "pervert dograping kiddiefucker" }
+<Marand> Maybe it's because they know me

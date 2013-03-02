@@ -1,0 +1,10 @@
+#36456 +(42)- [X]
+(T1MMY) i just pinged yahoo.com
+(T1MMY) 1st trial 888
+(T1MMY) 2nd trial 741
+(T1MMY) 3rd trial 439
+(T1MMY) 4th trial 499
+(T1MMY) min 439
+(@Okelydokely) ...
+(T1MMY) max 888
+(T1MMY) avg 666

@@ -1,0 +1,6 @@
+#187136 +(723)- [X]
+* Eudoxus has joined #math
+<Eudoxus> Can anyone help me write 1/(x^2-3x+2) as a power series in x and find its radius of convergence?
+<vrover> No
+<vrover> But we can give you a lollipop
+<vrover> Have a lollipop?

@@ -1,0 +1,7 @@
+#714309 +(189)- [X]
+<Werdnum> if (nickj.nationality == "au") { nickj.print("Yes"); } else { nickj.print("No"); }
+<nickj> "yes" and "no" - dual Aus / Uk (born Edinburgh)
+<Werdnum> nickj: I'm pretty sure that's a non-standard parser ;)
+<nickj> hey, I deliberately try and put down answers that I know will confuse the system when filling in forms, so why should this be any different? ;-)
+<Werdnum> nickj: SQL injection on the census?
+<Werdnum> Name: Andrew'; DROP TABLE person;---

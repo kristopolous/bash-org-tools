@@ -1,0 +1,4 @@
+#628327 +(402)- [X]
+* Gakl grumbles.
+<Gakl> you can put linux on an ipod, but you can't access an ipod from linux. blech
+<Summoner> well yeah.  Porting an OS gives a much bigger epenis than porting an IO driver

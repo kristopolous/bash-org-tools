@@ -1,0 +1,4 @@
+#683616 +(12)- [X]
+< soultan> how come when i view the contents of a binary i don't see no 0s and 1s?
+< soultan> they don't exist after all?
+< soultan> we've been fooled

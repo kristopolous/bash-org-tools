@@ -1,0 +1,7 @@
+#703138 +(3303)- [X]
+<sd> I was once trying to explain to an exec why his account would never be absolutely secure.
+<sd> Me: "If somebody wants your account information badly enough, he's going to get it. He doesn't have to hack the system, he can just get it from you."
+<sd> Exec: "That's crazy, I'd never give anyone my password."
+<sd> Me: "Imagine you come home and find someone's broken in. He's got a gun to your daughter's head, and he tells you he's going to shoot in ten seconds if you don't give him your password. What would you do?"
+<sd> Exec: [long pause] ... Which daughter?
+<sd> To this day I still don't know if he was joking. But I no longer use that example.

@@ -1,0 +1,3 @@
+#775793 +(356)- [X]
+<Ravsieg> My firewall just blocked itself from accessing the network.
+<Ravsieg> I wonder if this is a good or a bad sign.

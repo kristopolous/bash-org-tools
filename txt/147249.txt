@@ -1,0 +1,10 @@
+#147249 +(896)- [X]
+<spender> listen gentlemen
+<spender> i will tell you a tale
+<spender> of an interesting proof
+<spender> it came to me in a vision
+<spender> it proceeds as follows:
+<spender> Claim: The set of functions f : |N -> { 0, 1 } is uncountable
+<spender> Proof:
+* kronixx thinkz spender needs a gf
+<spender> SILENCE

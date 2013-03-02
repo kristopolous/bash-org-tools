@@ -1,0 +1,6 @@
+#114610 +(1064)- [X]
+Aaron|SYS> Hello
+<Aaron|SYS> I am Aaron, a System Operator (SYSOP) for Mindspring
+<Aaron|SYS> I will be monitoring the activities of Mindspring and Earthlink subscribers this evening
+<Aaron|SYS> Have a pleasurable and enjoyable day or night!
+*** Quits: Aaron|SYS (Killed (SFC (hi, I'm an ircoperator, and I will be regulating your activity monitoring)))

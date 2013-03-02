@@ -1,0 +1,3 @@
+#260060 +(1462)- [X]
+<xNichG> anyone have a good way to visualize 3d vector fields and surfaces?
+<Nap> LSD?

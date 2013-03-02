@@ -1,0 +1,4 @@
+#33619 +(452)- [X]
+<NeonDawn> Does anyone know if there exists some irc-script (bX or egg) that lets other users open a shell through dcc?
+<cwd> NeonDawn: i think you're looking for GetOwned v1.3
+<NeonDawn> cwd: thanks, i'll try it

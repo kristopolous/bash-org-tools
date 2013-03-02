@@ -1,0 +1,4 @@
+#5980 +(233)- [X]
+[10:11] <meiso> ok guys im loading up mozilla 0.9.1
+<meiso> time how long before it crashes
+[10:18] <meiso> ok mozilla just crashed

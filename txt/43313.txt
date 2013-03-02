@@ -1,0 +1,4 @@
+#43313 +(116)- [X]
+<shapr> how do I correctly display two byte fonts?
+<liiwi> you take the first byte and display it
+<liiwi> then you take the other byte and display it

@@ -1,0 +1,5 @@
+#20047 +(408)- [X]
+* mitd apologizes to japh for mix-up but is sure that japh[^y] has also done many clever things.
+<jc> japh did "hello, world" once.  It was pretty awesome.
+<japh> No one does "hello world" like I do.
+<vroom> I've never seen a more beautiful 1603457 lines of code.

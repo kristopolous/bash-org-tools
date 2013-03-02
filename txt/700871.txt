@@ -1,0 +1,8 @@
+#700871 +(250)- [X]
+<JoeyTribbz> A stats professor plans to travel to a conference by plane. When he passes the security check, they discover a bomb in his carry-on-baggage. Of course, he is hauled off immediately for interrogation.
+"I don't understand it!" the interrogating officer exclaims. "You're an accomplished professional, a caring family man, a pillar of your parish - and now you want to destroy that all by blowing up an airplane!"
+"Sorry", the professor interrupts him. "I had never intended to blow up the plane."
+"So, for what reason else did you try to bring a bomb on board?!"
+"Let me explain. Statistics shows that the probability of a bomb being on an airplane is 1/1000. That's quite high if you think about it - so high that I wouldn't have any peace of mind on a flight."
+"And what does this have to do with you bringing a bomb on board of a plane?"
+"You see, since the probability of one bomb being on my plane is 1/1000, the chance that there are two bombs is 1/1000000. If I already bring one, the chance of another bomb being around is actually 1/1000000, and I am much safer..."

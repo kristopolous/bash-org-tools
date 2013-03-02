@@ -1,0 +1,2 @@
+#40042 +(174)- [X]
+< S7L> Would you guess the nationality of the genius behind this code: datapublikacjijava=new Date(przetarg.jakistartpublikacjirok.value, przetarg.jakistartpublikacjimiesiac.value-1, przetarg.jakistartpublikacjidzien.value)

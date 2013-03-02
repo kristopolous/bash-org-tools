@@ -1,0 +1,5 @@
+#9346 +(472)- [X]
+<bob> you're like "i want something that uses gtk :(" and redhat's like "YOU MUST NOW INSTALL GNOME-CORE; GNOME-TOYS; GNOME-QUAKE; GNOME-PRETTY-CAT-THAT-DANCES-ON-YOUR-WINDOWZ"
+<bob> "Press Space Bar to install 1986 Space Shuttle Schematics"
+<bob> "Or Enter to install HAM RADIO to RealPlayer signal converter"
+<bob> "Or press nothing, and I will Reboot"

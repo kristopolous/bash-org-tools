@@ -1,0 +1,9 @@
+#7748 +(952)- [X]
+< nutbar> [root@linux!/usr/src/bind] grep "{" named.conf.newer | wc -l
+< nutbar>   19314
+< nutbar> [root@linux!/usr/src/bind] grep "}" named.conf.newer | wc -l
+< nutbar>   19313
+< nutbar> [root@linux!/usr/src/bind]
+< nutbar> great
+* nutbar fumes
+< nutbar> one fucking missing }

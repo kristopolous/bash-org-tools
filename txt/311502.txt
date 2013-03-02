@@ -1,0 +1,7 @@
+#311502 +(1225)- [X]
+<SvinX> whats the file in /etc that controls the profile?
+<k> /etc/profile ?
+<SvinX> .. i realise i didnt word that very well
+<SvinX> yea could be it
+<SvinX> thx
+<shiftyphil> what's the tool you use to shovel dirt?

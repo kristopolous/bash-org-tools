@@ -1,0 +1,3 @@
+#295992 +(210)- [X]
+<@len> someone just asked me how to print half a page
+<@len> "do you type in .5?"

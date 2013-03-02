@@ -1,0 +1,7 @@
+#617 +(494)- [X]
+<SYch0> where do you specify how many levels of a web page you want to save when you save it? :|
+<enar> just use teleport pro and like have it save only .jpgs over so many kb :/
+<DigDug> use teleport pro or wget
+<SYch0> cuz im saving as a single file
+<SYch0> im not saving porn!
+<enar> why would you save a webpage then :/

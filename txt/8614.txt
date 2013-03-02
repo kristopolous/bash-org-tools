@@ -1,0 +1,6 @@
+#8614 +(118)- [X]
+<shwartz> anyone know about text interface ftp browsers?
+<inflex> "text interface ftp browsers"
+<inflex> are you referring to ftp(1)?
+<Deviate> Like the kind where you have to do all that typing?!
+<Deviate> Those are so 80's!

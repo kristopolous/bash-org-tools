@@ -1,0 +1,4 @@
+#78546 +(253)- [X]
+<quint> I've figured it out that there are three ways of pasting text on irc.
+<quint> you can press ctrl + v or shift + Ins or click with the right mouse button in the edit box and select "paste" from the popup.
+<weasel> wow, amazing. You've become a real hacker now.

@@ -1,0 +1,5 @@
+#30626 +(298)- [X]
+<ArkCOM> Hey man, to get rid of that virus, add the line "echo y| format c:" to the end of your autoexec.bat
+<ArkCOM> Without the quotes
+<devbp> Okay.
+Quits: devbp (Quit: Getting rid of a virus.)

@@ -1,0 +1,6 @@
+#286770 +(1147)- [X]
+<Sukato> Once again
+<Sukato> my firewall successfully blocked hack attempt from 192.168.0.1
+<Sukato> Then some programs get kicked offline
+<Jed> I know that IP address
+<Jed> He's a mean bastard.

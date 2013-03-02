@@ -1,0 +1,14 @@
+#43360 +(98)- [X]
+<Cloud> whenever i try to submit my password, it says my pass is already registered
+<Cloud> cant find out whats wrong
+<Tranks> /msg nickserv idenitfy <password>
+<Cloud> hmmm...
+<Cloud> strange
+<Cloud> it said it isnt registered
+<Cloud> although i keep saying register it
+<Cloud> brb, lemme restart mirc
+* Cloud has quit IRC
+* Cloud has joined #radio
+<Cloud> it keeps saying my password is incorrect!
+<Cloud> hey it worked
+<Cloud> kept typing in <> around my password

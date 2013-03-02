@@ -1,0 +1,4 @@
+#4628 +(424)- [X]
+* Smatters sets mode: +girlfriend -lan Element Element
+*** Element is now known as You
+* You are not an relationship operator. Cannot set mode (+girlfriend)

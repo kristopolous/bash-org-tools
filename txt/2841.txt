@@ -1,0 +1,3 @@
+#2841 +(484)- [X]
+<drwho> I don't know which models use 60 pin and whihc use 26 pin
+<Horus> models usualy have a 1 pin female connector

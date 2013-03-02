@@ -1,0 +1,9 @@
+#74785 +(144)- [X]
+<ats> duncan: you brain needs a sleep.. interrupts turned off
+<duncan> ats: I have three non-maskable interrupts...
+<ats> duncan: wife and two kids?
+<duncan> ats: my wife is maskable
+<ats> three kids ??
+<duncan> ats: yes.  It seemed like a good idea at the time...
+* duncan reboots his brain
+<-- duncan has quit (Quit: ircII/tkirc)

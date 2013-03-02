@@ -1,0 +1,2 @@
+#45299 +(169)- [X]
+<amoeba> there's a certain satisfying irony in downloading a copy of the LAME sourcecode to rip movies with from Time Warner Telecom's sourceforge mirror

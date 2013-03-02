@@ -1,0 +1,8 @@
+#50800 +(431)- [X]
+*** Schatten has joined #werenet
+<ALW> Hello Schatten
+<Schatten> HI There
+<ALW> This is ALW, an automated greeting bot on #werenet. Type 1 and hit return for more info.
+<Schatten> 1
+* ALW cackles
+<ALW> Well that was fun for two-minutes.

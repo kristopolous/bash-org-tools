@@ -1,0 +1,4 @@
+#9567 +(173)- [X]
+<[S]evered> UT has shit framerate
+<[S]evered> how do I fix it?
+<stoldark> [S]evered: i believe UT has an uninstall option

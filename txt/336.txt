@@ -1,0 +1,3 @@
+#336 +(408)- [X]
+<nullgod> I'm not quite sure who slack is for, it's harder then REdHat, so it's not for newbies, it's less secure then FreeBSD so it's not for experts, and it's not pretty so it's not for desktops.
+<DigDug> slack is for linux zealots :-D

@@ -1,0 +1,14 @@
+#238361 +(177)- [X]
+<RealaNightmaren> that fucker is linking to our files
+<RealaNightmaren> AGAIN
+<dosdemon> reala who hosts sonic cult
+<RealaNightmaren> dos: a friend of mine
+<Sushi-D> reala... you should make one of those scripts..
+<dosdemon> ah
+<RealaNightmaren> i used to have one
+<RealaNightmaren> i replaced it with htaccess
+<RealaNightmaren> which unfortunatly doesn't cover the subdomains
+<Sushi-D> that bites the bullet...
+<Sushi-D> so....how are youe gonna correct this problem...
+<RealaNightmaren> easy
+<RealaNightmaren> I'll replace it with porn

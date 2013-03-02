@@ -1,0 +1,17 @@
+#217604 +(898)- [X]
+< jgaddis> know what's funny?
+< jgaddis> -r-xr-xr-x  2 root  wheel  85740 Oct 30 06:36 /usr/bin/less
+< jgaddis> -r-xr-xr-x  2 root  wheel  85740 Oct 30 06:36 /usr/bin/more
+<@LeBear> A green tapdancing kangaroo!
+< jgaddis> more is really less
+<@LeBear> jgaddis: more or less, of course
+< patrickT> so less IS more! :)
+<@SpamapS> less is not more, less is more than more
+< jgaddis> less isn't more
+< jgaddis> more is less
+<@LeBear> SpamapS: how much more is less more than more?
+<@SpamapS> no, more is less than less.
+< themaxxz> less is indeed more
+<@SpamapS> LeBear: more tha more is less than less.
+<@LeBear> SpamapS: you mean less is more more than more is less less?
+<@SpamapS> LeBear: more or less

@@ -1,0 +1,8 @@
+#147010 +(261)- [X]
++icnocop> any advice on what program to use to compare two files like windiff or something?
+@theForger> how aobut windiff
+@Wyatt> huhuhu
+@Wyatt> or something.
++icnocop> ok i guess it's good enough. thanks
++rottle> haha
++rottle> that was the most pointless thing ever

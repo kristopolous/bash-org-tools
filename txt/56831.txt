@@ -1,0 +1,3 @@
+#56831 +(357)- [X]
+<mikes_> what does this mean? eth0: Promiscuous mode enabled.
+<`> it means your ethernet card wants to party

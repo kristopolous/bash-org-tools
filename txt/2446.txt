@@ -1,0 +1,5 @@
+#2446 +(323)- [X]
+*** blahblahb (Dingdong@h24-207-55-238.dlt.dccnet.com) has joined #gamedev
+<blahblahb> !list
+*** blahblahb (Dingdong@h24-207-55-238.dlt.dccnet.com) has left #gamedev
+<DAL9000> it was a driveby !list'ing

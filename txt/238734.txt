@@ -1,0 +1,5 @@
+#238734 +(1227)- [X]
+<shortigo> I can't find my enlightenment configuration files
+<BedMan> look in ~/.enlightenment
+<shortigo> I don't seem to have one
+<hazard> 'the path to enlightment is hard to find'

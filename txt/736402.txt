@@ -1,0 +1,5 @@
+#736402 +(228)- [X]
+<pAth0s> anyone know what these modules are used for? ipip, ip_gre, and switch-adm?
+<pAth0s> they're not loaded on my router while it's in use, hoping I can nuke em
+<Krylancelo_> They control the universe.
+<pAth0s> I'd imagine, but I'd gladly give up the universe for another 400k worth of space

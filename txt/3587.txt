@@ -1,0 +1,8 @@
+#3587 +(306)- [X]
+<cheezwiz> anybody know how to have WarCraft 3 run off of a bnetd server??
+<eldee> cheezwiz: yeah
+<cheezwiz> eldee
+<cheezwiz> really?
+<eldee> cheezwiz: yeah! first, become a beta tester. then they'll give you a serial number you can use. its hella easy after that. you just hit connect
+<cheezwiz> eldee:wow u didn't help at all
+<eldee> cheezwiz: cool. mission accomplished

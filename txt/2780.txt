@@ -1,0 +1,6 @@
+#2780 +(129)- [X]
+*** loopback was kicked by GoodScrat (GoodScrat)
+*** loopback (~boh@ppp-134-252.29-151.libero.it) has joined #winprog
+<loopback> GoodScrat, why did you kick me?
+<GoodScrat> I didn't mean to, I was clicking on something and my computer froze fora  second and then caught up to all the clicks and kicked you
+<loopback> oh, ok

@@ -1,0 +1,8 @@
+#66201 +(393)- [X]
+<+SAB3> Wow, cool site
+<RiPPeRke> the version that is running local is much better
+<+SAB3> Give me the url
+<RiPPeRke> http://localhost/alpha/news.php
+<+SAB3> Doesn't work
+<RiPPeRke> It works fine over here
+<+SAB3> no dude, it doesn't work ...

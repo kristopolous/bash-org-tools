@@ -1,0 +1,3 @@
+#66197 +(221)- [X]
+<Jay> the only annoying thing about Perl is there's always at least 10 ways to do the same thing =)
+<Ashley> and half of those make absolutely no sense when you come back to the code 30 minutes later

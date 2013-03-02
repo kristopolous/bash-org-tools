@@ -1,0 +1,8 @@
+#47348 +(58)- [X]
+* [A]LastOutlaw (_A_LastOut@142.161.86.255) has joined #script
+<[A]LastOutlaw> anyone know what this means "Break: command halted (line 1098, sonica.mrc)"
+<God> something or someone cancelled the script
+<[A]LastOutlaw> then how do get rid of it...
+<God> stop cancelling it
+<[A]LastOutlaw> k
+* [A]LastOutlaw (_A_LastOut@142.161.86.255) has left #script

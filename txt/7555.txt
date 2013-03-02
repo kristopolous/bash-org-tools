@@ -1,0 +1,14 @@
+#7555 +(14)- [X]
+[anakin] man i love microsoft visio
+[Bayls] yeah, and thanks for answering my question about it earlier. :)
+[anakin] what question did you have?
+[Bayls] how well does it sniff out your network and give you a diagram with Ipaddresses etc?
+[Bayls] is it visio enterprise?
+[anakin] not sure, i havent tried it yet
+[anakin] na i only have professional
+[Bayls] It should say it on the box. if it says "enterprise", it's the enterpr.... ooooh, there IS NO BOX, is there? :)
+[anakin] does error checking etc too for ERD, data flow, structure charts, etc too
+[Bayls] sensational!
+[annie] you have NO idea what he just said, do you bayls? ;)
+[anakin] even gives you an output box at the bottom telling you any errors as you go along ... like a compiler .. heh
+[Bayls] yeah, he said it's got a spell checker or something in it.

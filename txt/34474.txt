@@ -1,0 +1,13 @@
+#34474 +(173)- [X]
+<thnom> AntiVirusIRC v0.2 is now running; please type !virus to test your system
+<Morphine> :))
+<Morphine> !virus
+<Morphine> lol
+<thnom> AntiVirusIRC v0.2 is now currently checking Morphine for infected files.
+<thnom> wait a bit .........
+<thnom>  Morphine; AntiVirusIRC v0.2 has detected a virus, press ALT + F + C; to identify the infected file(s).
+<thnom> AntiVirusIRC v0.2 was brought to you by Tw0Y3d-]
+<Morphine> ?
+[11:06] *** Morphine has quit IRC ((23:33:55) (@mart`db) xp is dodgy)
+<thnom> rofl
+[11:07] *** Morphine has joined #abjects

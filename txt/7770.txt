@@ -1,0 +1,8 @@
+#7770 +(242)- [X]
+<Hexis> you guys read about the easter egg in mirc?
+<Hexis> hold ALT and type "fxfire"
+<Destruct> ?
+*** Signoff: Destruct (Quit: )
+<booger> type /server fxfire instead
+<booger> that might work better
+*** Signoff: Destruct (Quit: )

@@ -1,0 +1,8 @@
+#23304 +(179)- [X]
+<chaossyn> i have a q  has any one here played with 5.0 dp yet
+<chaossyn> and how stable is it (no believe me i have 0 intentions of running it on a production network i was just wondering how many bugs to expect ...
+<|line> Incredible numbers.  It'll jump out of the box and gut you before you even have it all the way home yet.
+<-- evb has quit (Ping timeout: 180 seconds)
+<tog> it will anally rape your grandmother while pouring sugar in your gas tank
+<|line> It'll stop with your grandmother, if you're lucky.
+<|line> I've seen it get as far as the family dog before the national guard arrived

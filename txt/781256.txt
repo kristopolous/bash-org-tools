@@ -1,0 +1,3 @@
+#781256 +(817)- [X]
+<monkeytwizzler> i just tried plugging a serial->ps2 into a ps2->usb1 in order to plug a usb mouse into a laptop with a serial port
+<monkeytwizzler> that was like 11 years of technology in one plugin

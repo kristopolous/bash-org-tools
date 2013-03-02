@@ -1,0 +1,11 @@
+#4818 +(126)- [X]
+<vvortex3> hey, the isp i work for, cwnet has a legal copy of microsoft visual studio, but we cant find the cd, can someone please email me deruntime.dll so i can fix a bug in one of our machines?
+<Cyrix> what.
+<jim4> vv: no
+<Cyrix> get a new cd
+<Cyrix> or go to #mypersonalfileserver
+*** vvortex3 (vvortex3@arena.cwnet.com) has left #C++
+<snibril> we don't support warez, and neither incomptent isps
+*** vvortex3 (vvortex3@arena.cwnet.com) has joined #c++
+<vvortex3> jerk
+<Cyrix> vvortex3 on @#mypersonalfileserver

@@ -1,0 +1,18 @@
+#118504 +(491)- [X]
+(Axis): oh shit, i set a timer and now i can't turn it off
+(Axis): how the hell do you turn it off
+(@Zaphod): type /timers
+(@Zaphod): you will be told the timer number
+(@Zaphod): like * Timer 2 /do something
+(@Zaphod): then type /timer2 off
+(@Zaphod): notice, no space after timer
+(Axis): okay but it's still beepinng
+(Axis): it says there is no active timers
+(@Zaphod): Ahh, you didnt type / beep <number> did you ?
+(Axis): but IT'S STILL BEEPING! AAAAGH!
+(Axis): yeah, i did
+(Axis): is that bad
+(@Zaphod): what was the number you typed?
+(Axis): 39482034 i think, something like that
+(@Zaphod): lol - it aint stopping till it beeps that many times
+(Axis): well shit

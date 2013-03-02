@@ -1,0 +1,6 @@
+#83546 +(434)- [X]
+<ascii_phil> And if you ever need something to scare children with[0], I'll
+describe the tenant cycle implementation.
+<ascii_phil> [0] Well, database-knowledgable geek children.
+* daveious is scared enough by the implementation of footnotes in IRC,
+thankyouverymuch

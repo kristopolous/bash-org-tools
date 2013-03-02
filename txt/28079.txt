@@ -1,0 +1,4 @@
+#28079 +(128)- [X]
+<PS_GAMER> Neill, just to be sure, that text compression problem with SD3 is a thing of the past, correct?
+<Neill1712> PS: Well, I killed the text compression. But now the text compression's big brother is hiring someone to kill me, so I'll keep you posted
+<PS_GAMER> Thanks.

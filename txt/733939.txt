@@ -1,0 +1,2 @@
+#733939 +(514)- [X]
+<geckosenator> my new approach to optimizing is comment random lines of code out and check speed and verify the results are still correct

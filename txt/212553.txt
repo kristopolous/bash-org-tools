@@ -1,0 +1,5 @@
+#212553 +(275)- [X]
+<Prescient1> what's the syntax for sending a message to the whole channel on a timer?
+<|sliq|> /timer 0 (delay in seconds) msg #channelname Message
+<|sliq|> don't do 0 0, you'll flood out right away
+* Prescient1 Quit (Excess Flood)

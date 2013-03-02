@@ -1,0 +1,8 @@
+#9565 +(160)- [X]
+<[S]evered> man, diego, how fast would a 2 60 gb hds ata raid setup be?
+<stoldark> rpm?
+<[S]evered> 7200
+<stoldark> what kind of raid setup?
+<[S]evered> yes
+<stoldark> mirroring or striping?
+<[S]evered> connected

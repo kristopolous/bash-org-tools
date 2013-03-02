@@ -1,0 +1,6 @@
+#543726 +(1113)- [X]
+<root66> so, I was contracted to write a text messaging client for windows. I said I wanted $250 upfront and $250 upon completion. He only sent $200
+<root66> so I completed it but made it crippled and put "demo" in the titlebar
+<root66> and he told me "this is just some demo you downloaded. I am not giving you any more money"
+<root66> so I changed "demo" to "cheapskate version - that means you dave" and sent it again
+<root66> now he won't answer my emails

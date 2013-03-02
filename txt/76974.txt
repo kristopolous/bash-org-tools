@@ -1,0 +1,4 @@
+#76974 +(416)- [X]
+<Kermee> SELECT * FROM {[chicks]} WHERE {[bust_size]} > 32C AND NOT {[is_fat_chick]} AND {[looks]} = Hot! AND NOT {([is_psych_student]} OR {[is_law-student]} OR {[is_commerce_student])} AND {[will_swallow]} = True AND {[has_own_cash]} :P
+<Astatine> oh, good one :P
+<Astatine> I think we've just made a SQL statement for the perfect woman :P <Kermee> now if only there where such a table..

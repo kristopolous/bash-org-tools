@@ -1,0 +1,2 @@
+#8317 +(535)- [X]
+<cov\sick> Solitarie almost never crashes. They should employ the person who wrote it to head the WinNT team.

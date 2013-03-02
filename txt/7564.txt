@@ -1,0 +1,4 @@
+#7564 +(312)- [X]
+<foop> Nov 4 06:28:56 xanax syslogd: select: Bad file descriptor
+<foop> Nov 4 06:29:27 xanax last message repeated 707174 times
+<foop> that ain't good

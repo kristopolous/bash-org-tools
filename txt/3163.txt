@@ -1,0 +1,2 @@
+#3163 +(967)- [X]
+<drlion> linux hacker 1: i'm bored.  linux hacker 2: let's re-write the whole kernel!  linux hacker 1: ok.  *hackety-hack*  linux hacker 1: wow, it's 0.00001% faster and takes up 1kb less space!  linux hacker 2: w00t.

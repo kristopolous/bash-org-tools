@@ -1,0 +1,4 @@
+#8864 +(276)- [X]
+<+Sonikku> 10 PRINT "_Bobbi_ is a PROGRAMER!"
+<+Sonikku> 20 GOTO 10
+<@dixon> Sonikku: what is that ? assembly ?

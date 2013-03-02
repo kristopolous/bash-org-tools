@@ -1,0 +1,6 @@
+#3244 +(1278)- [X]
+*** rmah (rmah@24-168-58-10.nyc.rr.com) has joined #javascript
+<rmah> greetings fellow humans
+<JibberJim> Isn't that an unwarranted assumption rmah?
+<rmah> no assumptions...I do not greet non-humans
+<JibberJim> fair point.

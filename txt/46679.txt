@@ -1,0 +1,4 @@
+#46679 +(188)- [X]
+<hoedje> how can I see witch hda I can mount?
+<ymir> You don't mount witches.
+<ymir> Because, I don't think they'll appreciate it.

@@ -1,0 +1,3 @@
+#14031 +(347)- [X]
+<Pepper-> "Dear valued customer, it appears you have attempted to transmit data through your modem. Here at iiNet, it is our policy to stop all outgoing traffic from client's computers, as it encourages rampant misuse of our outragesouly overpriced and underserviced internet accounts. Please refrain from doing this in
+future, and thank-you for your continued support of our company."

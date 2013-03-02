@@ -1,0 +1,8 @@
+#12291 +(333)- [X]
+<Hurricane> I wonder if the Banner people would be offended if I started a
+little project that would require about 400 inserts per second
+on the Oracle server.
+<Krinberry> Easy way to find out, Bran :)
+<Hurricane> Yes!  Exploration through experimentation is what a University
+is all about, after all.  :)
+<Gord> They mean pot and orgies, not database hosing! (:

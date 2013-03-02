@@ -1,0 +1,6 @@
+#764878 +(237)- [X]
+<fugi> 64 bytes from 207.46.197.32: icmp_seq=0 ttl=115 time=69.422 ms
+<fugi> 64 bytes from 207.46.197.32: icmp_seq=0 DUP! ttl=115 time=69.887 ms
+<fugi> 64 bytes from 207.46.197.32: icmp_seq=0 DUP! ttl=115 time=86.464 ms
+<fugi> microsoft.com sends duplicates..
+<fugi> it like they got bored of making new security holes so they just brought back some old ones

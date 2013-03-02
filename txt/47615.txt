@@ -1,0 +1,6 @@
+#47615 +(23)- [X]
+<snowdrake> no sooner do I upgrade my BIOS for >64GB support than, by all appearances, a kernel driver appears that supports the jumper option I disabled.
+<snowdrake> but BIOS native support is probably the better option.
+<MDK> It's a feature. "Annoying Updates"
+<MDK> In a 4098-bit encrypted folder in an invisible subdirectory.
+<MDK> I guessed the key by typing with two fingers.

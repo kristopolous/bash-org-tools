@@ -1,0 +1,8 @@
+#11230 +(205)- [X]
+<David> topic lock off ?
+<David> how
+<David> ?
+<DJ-Pyro> /msg chanserv help
+<SSJ4xVegeta> how do i group my nicks 2gether
+<DJ-Pyro> /msg nickserv help
+<DJ-Pyro> you'll notice a pattern

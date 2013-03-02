@@ -1,0 +1,9 @@
+#22393 +(102)- [X]
+(cubeman) there is a big fat bug in Joust 2
+(cubeman) I just found it
+(cubeman) you can make the pterry kill itself in the lava
+(cubeman) you kill a few then...
+(cubeman) you have a screen where you don't advance
+(BenJos) So what if you have the bug kill itself in the lava? I mean what does the big fat bug in Joust 2 have to do with it?
+(cubeman) ummmm
+(cubeman) I believe you are trying to obfuscate my senses

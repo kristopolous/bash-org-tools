@@ -1,0 +1,7 @@
+#3045 +(612)- [X]
+*** beltic has joined #html
+<beltic> hey folks..
+<beltic> anyone know of a good php chan?
+<myn> #php
+<beltic> thanks.
+*** beltic has left #html

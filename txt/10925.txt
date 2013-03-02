@@ -1,0 +1,5 @@
+#10925 +(385)- [X]
+<meiscoole:#pc> my ethernet card isn't lighting up and displaying physical
+connection.  Any one have any idea why?
+<munky:#pc> broke ethernet cable
+<meiscoole:#pc> what is an ethernet cable?

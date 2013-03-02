@@ -1,0 +1,9 @@
+#3894 +(113)- [X]
+<gc> it would take approximatly 40 286's to equals the power of your average 1 GHz desktop
+<cabbage> um, where did you pull that crap from?
+<gc> do the math
+<cabbage> haha
+<ian> what math
+<_gene> well you know .. THE math ;)
+<jwzrd-> gc: are you adding clockspeed here ?
+<gc> no its the cache,

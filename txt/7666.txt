@@ -1,0 +1,6 @@
+#7666 +(178)- [X]
+<Rustblade> I gotta add some new cooling if I'm going to accomodate this new scsi 3 drive
+<Rustblade> oh shit
+<Rustblade> you know what I realized
+<Rustblade> I need a fucking scsi 3 controler
+<Rustblade> I didn't think of that

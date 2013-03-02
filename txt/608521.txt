@@ -1,0 +1,8 @@
+#608521 +(1214)- [X]
+<Numi> hey, can you guys just check a site out and tell me if it's up?
+<Haddock> depends, what is it?
+<Numi> just my apache server, it works for me but seems to be down for anyone else
+<Haddock> alright, what's the address?
+<Numi> http://127.0.0.1
+<Haddock> ......
+<Haddock> ...Yeah, it's up.

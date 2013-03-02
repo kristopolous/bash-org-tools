@@ -1,0 +1,4 @@
+#8077 +(246)- [X]
+<z_evil1> does _anyone_ on IRC update the topic field of a channel to suit the actual topic of conversation?
+*** Madeleine changes topic to 'fuck all, as usual'
+<Madeleine> set that to keeptopic, forever

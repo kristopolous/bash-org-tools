@@ -1,0 +1,4 @@
+#102178 +(147)- [X]
+<Ban|Karma|> whats the differents between FreeBSD and Redhat?
+<Mr_Tux> Ban|Karma|: One's free, the other's crap.  You decide.
+<StiNKy> redhat isn't free?

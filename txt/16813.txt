@@ -1,0 +1,3 @@
+#16813 +(97)- [X]
+<B-ob> if (sleep < 0) then talk = null
+<Stonefish> oh smeg off

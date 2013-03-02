@@ -1,0 +1,10 @@
+#308150 +(518)- [X]
+-!- Chellez has joined #help
+<Chellez> where can i get programs?
+<ferret> Chellez: The internet.
+<Chellez> does this program have cervers?
+<ferret> Chellez: The internet has servers.
+<Chellez> how do i access them?
+<ferret> Chellez: By pointing a web or ftp browser at them, usually.
+-!- Chellez has left #help
+<ferret> Another user helped o/

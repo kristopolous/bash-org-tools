@@ -1,0 +1,8 @@
+#3181 +(1463)- [X]
+<jip_> anyone know offhand how to make comments in lisp?
+<Jumper> people still use lisp ?
+<Liqd_Work> people started using lisp?
+<MediArc> people can program?
+<Jumper> ..people ?
+<MediArc> ??
+<drlion> there was light?

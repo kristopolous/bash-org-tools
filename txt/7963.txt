@@ -1,0 +1,6 @@
+#7963 +(131)- [X]
+<Vhata> #linux is one of those...
+<Vhata> things
+<Vhata> what do you call a project that is no longer being maintained?
+<Nimnod> a failure.
+<Vhata> heh

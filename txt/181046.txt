@@ -1,0 +1,12 @@
+#181046 +(220)- [X]
+-!- marlies [~m@81.132.2.190] has joined #gamesoc
+< marlies> ello all
+< Jops> welcome to the tumbleweed zone
+< kev> o.
+< kev>     'o
+< kev>                 `o
+< kev>                                 o'
+< marlies>                                                      o,
+< kev> congratulations, you have won tonights star prize!
+-!- marlies [~m@81.132.2.190] has quit [Client Quit]
+< kev> freedom from irc

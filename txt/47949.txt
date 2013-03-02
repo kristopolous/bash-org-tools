@@ -1,0 +1,4 @@
+#47949 +(180)- [X]
+<punchcard> a little application logic goes a long way
+<DomMac> indeed I can see the possibilities for problems with that being pretty great unless the programmer took his time in designing the app. Since it is MS, one never really knows do they?
+<punchcard> hang on, I gotta take a nap after reading that long-ass sentence

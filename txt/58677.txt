@@ -1,0 +1,10 @@
+#58677 +(204)- [X]
+<Miz> why does windows messager not close? :E
+<Miz> there isnt anything using it!
+<Cheez> hotmail?
+<Miz> not visible anyway
+<Miz> nope
+<Miz> no windows open 'cept this
+<Cheez> try killing the process
+* Miz has quit IRC (Connection reset by peer)
+<Cheez> wrong process...

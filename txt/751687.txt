@@ -1,0 +1,5 @@
+#751687 +(993)- [X]
+<Mike> We should have internet rings like Captain Planet.
+<skauert> TCP, UDP, FTP, SSH, HTTP
+<skauert> By your protocols combined
+<skauert> I'm captain internet

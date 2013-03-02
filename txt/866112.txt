@@ -1,0 +1,3 @@
+#866112 +(1607)- [X]
+<glyph> For example - if you came in here asking "how do I use a jackhammer" we might ask "why do you need to use a jackhammer"
+<glyph> If the answer to the latter question is "to knock my grandmother's head off to let out the evil spirits that gave her cancer", then maybe the problem is actually unrelated to jackhammers

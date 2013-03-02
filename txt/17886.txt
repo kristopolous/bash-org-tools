@@ -1,0 +1,3 @@
+#17886 +(324)- [X]
+Tom - "Are you using networking cable to pull the sled?"
+Dave - "Yea, it's only 10baseT, but it should be fast enough."

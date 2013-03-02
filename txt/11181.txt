@@ -1,0 +1,4 @@
+#11181 +(815)- [X]
+<bean2edu>Try seeding the RNG with the current system time, that should help somewhat
+<kram>You do know that the numbers generated are still pseudo-random, and not true RNs.  In fact there is no way to generate true random numbers.
+<bean2edu>Obviously you've never had your wife balance the checkbook.

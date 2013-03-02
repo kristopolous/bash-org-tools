@@ -1,0 +1,2 @@
+#52029 +(155)- [X]
+<@synec> with only 32 bits of address space, it's no wonder we all keep bumping into each other

@@ -1,0 +1,3 @@
+#5270 +(494)- [X]
+<Procyan> is there like 1 person on earth that knows tcl/tk and is writing all of the apps?
+<unSlider> procyan: no, there are a bunch of people who dont know tcl/tk but are writing apps for it anyway

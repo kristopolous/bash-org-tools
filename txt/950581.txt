@@ -1,0 +1,10 @@
+#950581 +(975)- [X]
+< Ergo^> Six Stages of Debugging
+< Ergo^> 1. That can't happen.
+< Ergo^> 2. That doesn't happen on my machine.
+< Ergo^> 3. That shouldn't happen.
+< Ergo^> 4. Why does that happen?
+< Ergo^> 5. Oh, I see.
+< Ergo^> 6. How did that ever work?
+< MatthewWilkes> 7. svn blame
+< miniwark> 8. one day we will write tests

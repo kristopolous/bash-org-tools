@@ -1,0 +1,11 @@
+#33799 +(203)- [X]
+<RichiH> talking of netBSD - someone has a spare toaster to test 1.6?
+<mirabile> lol toaster
+<mirabile> you know them :)
+<RichiH> you just wait...
+<RichiH> some day they will support toasters and washing machines
+<Tschechow> "a toaster can be on or off, so it has at least one bit, so netbsd should boot on it."
+* RichiH 's mental eye sees a toaster's heating elements glow morse code
+<mirabile> lol
+<zinx> they already do, you just need the right brand
+<RichiH> or it could punch the toast

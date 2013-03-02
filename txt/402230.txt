@@ -1,0 +1,2 @@
+#402230 +(343)- [X]
+<thedeathart>Say, If you have a username and a password for a FTP server, how do you get the address?

@@ -1,0 +1,3 @@
+#76943 +(683)- [X]
+<Spike> I want to write an OS that gives error messages in laymen's terms
+<Spike> "Your computer is fuckin broke yo. Reset this shit"

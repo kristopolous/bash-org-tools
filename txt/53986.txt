@@ -1,0 +1,10 @@
+#53986 +(18)- [X]
+<Vented> I wake up and go "fuck work, fuck work"
+<Vented> i give my thanks to my job :)
+<TheJesus> that's the trick
+<TheJesus> if you mess up and do <go to work> <say fuck work, fuck work> in the wrong order, you get in trouble
+<Vented> hahah :)
+<Vented> you can always delete the two files, then recreate them in the correct order
+<Vented> or just "touch" <go to work> so it has a later date stamp
+<Vented> then no one will know what happened :)
+<TheJesus> hahahaha

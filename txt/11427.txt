@@ -1,0 +1,7 @@
+#11427 +(705)- [X]
+<DannyBoy> Hey CB, do you have any old website interface templates laying around that you have no use for? =8)
+<Cowboy_w3rk> er
+<Cowboy_w3rk> <html><body>insert content</body></html>
+<Cowboy_w3rk> there ya go
+<DannyBoy> wonderful
+<DannyBoy> hey, that looks like shit

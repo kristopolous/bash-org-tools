@@ -1,0 +1,12 @@
+#420181 +(2060)- [X]
+<sic1> so you tried to go home
+<sic1> and it wouldn't start?
+<sp4nk> Indeed.
+<sp4nk> I wish I knew a thing or two about cars.
+<sp4nk> I wonder if there's a troubleshooter online that's like Microsoft's thing.
+<sp4nk> Problem: My car will not start.
+<sic1> HAHAHA
+<sp4nk> Suggestion: Have you tried turning the key?
+<sp4nk> [ ] Yes, this solved the problem.
+<sp4nk> [x] No, the car still will not start.
+<sp4nk> This troubleshooter is unable to solve your problem.

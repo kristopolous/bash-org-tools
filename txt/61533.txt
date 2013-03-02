@@ -1,0 +1,6 @@
+#61533 +(9)- [X]
+<DarxusZzZ> it's like it's not reading the resolv.conf
+<kuruption> Darxus, you're running linux?
+<DarxusZzZ> on this machine? no, on the one I'm trying to fucking install gentoo on? yes
+<kuruption> i have a FAQ for you on how to resolve that problem.... www.freebsd.org
+<kuruption> hahaha

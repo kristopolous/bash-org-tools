@@ -1,0 +1,12 @@
+#880081 +(878)- [X]
+<Ndi> i have a local lan at work
+<Ndi> and it has a nat
+<Ndi> and it nats to the net
+<Ndi> and the net is at home
+<Ndi> and I have a vpm that vpns over the net to the lan at work which is natted
+<Ndi> and I have a VM here that has the ability to NAT into my real home lan
+<Ndi> that can be output to the net
+<Ndi> so I defined the NAT there
+<Ndi> so then I have access to work
+<Ndi> so the packet, you see, from 192.168.88.3 to 192.168.3.22 is output, and then gets routed to 192.168.88.2, then 88.1, then my IP, then to my gateway, then net, then the work gateway then to the VPN device, then to the local gateway, then to the target pc.
+<Ndi> i wonder if I can get tech support for this.

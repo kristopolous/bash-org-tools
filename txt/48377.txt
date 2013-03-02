@@ -1,0 +1,15 @@
+#48377 +(166)- [X]
+<+SLing> I think I have just won the award for computer stupidity
+<Gau> How's that?
+<+SLing> ok
+<+SLing> I just installed this disk cleanup software that I had ran before with no problems
+<+SLing> and I cleaned up a bunch of files
+<+SLing> then I restarted because my internet connection was going strange
+<+SLing> my computer begins to boot and I see this "NLTDR is mising" error
+<+SLing> I had no idea what the fuck I had done so I popped in my windows 2000 CD and ran a repair install
+<+SLing> the repair went fine but when I restarted again I had that error
+<+SLing> so I'm like "Oh shit, I fucked up my computer"
+<+SLing> I start freaking out
+<+SLing> and then I realize
+<+SLing> THERES A FUCKING UNFORMATTED FLOPPY DISK IN MY DISK DRIVE
+<+SLing> -_-;;;;;;;;;;;;

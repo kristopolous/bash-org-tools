@@ -1,0 +1,13 @@
+#377280 +(360)- [X]
+<sheep--> you are in a race.. and you pass the person who is running second, what position are you now?
+<exe|> Well... that depends... if you're the right side or not
+<FuIru> pass as in overtake, or fall behind?
+<sheep--> overtake
+<FuIru> then 2nd
+<sheep--> heh.. my dad caught be off guard and i said first
+<sheep--> he laughed in my face
+<FuIru> heh
+<exe|> haha
+<sheep--> he also said 'what kind of a programmer are you? hahaha'
+<sheep--> :
+<sheep--> i got pwned by my dad

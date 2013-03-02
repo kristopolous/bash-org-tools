@@ -1,0 +1,6 @@
+#6133 +(287)- [X]
+<BedBoB> ERR: scsi_wait_goat() no goat.
+<lsd> i'm sure i don't remember having any goats near my old all-SCSI amiga
+<Bruce> the mac II here doesnt need goats either
+<BedBoB> they have inbuilt goats
+<lsd> on-board goat controller

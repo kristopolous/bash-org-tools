@@ -1,0 +1,12 @@
+#238103 +(680)- [X]
+<KB1JEC> anybody here give me a little help with VB?
+<MikeJ> KB1JEC - does this look like a VB help channel?
+<MikeJ> #C# is the VB help channel
+<MikeJ> *duh*
+<KB1JEC> ok im so awfully sorry
+<KB1JEC> Unable to join #C# because a correct key is required
+<MikeJ> ok
+<MikeJ> then try #C++ they do it too
+<KB1JEC> ok im in #c++, thanks
+* KB1JEC has left #VisualBasic
+<MikeJ> ...

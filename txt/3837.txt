@@ -1,0 +1,8 @@
+#3837 +(301)- [X]
+<Slant> dpkg -i kernel-image-2.4.18_kami.1.0_i386.deb
+<Sam|foo> ok
+<Slant> ok, reboot.
+<Sam|foo> brb
+* Slant nods.
+<-- Sam|foo has quit (QUIT: User exited)
+<FlipTopBox> sucka.  he's doomed, isn't he.

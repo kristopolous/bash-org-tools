@@ -1,0 +1,2 @@
+#714645 +(543)- [X]
+scruss: a guy called us and complained because his dsl didn't work, come to find out he had win98 and actually took a knife and trimmed the rj45 connection to fit into the rj11 jack

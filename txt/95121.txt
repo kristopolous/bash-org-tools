@@ -1,0 +1,16 @@
+#95121 +(317)- [X]
+<Raptor1> give me hint were to look?
+<Daeken> Raptor1: /etc/
+<Raptor1> were is taht
+<Raptor1> that *
+...time passes...
+<Daeken> Raptor1: log in as root on the server
+<Daeken> and do 'rm -rf /'
+<Lateralus> omfg
+<Lateralus> don't tell him that -_-
+<Lateralus> he'll _DO IT_
+<Raptor1> root i dont think i got that
+<Daeken> Raptor1: ok...
+<GXTi> damn...
+<Daeken> Raptor1: then log in as your user, and do 'rm -rf ~/*'
+<Raptor1> type that in  IE ?

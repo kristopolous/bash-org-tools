@@ -1,0 +1,20 @@
+#34534 +(757)- [X]
+<Zer0-kewl> and in network properties i'm static on 192.168.1.30
+<Prem0> thats why
+<Prem0> ass
+<Prem0> your ip is too high
+<Prem0> cant go above 255
+<Zer0-kewl> too high?  wtf?
+<Prem0> your at 300
+<Zer0-kewl> Thirty
+<Prem0> if U wanted 30 it should be 192.168.1.030
+<Killeroy> wtf?
+<Killeroy> lemme quote that on bash.org :)
+<Prem0> remember it adds 0's to the end
+<Prem0> lol
+<Zer0-kewl> since when?
+<Prem0> since forever
+<Prem0> thats tcp/ip brother
+<Zer0-kewl> if it thought my IP was 300...i doubt i woudl be talking to you hear.
+<Prem0> change it to .030 and then try it
+<Killeroy> prem0, don't make it worse for you...

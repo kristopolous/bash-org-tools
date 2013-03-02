@@ -1,0 +1,6 @@
+#81907 +(205)- [X]
+<smurphant> it's really annoying when the dvd encoding guides are like "okay, now use this guide, http://..., to create a drv project" and then that guide is like "if the dvd has these properties, then use this guide, if it has these properties, then use this guide" ...it's a never ending string of guides!
+<gunk> lol
+<gunk> h0h0
+<gunk> all I need to do is mencoder -dvd 1 -ovc lavc -lavcopts vcodec=mpeg4:vpass=1 -vop scale:640x512:vbitrate=700 -oac copy -dvd-device /dev/cdrom;mencoder -dvd 1 -ovc lavc -lavcopts vcodec=mpeg4:vpass=1:vbitrate=700 -oac copy -dvd-device /dev/cdrom -vop scale:640x512
+<gunk> and that's actually all quite basic stuff if you read the docs

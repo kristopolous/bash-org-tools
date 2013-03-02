@@ -1,0 +1,8 @@
+#137314 +(427)- [X]
+bob2 | fuck, my room is like a bad text adventure!
+tb | The top of my monitor is too thin to fit anything, unless I glue it on.
+bob2 | > take thermos
+bob2 | the thermos lid falls off, spilling boiling water all over you!
+bob2 | you die!
+bob2 | play again (y/n)?
+Faugn | no

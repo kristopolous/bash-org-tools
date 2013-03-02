@@ -1,0 +1,12 @@
+#37829 +(329)- [X]
+<Ash> look: I like python pretty well, but the syntax is kind of annoying.
+<AaronSw> this from a lisp programmer?!
+<Ash> AaronSw: One type of brace is much simpler than a bazillion!
+<AaronSw> to write perhaps, but not to rfead
+<Ash> Lisp's syntax is simple and efficient.
+<Ash> With a proper editor, lisp is incredibly easy to read.
+<look> OK, let's pretend we got past the syntax argument
+<look> It's now 45 minutes in the future
+<look> and we've agreed to disagree
+<look> Hurray!
+<AaronSw> I bet look's time machine is programmed in Python. <duck />

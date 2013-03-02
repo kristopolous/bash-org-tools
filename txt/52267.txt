@@ -1,0 +1,9 @@
+#52267 +(31)- [X]
+<@HomeBrewR> "This combo includes a great Asus XP motherboard with onboard video+audio, AMD Athlon XP 2000+ processor with cooling fan & 256MB PC133 SDRAM memory" heh...no bottleneck there
+<@DeadKenne> yikes pc133 ram?!
+<@HomeBrewR> dk, yeah...exactly
+<@DeadKenne> that's kind of like tying one arm and a leg together, then trying to run a race
+<@da4> hehe
+<@DeadKenne> you'll make it there... eventually
+<@DeadKenne> the cpu must have to idle alot
+<@da4> "designed by Apple hardware engineers"

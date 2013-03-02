@@ -1,0 +1,5 @@
+#6511 +(1349)- [X]
+<monami> this utility has a macro recording function but no loop command
+<monami> so i record a macro, and then put a stapler on the keyboard to hold the button down
+<monami> and go have coffee
+<monami> i note that the stapler, on the whole, is a more efficient and productive employee than i am

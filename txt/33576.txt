@@ -1,0 +1,2 @@
+#33576 +(222)- [X]
+*#* Signoff: labo-rat (find / -name \*yourbase\* -exec chown us:us {} \;)

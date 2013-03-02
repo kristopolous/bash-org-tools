@@ -1,0 +1,5 @@
+#10730 +(332)- [X]
+<+Genome> the next version of mirc should support 3D visualisation plugins like winamp
+<%Yukanojo> wtf would you visualize with mIRC?
+<+Kumaneko> text rate?
+<+Genome> FAGS PER SECOND

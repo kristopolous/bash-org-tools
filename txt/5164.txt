@@ -1,0 +1,2 @@
+#5164 +(432)- [X]
+<TcShBoY> where is the /etc/passwd located?

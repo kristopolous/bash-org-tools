@@ -1,0 +1,4 @@
+#54757 +(257)- [X]
+<TrouT> anyone know what this means:
+<TrouT> python2.1: can't open file '/usr/local/sbin/RegisterVh3Service'
+<+toad-> I think python2.1 can't open the file /usr/local/sbin/RegisterVh3Service

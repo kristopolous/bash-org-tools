@@ -1,0 +1,4 @@
+#13499 +(542)- [X]
+<Aerion> I haven't rebooted Windows for a week and it still hasn't started leaking memory.
+<AndrewT> freaky
+<AndrewT> you'd better get that thing to microsoft before it starts becoming useful

@@ -1,0 +1,4 @@
+#375255 +(187)- [X]
+<mCh> cd rootmy_head
+<mCh> ls -l
+<garg^work> bash: directory is empty

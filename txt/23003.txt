@@ -1,0 +1,5 @@
+#23003 +(-38)- [X]
+[    Orochi]: Network Interfaces[#1 (Realtek RTL8029(AS) Ethernet Adapt (10Mb/s) 2029.16MB In, 65.49MB Out) #2(3Com EtherLink PCI (100Mb/s) 2541.76MB In, 942.64MB Out)]
+[ anim0sity]: hell
+[      sTek]:  [NetWork]  #1 (NETGEAR FA310TX Fast Ethernet PCI Adapter (10Mb/s) 213.70MB In, 55.17MB Out) #2(ELNK3 Ethernet Adapter (10Mb/s) 0.00MB In, 0.00MB Out)
+[ anim0sity]: dialup[globe via Generic 56K HCF Data Fax Modem @ 50Kb/s for 6h 34m 44s (4.73MB up, 124.54MB down)]

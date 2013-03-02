@@ -1,0 +1,13 @@
+#8238 +(267)- [X]
+* sabeel (~blackHoru@62.61.192.142) has joined #winprog
+* delete[] sets mode: +v sabeel
+<+sabeel> is google working ...?
+<+O_6> !google sabeel is retarded
+<+logiclrd> O_6: http://www.prairienet.org/cpt/archives/2000/oct00/0006.html
+<+O_6> ^^
+...
+<+sabeel> !google O_6 is also retarded
+<+logiclrd> sabeel: Sorry, the server did not return expected response headers. This probably means that there were no matches to your query.
+<@violus> huhuh
+<+O_6> sabeel, touche, retard
+<@violus> owned.

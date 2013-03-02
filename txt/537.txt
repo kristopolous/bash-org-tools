@@ -1,0 +1,4 @@
+#537 +(88)- [X]
+<enex> You have invited Vic Viper to start using Microsoft Windows. Please wait for a response or Cancel (Alt+Q) the pending invitation.
+<enex> Vic Viper does not have Microsoft Windows installed and is not able to accept your invitation.
+<enex> Look how clever I am! ^_^

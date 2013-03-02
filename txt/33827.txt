@@ -1,0 +1,2 @@
+#33827 +(83)- [X]
+-!- Topic for #Linux: FAQ: http://faq.linuxops.net/ * Welcome to Intro to Perl. Lesson 1, regular expressions: /\o.o/\ + foot = /\.\//\/\./

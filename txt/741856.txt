@@ -1,0 +1,2 @@
+#741856 +(981)- [X]
+<kimos> You seem (in my (humble) opinion (which doesn't mean much)) to be (or possibly could be) more of a Lisp programmer (but I could be (and probably am) wrong).

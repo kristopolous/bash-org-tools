@@ -1,0 +1,7 @@
+#103407 +(117)- [X]
+<werxxx> ok..
+<werxxx> lemme put it like this
+<werxxx> how to make my script check dns of a given domain
+<xterm> werxxx: google should be able to help you out.
+<werxxx> google?
+<werxxx> so i'll need to configure my script to parse google query result?

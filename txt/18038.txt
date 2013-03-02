@@ -1,0 +1,7 @@
+#18038 +(256)- [X]
+<Worsemaker> public boolean whore(String x) { if (x = "Your Mom") { return true; } else { return false; }
+<Seigfried> You forgot your close brace, Worsemaker.
+<Seigfried> And the else is extraneous.
+<Seigfried> And I don't think you need the "public" unless it's actually in a class.
+<Seigfried> And THAT has infinite levels of recursion. ;P
+*** Worsemaker was kicked by Mandoric (C++ kick. =p)

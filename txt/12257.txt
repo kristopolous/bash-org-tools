@@ -1,0 +1,17 @@
+#12257 +(693)- [X]
+<Rjx> Running Virus Decector Version 1.0.2 - Type ? for disinfect help
+<dadadada> ?
+<Rjx> The irc.infect.bears.you virus has been detected from your IRC client
+<dadadada> how can i clean it?
+<Rjx> To disinfect type "/timer 0 1 /msg <channel you are in> bear.be.gone"
+<Rjx> End of Instruction -|
+<dadada> ok
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+<dadadada> bear.be.gone
+*** dadadada was kicked by Snes9x (flood)

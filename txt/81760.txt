@@ -1,0 +1,5 @@
+#81760 +(64)- [X]
+<whiprush> #debian is pretty intense too ...
+<whiprush> I don't see how anyone can get help in that place.
+<ronelson> well whip, you just apt-get irc-logs when you need them :P
+<whiprush> ronelson: can you?

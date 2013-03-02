@@ -1,0 +1,12 @@
+#482105 +(355)- [X]
+<Coyote> ok I'm bored
+<Coyote> noir, can I telnet you?
+<Noir> why not
+<Coyote> Can i get you rroot and play in your filesystem?
+<Noir> why not
+<Coyote> wewt
+<Noir> just dont break anything
+<Coyote> oh don't worry
+<Coyote> I'll be gentle
+<Noir> k
+<Coyote> I'll slowly input keystrokes to your cli until you come to emacs

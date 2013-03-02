@@ -1,0 +1,5 @@
+#22952 +(585)- [X]
+<weasel> i made a thing that turns red when you left click it and blue when you right click it
+<weasel> and now i can't stop clicking it
+<sponge> thats sad
+<weasel> no, what's sad is that this took me 2 hours to write and debug

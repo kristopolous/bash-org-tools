@@ -1,0 +1,9 @@
+#261340 +(1178)- [X]
+<Astrum> bash.org script:
+<Astrum> if( quote == funny )
+<Astrum> reject();
+<Astrum> else
+<Astrum> reject();
+<Astrum> I hear they're comming out with the bash.org script version 2
+<Astrum> it's optimized:
+<Astrum> reject();

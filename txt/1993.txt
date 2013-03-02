@@ -1,0 +1,5 @@
+#1993 +(120)- [X]
+<Digested> yeah, the chicken sandwiches are just right by default
+<Digested> so you don't have to customize or mess around with config files in vi
+<Digested> that config files thing is going into the quotes, isn't it :/
+<Guilty> I wont submit it if you purge the database of nerdb5

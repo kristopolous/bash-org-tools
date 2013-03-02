@@ -1,0 +1,6 @@
+#707810 +(374)- [X]
+<richard> To be fair to windows, there is one thing you can do on it that you can't do on Unix
+<teifion> Can you do it on my Mac?
+<richard> No, it is unique to Windows
+<teifion> What is it?
+<richard> You can defrag stuff

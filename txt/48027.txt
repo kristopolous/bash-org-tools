@@ -1,0 +1,12 @@
+#48027 +(408)- [X]
+<@`2L_verkink> eval('document.forms[0].elements[' + elementCount + '].options[document.forms[0].elements[' + elementCount + '].selectedIndex].value')
+<@`2L_verkink> whats the probleM!?!?!?!?
+<yods> the problem?
+<yods> thats easy
+<yods> i dont understand SQL
+<yods> if i did
+<yods> i might have a chance
+<@`2L_verkink> if u did
+<@`2L_verkink> it wouldn't help
+<@`2L_verkink> cause
+<@`2L_verkink> this is javascript

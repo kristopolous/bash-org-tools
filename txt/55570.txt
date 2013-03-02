@@ -1,0 +1,3 @@
+#55570 +(181)- [X]
+<LLyric> How do I break out of an infinite loop on a c64? It's been sooo long.
+<MaggieL> Unplug it.

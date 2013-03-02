@@ -1,0 +1,8 @@
+#10486 +(439)- [X]
+<cj_> we lost 20,000 rows of customer data
+<Twid> cj: eek!
+<Twid> I hope the innocent were blamed.
+<Kin-San> 20k? holy...
+<cj_> we blamed the guy that didn't come in today.
+<Kin-San> lol
+<Twid> good.  as long as normal business procedures were followed

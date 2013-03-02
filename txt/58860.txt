@@ -1,0 +1,8 @@
+#58860 +(143)- [X]
+<Lithium> if i buy a hardware firewall right - i just stick it on, tell it to block all ports - tada
+<Lithium> easy peasy
+<stephen> all ports?
+<Lithium> i aint got time to arse about isntalling software firewalls on every machine
+<Lithium> i tried before
+<Noodle> there's an easier and cheaper way to block all ports
+<Noodle> pull the RJ45 out :P

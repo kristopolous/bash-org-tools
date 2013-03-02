@@ -1,0 +1,25 @@
+#102979 +(880)- [X]
+<cwilbur> we have a database table with fifteen million rows in it.
+<cwilbur> they brought a manual database change in.
+<cwilbur> "please print a table dump before and after you make the change."
+<Azhrarn> nothing like hard copy to recover mistakes from!
+<cwilbur> there are fifteen million rows in the table.  if you want us to make a dump of the table just in case, that makes sense.  but do you really want a *book*?
+<cwilbur> "our policy says that we need a printout."
+<confound> hahaha
+<cwilbur> oooookay.
+<Azhrarn> print out a link to the backup on your intranet :)
+<confound> "that's not MY policy."
+<cwilbur> no, they want a printout, they'll get a printout.
+<pmichaud> what font size?  how many lines per page?
+<Azhrarn> Poor trees
+<Halfjack> They'll only want it once.
+<cwilbur> when someone asks why we've gone through three toner cartridges and the printer is still printing, we'll refer them to the twit.
+<Azhrarn> shrink the font till it fits on one page :)
+<pmichaud> purl, 15000000 / 66
+<purl> 227272.727272727
+<Azhrarn> !
+<pmichaud> purl, 227272 / 5000
+<purl> 45.4544
+<pmichaud> 45 cases of paper :-)
+<pmichaud> at 66 lines per page
+<Azhrarn> and after he makes the changes...

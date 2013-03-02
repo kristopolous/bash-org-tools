@@ -1,0 +1,4 @@
+#28141 +(709)- [X]
+<Dedushka> Syntax error: function hell() needs an argument. Please choose what hell you want to involve
+<Dedushka> i dunno much fortran
+<madiera> FORTRAN compilers are more like "error, gorak think u program not working.  gorak consult rock and tree."

@@ -1,0 +1,5 @@
+#632087 +(843)- [X]
+<sceadu> i really need to figure out how to use a debugger in emacs
+<iank> pfft, how could you *not* know?
+<iank> It's just ctrl+alt+meta+f7+numlock+c+e+m+<
+<iank> Hell, you could discover that by accident in emacs..

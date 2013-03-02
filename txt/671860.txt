@@ -1,0 +1,11 @@
+#671860 +(1245)- [X]
+TheMan: Can one person type !add 2+2?
+Node: !add 2+2
+Aranjedeath: it dont work
+Aranjedeath: yeah
+Zabikten: $calc(2+2)
+Zabikten: hm
+Node: !add 2+2
+Zabikten: dude
+Zabikten: it's fucking 4
+Zabikten: why do you need a calculator?

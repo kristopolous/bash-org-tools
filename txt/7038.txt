@@ -1,0 +1,8 @@
+#7038 +(179)- [X]
+<casss> divX runs slightly jittery on comp
+<casss> is that cause of vid card?
+<JtHMx> it's cuz you're gy
+<sirg> but how does the codec know that?
+<JtHMx> it's magic
+<sirg> very cool!
+* sirg is way impressed

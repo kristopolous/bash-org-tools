@@ -1,0 +1,9 @@
+#15728 +(231)- [X]
+<marcus> hahah. these guys have a dedicated oracle server... an e3500 with 4
+cpus and 4gb of RAM
+<marcus> they've had it for 2 years now
+<marcus> doing nothing but oracle
+<marcus> with oracle configure to use no more than 128MB of ram
+<marcus> and recently they've been complaining about performance
+<marcus> they thought maybe they needed more memory
+<marcus> i was like "uhhh. your dataset is smaller than physical ram"

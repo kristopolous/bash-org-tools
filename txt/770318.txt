@@ -1,0 +1,3 @@
+#770318 +(90)- [X]
+<Deadeye> i take thee.. <name> in packet loss and no packet loss, to ACK and to SYN, till TTL=0
+<Deadeye> i take this acl.. and place it on you LeftHand1/0/4

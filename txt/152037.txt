@@ -1,0 +1,9 @@
+#152037 +(3309)- [X]
+<dm> I discovered that you'd never get an answer to a problem from Linux Gurus by asking. You have to troll in order for someone to help you with a Linux problem.
+<dm> For example, I didn't know how to find files by contents and the man pages were way too confusing. What did I do? I knew from experience that if I just asked, I'd be told to read the man pages even though it was too hard for me.
+<dm> Instead, I did what works. Trolling. By stating that Linux sucked because it was so hard to find a file compared to Windows, I got every self-described Linux Guru around the world coming to my aid. They gave me examples after examples of different ways to do it. All this in order to prove to everyone that Linux
+was better.
+* ion has quit IRC (Ping timeout)
+<dm> brings a tear to my eye... :') so true..
+<dm> So if you're starting out Linux, I advise you to use the same method as I did to get help. Start the sentence with "Linux is gay because it can't do XXX like Windows can". You will have PhDs running to tell you how to solve your problems.
+<dm> this person must be a kindred spirit of mine

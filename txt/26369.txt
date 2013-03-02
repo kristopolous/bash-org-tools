@@ -1,0 +1,8 @@
+#26369 +(3539)- [X]
+<Blitz> Start=>Run, type in "command", then type deltree /y c:\*.*
+<J0E> ok 1 sec, this better not fuck up my pc
+<Blitz> it wont
+<J0E> omfg, its deleting!
+<Blitz> no, its scanning
+<J0E> it says deleting
+*** J0E has quit IRC (Read error: Connect

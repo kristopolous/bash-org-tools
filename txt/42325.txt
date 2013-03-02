@@ -1,0 +1,8 @@
+#42325 +(55)- [X]
+< avoozl> what port did i need again for dns
+< avoozl> its not 'domain' is it?
+< rigel> 53
+< rigel> both udp and tcp
+< avoozl> hm i have those
+< avoozl> thats odd
+< rigel> clippy says: "I see you need some network help! Would you like me to: * search the help files for 'dns setup', * open internet  explorer to msdn.microsoft.com"

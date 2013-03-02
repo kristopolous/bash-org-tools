@@ -1,0 +1,5 @@
+#149234 +(532)- [X]
+(+|STE|) Harry answers the telephone, and it's an Emergency Room doctor.
+(+|STE|) The doctor says, "Your wife was in a serious car accident, and I have bad news and good news. The bad news is she has lost all use of both arms and both legs, and will need help eating and going to the bathroom for the rest of her life."
+(+|STE|) Harry says, "My God. What's the good news?"
+(+|STE|) The doctor says, "I'm kidding. She's dead."

@@ -1,0 +1,13 @@
+#5836 +(402)- [X]
+<PhantomOfTheRouter> never got another call from them till they bought a new accounting package that needed Win95
+<PhantomOfTheRouter> and Novell for the servers..
+<PhantomOfTheRouter> went in to upgrade the machines..
+<PhantomOfTheRouter> moved the first 2 workgroup servers to Novell 4.11
+<PhantomOfTheRouter> couldn't find the third
+<PhantomOfTheRouter> asked them where they moved it to...
+<PhantomOfTheRouter> umm, moved ?
+<PhantomOfTheRouter> yeah, where did you move WKG3SRV to ?
+<PhantomOfTheRouter> ummm...
+<PhantomOfTheRouter> we didn't change anything
+<PhantomOfTheRouter> You had to have moved it when you remodelled the office! The wiring closet in the hall is gone...
+<PhantomOfTheRouter> oh shit!

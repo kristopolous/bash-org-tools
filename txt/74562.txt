@@ -1,0 +1,24 @@
+#74562 +(144)- [X]
+(peer is an op on IRCNet #mirc...)
+* Rose_w (~Personal@c-134-84-89.f.dial.de.ignite.net) has joined #mirc
+<Rose_w> *** [10054] Connection reset by peer It's no Joke more
+<Rose_w> I can't smile about this
+<@Zardos> The server calls all clients for peers  - thus the peer the message refers to is actually your own client.
+<@Zardos> What probably happens is, that your connection to the server has problems.
+<@Shustrik> no, actually it's Your client who refers to the server as the peer; )
+<@Zardos> either your isp or someone else on the network - perhaps the irc server itself..
+<Rose_w> so you mean that i can chat without proplens
+<@peer> Rose_w, you want my address?
+<Rose_w> peer i want an Answer
+<eina> geez this sounds way to serious and i no be undrestanding anything  so alhoa
+<@peer> <-- scared
+<@Shustrik> Rose_w if You think peer is abusing Your connection, You can contact IRC ops for help
+<@Zardos> as I have explained to Rose_w, we have tried to talk you out of disconnecting people..
+<Rose_w>  i want only chat without problems you unterstand ;)
+<Rose_w> i have this server so long and i haven't this problems till today
+<Rose_w> just a moment please
+<Rose_w> Hello  Peer. I would like gladly unimpaired chat. But if you always do not break my connection off go that. I apologize also for itwhich I was so sour. You must understand me. It nervt if you to start continuously again must.
+<Rose_w> my Gramatikal is so terible sorry
+<Ace_DK> [21:47:48] * YaN- (plotkin@bzq-70-4.red.bezeqint.net) Quit (Connection reset by peer) - you think that is peer to?
+<Rose_w> yes i think so isn't it
+...

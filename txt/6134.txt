@@ -1,0 +1,4 @@
+#6134 +(849)- [X]
+<lsd> my win2k box is being a bitch
+<HrdwrBoB> that's the default setting
+<HrdwrBoB> you have to edit the registry

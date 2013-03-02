@@ -1,0 +1,7 @@
+#598537 +(524)- [X]
+<greycat> 95% of the time, ssh key authentication problems are caused by incorrect permissions on the server side.
+<greycat> the other 5%, it's misspelling of ~/.ssh/authorized_keys
+<p0ts> yes
+<p0ts> it worked
+<p0ts> my private key wasnt where it was supposed to be
+* greycat adjusts the odds.  94% of the time, server-side directory perms.  5%, misspelling.  1%, user moved the files around for no good reason.

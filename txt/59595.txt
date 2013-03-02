@@ -1,0 +1,8 @@
+#59595 +(297)- [X]
+<chris> i have one guy arguing that init.d scripts need to support mixed-case arguments
+<chris> "My first suggestion is to modify the way you match 'start' and 'stop' in
+<chris> your case statement.  While technically, there is nothing wrong with the
+<chris> way you match it, I prefer [Ss][Tt][Aa][Rr][Tt] and [Ss][Tt][Oo][Pp].  Using
+<chris> this method, the matching is now case insensitive."
+<reflector> I'd email him back: "[sS][hH][uU][tT] [tT][hH][eE] [fF][uU][cC][kK] [uU][Pp]"
+<reflector> match that, asshole.

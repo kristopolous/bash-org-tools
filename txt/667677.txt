@@ -1,0 +1,3 @@
+#667677 +(272)- [X]
+<@kazin> why does php have 'echo' and 'print'?  Do they do different things?
+<Bluefoxicy> kazin:  echo prints in a big empty room.

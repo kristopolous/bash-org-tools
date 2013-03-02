@@ -1,0 +1,5 @@
+#22301 +(533)- [X]
+<maddox> You know what I hate?  Programs that pretend like they're sentient beings.  Ftp daemons are the worst.. you type "bye" and it responds: "221 bye bye".. or your login fails and you execute a command, it says "log in first, then I might let you do that."  Yeah?  Well echo "fuck you" > /usr/bin/ftp
+<professor> hahaha.
+<maddox> "bzip2: I won't write compressed data to a terminal."
+<maddox> no, "you" won't write anything because you can't.  You're a piece of shit binary written by a lonely programmer who has seen 2001 too many fucking times.

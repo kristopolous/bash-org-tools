@@ -1,0 +1,2 @@
+#89254 +(18)- [X]
+* edhel_espyn does not know about computer types/names/models, whatever. just knows that if box has a keyboard, brain automatically registers to senses and say "com-pyoo-ter" ;-P

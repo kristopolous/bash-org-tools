@@ -1,0 +1,16 @@
+#84306 +(-25)- [X]
+<j0ori> who's a decent shell provider?
+<Nadir> your mother
+<Nadir> i "telnetted" into her "ftp" last night
+<Nadir> mwaha, being subtle rocks.
+* Mode: (+b) *!*@vw4800.optusnet.com.au (By: j0ori) (Match: Nadir)
+* You were kicked from #hackers by Dumb (Banned)
+-> -j0ori- mwaha. i must admit, she is fairly "lag free". good thing i was using "SSH" - you can never have too much protection from "virii" these days.
+-> -j0ori- and when she reached "/root"? ohhh, that explosion sent thousands of files to "/dev/null" as i proceeded to "upload" 100000000000 "1 byte files made in vi"
+-> -j0ori- took a fair bit of kleenex to "purge /root of the unused files" though
+-> -j0ori- oh, tell her that her 5 cents is on the fridge too
+-> -j0ori- we didnt really talk much .. she was too busy screaming
+-> -j0ori- allow me to impersonate
+-> -j0ori- <j0oris's mum> OHHHHHHHHH NADIR HARDER, OHHHHH YES, MORRRRRRREEEEEEE, AIEEEEEEEEEEEEEEEEEEEEEEE
+-> -j0ori- *gasms*
+-> -j0ori- i shudder at the thought.. 'twill be nice "logging back in" under "root" tonight.

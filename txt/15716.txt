@@ -1,0 +1,7 @@
+#15716 +(115)- [X]
+* dpk looks through older messages from af.mil
+<dpk> From: TinkerARSMail <TinkerARSMail@tinker.af.mil>
+<dpk> Subject: Help Desk Ticket Open Notice
+<dpk> Ticket Number TER000000000033, has been "Opened" for problem: OPERATOR
+<dpk> ERROR..USER IS MORON...///ABC by the Help Desk.
+<dpk> yeah, i checked the headers.. definitely from af.mil

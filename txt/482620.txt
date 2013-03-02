@@ -1,0 +1,4 @@
+#482620 +(706)- [X]
+sigmaflare: So there's this app for my phone called 'torch'
+sigmaflare: It just makes the screen white so you can use it as a flashlight.
+sigmaflare: And that got me thinking... I wonder why nobody has made an app that just makes the phone constantly vibrate.

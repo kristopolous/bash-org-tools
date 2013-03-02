@@ -1,0 +1,29 @@
+#13213 +(7635)- [X]
+<Spazz> Seems like when I say "FUCK" you get an EOF error  :o
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Bartolimis> fuck
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Bartolimis> fuck
+<Spazz> fuck
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Spazz> fuck
+<Bartolimis> stop
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Bartolimis> we're done >:)
+<Ranto> hmh?
+<Spazz> Your client got an error...
+<Bartolimis> yeah, we're done saying fuck
+<Spazz> everytime we said f***
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Spazz> Quit saying fukc
+<Bartolimis> my bad
+<Spazz> fuck*
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Icc> Someone says fuck and he drops ?
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)

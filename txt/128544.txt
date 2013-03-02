@@ -1,0 +1,9 @@
+#128544 +(1037)- [X]
+<xanesly> my husband and I felt stupid standing in the yard with dog saying "go potty! time to go potty!" in that dorky voice you use to talk to dogs and babies
+<xanesly> (and some foreigners)
+<xanesly> so we decided to use STDOUT instead
+<fwoom> rofl
+<xanesly> so we stand outside chirping "standardout! standardout!"
+<xanesly> which has made it that whenever *we* need to go to the bathroom we refer to it as STDOUT
+<xanesly> and when the dog has an accident, STDERR
+<xanesly> sometimes I make myself sad.

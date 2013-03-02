@@ -1,0 +1,8 @@
+#660278 +(676)- [X]
+<Ethereal Souls> it gave me the "explorer.exe has generated errors"
+<Ethereal Souls> BUT IT'S OK
+<Ethereal Souls> An error log was created
+<Ethereal Souls> which will be in Hex and tell me EVERYTHING I NEED TO KNOW
+<Frag> Because, of course, you know EXACTLY what Windows stores in memory slot E35BA9564F
+<Ethereal Souls> yeah
+<Ethereal Souls> that's the line about it buttfucking me

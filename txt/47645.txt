@@ -1,0 +1,4 @@
+#47645 +(274)- [X]
+<SvenN00B> i have a script that'll msg me and tell me when people mention my name in rooms and stuff
+<SvenN00B> so i mentioned my own name and now it's in an endless loop telling me that SvenN00B mentioned my name and .. yeah .. it keeps on going :P
+*** SvenN00B has quit (Remote closed the connection)

@@ -1,0 +1,5 @@
+#564197 +(416)- [X]
+<+host> finally, I got some good help in #debian in freenode
+<+host> and another lesson learned
+<+host> I will never let someone ssh to my computer to upgrade it
+<+host> again

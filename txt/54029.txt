@@ -1,0 +1,4 @@
+#54029 +(351)- [X]
+<Torontoye> Hi guys,. i have a P90 24mg Ram,.I would like to make it a gateway,. how much Swap space should i give it??
+<afterstep> Torontoye: 24 milligrams of ram?
+<afterstep> oh, i'd say about an ounce or so of swap.

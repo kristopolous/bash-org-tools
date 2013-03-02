@@ -1,0 +1,9 @@
+#126428 +(1108)- [X]
+<ZiggyPopFoo> does anyone know how to install OpenBSD i hav ti on disk and i cna load it and everyhtin but i dunno how to install it properly without wiping over windows, plz help lz?
+<notick> buy a unix help manual.
+<ZiggyPopFoo> i dont have unix in have openbsd u fucking def bastard.
+<notick> oh, my bad! (idiot)
+*ZiggyPopFoo forgives notick
+<ZiggyPopFoo> dont worry i have had nowledge about openbsd for yers its just open bsd is the hardest one of them all, ull learn as mich about as i know some day.
+<notick> Shower me with your god-like wisdom, ZPF
+<ZiggyPopFoo> wisdom??? I HAVE OPENBSD!!!!

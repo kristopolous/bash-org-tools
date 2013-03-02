@@ -1,0 +1,5 @@
+#6618 +(722)- [X]
+<Jon^D> I had to cat 8-9 seperate quote files, compare each line in each of them to make sure there weren't any duplicates then sort
+<Jon^D> I wrote a nasty perl script to get it donw
+<Jon^D> and it didn't work very well
+<skank> cat quote*.txt |sort |uniq

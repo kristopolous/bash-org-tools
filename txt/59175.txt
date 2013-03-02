@@ -1,0 +1,3 @@
+#59175 +(155)- [X]
+<MudBlud> when i do cp mIRC /home/mudblud/mirc why does it say ommitting: mIRC
+<Cheez> because using mirc on *nix is a sin
