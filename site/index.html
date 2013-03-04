@@ -1,0 +1,66 @@
+<!doctype html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Fenix' rel='stylesheet' type='text/css'>
+  <script src=quote-list.js></script>
+  <script src=jsrand.js></script>
+  <script src=jquery.js></script>
+  <style>
+    body {
+      margin:8em;
+      background: #334;
+    }
+    p { 
+      margin: 0 0 0.20em 0;
+    }
+    div {
+      position:absolute;
+      top: 2em;
+      left: 2em;
+      font-family: 'Fenix', serif;
+      font-size:3em;
+      line-height:1.08em;
+      width: 80%;
+      color: #cdc;
+    }
+    #quote1 { 
+      color: #ccd;
+    }
+    a { position: absolute;
+      top: 0;
+      left: 0;
+      color: #eef;
+    }
+  </style>
+</head>
+<body>
+  <a id="link"></a>
+  <div id="quote0"></div>
+  <div id="quote1"></div>
+</body>
+
+<script>
+  var gen = new Random.PRNG(), which = 0;
+  gen.seed(+new Date());
+  gen.shuffle(idList);
+  function nextQuote(){
+    var id = idList[which % idList.length];
+    $.getJSON("api.php?id=" + id, function(data) {
+      
+      console.log(data);
+      var 
+        quote = data.quote,
+        wordcount = quote.split(/\s/).length;
+
+      $("#quote" + (which % 2)).fadeOut(2000);
+      which++;
+      $("#quote" + (which % 2)).html(data.quote).fadeIn(2000, function(){
+        setTimeout(nextQuote, 500 + wordcount * 200);
+      });
+
+      $("#link").html("http://bash.org/?" + id).attr("href", "http://bash.org/?" + id);
+
+    });
+  }
+
+  $(document).ready(nextQuote);
+</script>
