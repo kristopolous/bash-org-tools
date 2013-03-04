@@ -25,6 +25,6 @@ in tools/ there is
 
  * a program that creates an SQLite3 database out of the quotes
  * a script that creates a fortune(6) database from this database with a minimum threshhold.
+ * in site/ there's a php script that does a web-collage like transition of qhotes. Looookk:
 
-In fortune/ this database is there.
-
+<img src=http://i.imgur.com/x5Hw9cu.png>
